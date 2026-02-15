@@ -1,0 +1,57 @@
+{
+  "sources": [
+    {
+      "name": "KiloCode",
+      "url": "https://blog.kilo.ai/",
+      "rss": "https://blog.kilo.ai/feed",
+      "description": "Official KiloCode blog - AI coding platform updates",
+      "max_articles": 20
+    },
+    {
+      "name": "Kiro",
+      "url": "https://kiro.dev/blog/",
+      "rss": null,
+      "scrape_type": "html",
+      "description": "Kiro.dev engineering blog - No RSS available",
+      "max_articles": 10
+    },
+    {
+      "name": "Google Cloud",
+      "url": "https://cloud.google.com/blog/",
+      "rss": null,
+      "scrape_type": "html",
+      "description": "Google Cloud Platform blog - No RSS available",
+      "max_articles": 20
+    },
+    {
+      "name": "Claude",
+      "url": "https://www.anthropic.com/news",
+      "rss": null,
+      "scrape_type": "html",
+      "description": "Anthropic/Claude news and updates",
+      "max_articles": 10
+    },
+    {
+      "name": "Zencoder",
+      "url": "https://zencoder.ai/blog",
+      "rss": "https://zencoder.ai/blog/rss.xml",
+      "description": "Zencoder AI blog",
+      "max_articles": 15
+    },
+    {
+      "name": "HuggingFace",
+      "url": "https://huggingface.co/blog",
+      "rss": "https://huggingface.co/blog/feed.xml",
+      "description": "Hugging Face blog - ML and AI",
+      "max_articles": 20
+    },
+    {
+      "name": "Windsurf",
+      "url": "https://windsurf.com/blog",
+      "rss": null,
+      "scrape_type": "html",
+      "description": "Windsurf blog",
+      "max_articles": 10
+    }
+  ]
+}

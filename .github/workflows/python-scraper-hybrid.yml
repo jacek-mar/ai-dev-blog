@@ -1,0 +1,113 @@
+name: AI Blog Scraper - Hybrid (GitHub Actions + KiloCode Webhooks)
+
+on:
+  schedule:
+    # Run every 4 hours (6 times per day)
+    # Times: 00:00, 04:00, 08:00, 12:00, 16:00, 20:00 UTC
+    - cron: "0 */4 * * *"
+
+  # Allow manual triggering from Actions tab
+  workflow_dispatch:
+
+# Required permissions for git push
+permissions:
+  contents: write
+
+jobs:
+  scrape-enhance-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # ========================================
+      # Step 1: Environment Setup
+      # ========================================
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Full history for proper git operations
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'  # Cache pip dependencies for faster runs
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      # ========================================
+      # Step 2: Run Scraper with KiloCode AI
+      # ========================================
+      - name: Run scraper with KiloCode AI enhancement
+        env:
+          ENABLE_AI_ENHANCEMENT: "true"
+          KILO_WEBHOOK_URL: ${{ secrets.KILO_WEBHOOK_URL }}
+          KILO_WEBHOOK_SECRET: ${{ secrets.KILO_WEBHOOK_SECRET }}
+        run: |
+          echo "🔍 Starting blog scraper with AI enhancement..."
+          python scraper/scraper.py
+          echo "✅ Scraper completed successfully"
+
+      # ========================================
+      # Step 3: Generate Static Site
+      # ========================================
+      - name: Generate static site
+        run: |
+          echo "🏗️ Generating static website..."
+          python generator/site_generator.py
+          echo "✅ Site generated successfully"
+
+      # ========================================
+      # Step 4: Deploy to GitHub
+      # ========================================
+      - name: Commit and push changes
+        run: |
+          echo "📦 Preparing to deploy changes..."
+
+          # Configure git
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+
+          # Stage all generated/updated files
+          git add data/ posts/ site/ logs/ || true
+
+          # Check if there are changes to commit
+          if git diff --cached --quiet; then
+            echo "✅ No new articles found - repository is up to date"
+          else
+            # Create commit with timestamp
+            TIMESTAMP=$(date -u +'%Y-%m-%d %H:%M UTC')
+            git commit -m "🤖 Auto-update: Blog scrape at $TIMESTAMP"
+
+            # Push to repository
+            git push
+
+            echo "✅ Successfully deployed updates to GitHub"
+            echo "🌐 GitHub Pages will rebuild automatically"
+          fi
+
+      # ========================================
+      # Step 5: Generate Run Summary
+      # ========================================
+      - name: Generate run summary
+        if: always()  # Run even if previous steps fail
+        run: |
+          echo "## 📊 Scraper Run Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Run Time:** $(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "- **Schedule:** Every 4 hours (6x/day)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          if [ -f data/articles.json ]; then
+            ARTICLE_COUNT=$(jq '. | length' data/articles.json)
+            echo "- **Total Articles:** $ARTICLE_COUNT" >> $GITHUB_STEP_SUMMARY
+          fi
+
+          if [ -d site ]; then
+            HTML_COUNT=$(find site -name '*.html' | wc -l)
+            echo "- **Pages Generated:** $HTML_COUNT" >> $GITHUB_STEP_SUMMARY
+          fi
+
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Status:** ✅ Success" >> $GITHUB_STEP_SUMMARY
+          echo "- **Next Run:** $(date -u -d '+4 hours' +'%Y-%m-%d %H:%M UTC')" >> $GITHUB_STEP_SUMMARY

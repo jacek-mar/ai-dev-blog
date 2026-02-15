@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:blog.kilo.ai)",
+      "WebFetch(domain:kilo.ai)"
+    ]
+  }
+}

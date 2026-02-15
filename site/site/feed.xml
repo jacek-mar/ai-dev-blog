@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>AI Developers Blog</title>
+        <link>https://yourusername.github.io/ai-dev-blog/</link>
+        <description>Curated AI and developer news from leading sources</description>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 15 Feb 2026 00:42:39 +0000</lastBuildDate>
+        <atom:link href="https://yourusername.github.io/ai-dev-blog/feed.xml" rel="self" type="application/rss+xml"/>
+
+        <item>
+            <title>Amazon Q Developer vs. Copilot: In-Depth Comparison [2026]</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/amazon-q-developer-vs-copilot-in-depth-comparison-2026.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/amazon-q-developer-vs-copilot-in-depth-comparison-2026.html</guid>
+            <description>Sergio
+Published: January 28, 2026 · Last updated: January 28, 2026
+Are you searching for an AI coding assistant that can streamline your workflow and help you build software faster? Amazon Q Developer and GitHub Copilot are two popular tools, each offering a different vision of support for modern developers.
+In this article, we’ll explore Amazon Q Developer vs. Copilot, comparing how these AI coding assistants differ in features, integrations, and overall developer experience to help you choose</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Sergio</author>
+            <category>Zencoder</category>
+        </item>
+        <item>
+            <title>We Got Claude to Build CUDA Kernels and teach open models!</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/we-got-claude-to-build-cuda-kernels-and-teach-open-models.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/we-got-claude-to-build-cuda-kernels-and-teach-open-models.html</guid>
+            <description>The best thing about agent skills is upskilling your agents on hard problems. There are two ways to look at that:
+This blog post walks through the process of using a new tool, upskill, to generate and evaluate agent skills with large models and use them with smaller models. We will benchmark upskill on the task of writing CUDA kernels for diffusers models, but the process is generally useful for cutting costs, or using smaller models on hard and domain-specific problems.
+In case you missed it, a</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Unknown</author>
+            <category>HuggingFace</category>
+        </item>
+        <item>
+            <title>Prompt Roulette: Why Your AI Breaks After Iteration Three</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/prompt-roulette-why-your-ai-breaks-after-iteration-three.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/prompt-roulette-why-your-ai-breaks-after-iteration-three.html</guid>
+            <description>Shantanu Vishwanadha
+Published: January 21, 2026 · Last updated: January 21, 2026
+Iteration one feels like magic. You describe a feature, the model delivers something believable, and you think: &quot;We&apos;re so back.&quot;
+Iteration two is usually fine. A tweak here, an edge case there.
+Then iteration three hits.
+The model changes unrelated files.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>shantanu.vishwanadha@forgood.ai (Shantanu Vishwanadha)</author>
+            <category>Zencoder</category>
+        </item>
+        <item>
+            <title>AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/assetopsbench-bridging-the-gap-between-ai-agent-benchmarks-and-industrial-reality.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/assetopsbench-bridging-the-gap-between-ai-agent-benchmarks-and-industrial-reality.html</guid>
+            <description>AssetOpsBench is a comprehensive benchmark and evaluation system with six qualitative dimensions that bridges the gap for agentic AI in domain-specific settings, starting with industrial Asset Lifecycle Management.
+While existing AI benchmarks excel at isolated tasks such as coding or web navigation, they often fail to capture the complexity of real-world industrial operations. To bridge this gap, we introduce AssetOpsBench, a framework specifically designed to evaluate agent performance across </description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Unknown</author>
+            <category>HuggingFace</category>
+        </item>
+        <item>
+            <title>The Secret is Out: Pony Alpha is GLM-5 (And It’s Free in Kilo)</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/the-secret-is-out-pony-alpha-is-glm-5-and-its-free-in-kilo.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/the-secret-is-out-pony-alpha-is-glm-5-and-its-free-in-kilo.html</guid>
+            <description>For the past few weeks, the AI world has been buzzing about a “stealth” model appearing in the wild. Known only as Pony Alpha, this mystery model has been crushing coding benchmarks and showing off “deep-thinking” reasoning capabilities that rival the biggest names in the industry.
+Reddit has been losing its mind. Ponies have been galloping.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Ari</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>Inside Kilo Speed: How One Engineer Built Cloud Agents in a Week</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/inside-kilo-speed-how-one-engineer-built-cloud-agents-in-a-week.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/inside-kilo-speed-how-one-engineer-built-cloud-agents-in-a-week.html</guid>
+            <description>Infrastructure projects—the “plumbing” that other features rely on—are usually weighed down by months of architectural vetting and manual configuration.
+But for Florian Hines, building the foundation for Kilo’s most advanced tools was a sprint. Joining Kilo as a platform-focused engineer, Florian shipped the first iteration of Kilo’s Cloud Agents—the remote sandbox underpinning features like the App Builder and Slackbot—during his first focus week.
+Here’s a peek inside Florian’s toolkit and work</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Rebecca Dodd</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/nemotron-colembed-v2-raising-the-bar-for-multimodal-retrieval-with-vidore-v3s-top-model.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/nemotron-colembed-v2-raising-the-bar-for-multimodal-retrieval-with-vidore-v3s-top-model.html</guid>
+            <description>Modern search systems are increasingly designed to process heterogeneous document images that may contain text, tables, charts, figures, and other visual components. In this context, accurately retrieving relevant information across these diverse modalities is a central challenge. Multimodal embedding models built on top of foundational vision–language models (VLMs) map diverse content types into a shared representation space, enabling unified retrieval over text, images, and structured visual e</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Unknown</author>
+            <category>HuggingFace</category>
+        </item>
+        <item>
+            <title>Announcing the Kilo League</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/announcing-the-kilo-league.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/announcing-the-kilo-league.html</guid>
+            <description>TL;DR: Kilo is hosting weekly, virtual challenges throughout the year that will culminate in a grand prize of $50,000.
+The first challenge, where top prize gets $500 in Kilo Credits, is live here:
+Join the Challenge
+We are thrilled to announce the launch of Kilo League—a year-long competition to push the boundaries of what&apos;s possible with AI coding agents.
+Remember when hackathons weren’t all the same?
+And remember when you felt that rush of using technology that is truly new and ahead of t</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Brian Turcotte</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>Community Evals: Because we&apos;re done trusting black-box leaderboards over the community</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/community-evals-because-were-done-trusting-black-box-leaderboards-over-the-community.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/community-evals-because-were-done-trusting-black-box-leaderboards-over-the-community.html</guid>
+            <description>TL;DR: Benchmark datasets on Hugging Face can now host leaderboards. Models store their own eval scores. Everything links together.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Unknown</author>
+            <category>HuggingFace</category>
+        </item>
+        <item>
+            <title>Architectural Choices in China&apos;s Open-Source AI Ecosystem: Building Beyond DeepSeek</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/architectural-choices-in-chinas-open-source-ai-ecosystem-building-beyond-deepseek.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/architectural-choices-in-chinas-open-source-ai-ecosystem-building-beyond-deepseek.html</guid>
+            <description>This is the second blog in a three-part series on China&apos;s open source community&apos;s historical advancements since January 2025&apos;s &quot;DeepSeek Moment.&quot; The first blog is available here, and the third blog is available here.
+In this second piece we turn our focus from models to the architectural and hardware choices Chinese companies have made as openness becomes the norm.
+For AI researchers and developers contributing to and relying on the open source ecosystem and for policym</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Unknown</author>
+            <category>HuggingFace</category>
+        </item>
+        <item>
+            <title>Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/alyah-toward-robust-evaluation-of-emirati-dialect-capabilities-in-arabic-llms.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/alyah-toward-robust-evaluation-of-emirati-dialect-capabilities-in-arabic-llms.html</guid>
+            <description>📦 Dataset on HuggingFace  |
+🔧 Code on GitHub
+Arabic is one of the most widely spoken languages in the world, with hundreds of millions of speakers across more than twenty countries. Despite this global reach, Arabic is not a monolithic language. Modern Standard Arabic coexists with a rich landscape of regional dialects that differ significantly in vocabulary, syntax, phonology, and cultural grounding.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Unknown</author>
+            <category>HuggingFace</category>
+        </item>
+        <item>
+            <title>Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/unlocking-agentic-rl-training-for-gpt-oss-a-practical-retrospective.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/unlocking-agentic-rl-training-for-gpt-oss-a-practical-retrospective.html</guid>
+            <description>Agentic reinforcement learning (RL) extends traditional LLM training by optimizing not just a single-turn response, but an entire decision-making process learned through direct interaction with an environment during training. Unlike traditional single-turn reinforcement learning or offline preference-based methods that rely on static datasets, agentic RL trains policies by actively collecting on-policy data as the agent plans actions, invokes tools, observes outcomes, and adapts its behavior ove</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Unknown</author>
+            <category>HuggingFace</category>
+        </item>
+        <item>
+            <title>One Year Since the “DeepSeek Moment”</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/one-year-since-the-deepseek-moment.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/one-year-since-the-deepseek-moment.html</guid>
+            <description>This is the first blog in a series that will examine China’s open source community’s historical advancements in the past year and its reverberations in shaping the entire ecosystem. Much of 2025’s progress can be traced back to January’s “DeepSeek Moment”, when Hangzhou-based AI company DeepSeek released their R-1 model.
+The first blog addresses strategic changes and the explosion of new open models and open source players.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Unknown</author>
+            <category>HuggingFace</category>
+        </item>
+        <item>
+            <title>Differential Transformer V2</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/differential-transformer-v2.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/differential-transformer-v2.html</guid>
+            <description>Tianzhu Ye, Li Dong, Yutao Sun, Furu Wei
+Github Link
+Notion Link (for better readability)
+We introduce Differential Transformer V2 (DIFF V2), an improved version of Differential Transformer (DIFF V1). This revision focuses on inference efficiency, training stability for production-level LLMs, and architectural elegance.
+Key improvements:
+We conduct pretraining experiments on production-scale LLMs, including dense models and a 30A3 MoE on trillions of tokens using large learning rate of 6e-4 to 1</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Unknown</author>
+            <category>HuggingFace</category>
+        </item>
+        <item>
+            <title>Introducing Waypoint-1: Real-time interactive video diffusion from Overworld</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/introducing-waypoint-1-real-time-interactive-video-diffusion-from-overworld.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/introducing-waypoint-1-real-time-interactive-video-diffusion-from-overworld.html</guid>
+            <description>Overworld Stream: https://overworld.stream
+Waypoint-1 is Overworld’s real-time-interactive video diffusion model, controllable and prompted via text, mouse, and keyboard. You can give the model some frames, run the model, and have it create a world you can step into and interact with.
+The backbone of the model is a frame-causal rectified flow transformer trained on 10,000 hours of diverse video game footage paired with control inputs and text captions.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Unknown</author>
+            <category>HuggingFace</category>
+        </item>
+        <item>
+            <title>What We Learned from a Week of Free Kimi K2.5</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/what-we-learned-from-a-week-of-free-kimi-k25.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/what-we-learned-from-a-week-of-free-kimi-k25.html</guid>
+            <description>Last week, to celebrate the release of Kimi K2.5, we made it totally free in Kilo Code for a full week. The response? Let’s just say that AI never sleeps. Developers were hungry to put the model to the test, using it across modes and tasks in Kilo.
+Overall, Kilo Coders loved the model.
+But there were also some unexpected findings in terms of speed, cost, and performance.
+Within hours of launch, usage numbers told a clear story: developers were eager to test Kimi K2.5’s capabilities.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Ari</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>9 Best Sourcegraph Cody AI Alternatives to Consider in 2026</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/9-best-sourcegraph-cody-ai-alternatives-to-consider-in-2026.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/9-best-sourcegraph-cody-ai-alternatives-to-consider-in-2026.html</guid>
+            <description>Sergio
+Published: February 03, 2026 · Last updated: February 03, 2026
+Looking for AI coding assistants that go beyond what Sourcegraph Cody offers in 2026? While Cody is known for its deep codebase awareness and tight IDE integrations, many developers report drawbacks, including slow, character-by-character responses, lost context between sessions, and outputs that feel inaccurate or unhelpful for complex tasks.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Sergio</author>
+            <category>Zencoder</category>
+        </item>
+        <item>
+            <title>Agentic AI vs. Generative AI: Key Differences Explained</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/agentic-ai-vs-generative-ai-key-differences-explained.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/agentic-ai-vs-generative-ai-key-differences-explained.html</guid>
+            <description>Sergio
+Published: February 03, 2026 · Last updated: February 03, 2026
+As the use of AI continues to grow, it’s becoming clear that not all AI systems are designed to function the same way. While agentic AI and generative AI are often grouped together, they serve very different purposes. From the way they operate to their decision-making processes, these two approaches reflect fundamentally different AI capabilities.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Sergio</author>
+            <category>Zencoder</category>
+        </item>
+        <item>
+            <title>H Company&apos;s new Holo2 model takes the lead in UI Localization</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/h-companys-new-holo2-model-takes-the-lead-in-ui-localization.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/h-companys-new-holo2-model-takes-the-lead-in-ui-localization.html</guid>
+            <description>Two months since releasing our first batch of Holo2 models, H Company is back with our largest UI localization model yet: Holo2-235B-A22B Preview. This model achieves a new State-of-the-Art (SOTA) record of 78.5% on Screenspot-Pro and 79.0% on OSWorld G.
+Available on Hugging Face, Holo2-235B-A22B Preview is a research release focused on UI element localization.
+Agentic Localization
+High-resolution 4K interfaces are challenging for localization models.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Unknown</author>
+            <category>HuggingFace</category>
+        </item>
+        <item>
+            <title>The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/the-future-of-the-global-open-source-ai-ecosystem-from-deepseek-to-ai.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/the-future-of-the-global-open-source-ai-ecosystem-from-deepseek-to-ai.html</guid>
+            <description>This is the third and final blog in a three-part series on China&apos;s open source community&apos;s historical advancements since January 2025&apos;s &quot;DeepSeek Moment.&quot; The first blog on strategic changes and open artifact growth is available here, and the second blog on architectural and hardware shifts is available here.
+In this third article, we examine paths and trajectories of prominent Chinese AI organizations, and posit future directions for open source.
+For AI researchers and </description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Unknown</author>
+            <category>HuggingFace</category>
+        </item>
+        <item>
+            <title>Kilo CLI 1.0: Built for Kilo Speed</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/kilo-cli-10-built-for-kilo-speed.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/kilo-cli-10-built-for-kilo-speed.html</guid>
+            <description>We’ve spent the last year building the best VS Code extension for agentic engineering. A million downloads later, we’ve learned how important an end-to-end experience is. Developers don’t live in one tool.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Scott Breitenother</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>Training Design for Text-to-Image Models: Lessons from Ablations</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/training-design-for-text-to-image-models-lessons-from-ablations.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/training-design-for-text-to-image-models-lessons-from-ablations.html</guid>
+            <description>Welcome back! This is the second part of our series on training efficient text-to-image models from scratch.
+In the first post of this series, we introduced our goal: training a competitive text-to-image foundation model entirely from scratch, in the open, and at scale. We focused primarily on architectural choices and motivated the core design decisions behind our model PRX.
+We also released an early, small (1.2B parameters) version of the model as a preview of what we are building (go try it i</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Unknown</author>
+            <category>HuggingFace</category>
+        </item>
+        <item>
+            <title>Kilo Code Weekly Product Roundup | Feb 2, 2025</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/kilo-code-weekly-product-roundup-feb-2-2025.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/kilo-code-weekly-product-roundup-feb-2-2025.html</guid>
+            <description>Welcome back to the weekly product roundup! This week introduces Local Code Reviews directly in your IDE, support for ChatGPT Plus/Pro subscriptions, a streamlined onboarding experience, and a substantial upstream sync from Roo Code with native tool calling improvements across providers.
+Fresh off hitting #1 Product of the Day on Product Hunt, we’ve brought Code Reviewer directly into your editor with the new Review mode.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Brian Turcotte</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>Introducing Daggr: Chain apps programmatically, inspect visually</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/introducing-daggr-chain-apps-programmatically-inspect-visually.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/introducing-daggr-chain-apps-programmatically-inspect-visually.html</guid>
+            <description>TL;DR: Daggr is a new, open-source Python library for building AI workflows that connect Gradio apps, ML models, and custom functions. It automatically generates a visual canvas where you can inspect intermediate outputs, rerun individual steps, and manage state for complex pipelines, all in a few lines of Python code!
+If you&apos;ve built AI applications that combine multiple models or processing steps, you know the pain: chaining API calls, debugging pipelines, and losing track of intermediate</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Unknown</author>
+            <category>HuggingFace</category>
+        </item>
+        <item>
+            <title>Open Responses: What you need to know</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/open-responses-what-you-need-to-know.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/open-responses-what-you-need-to-know.html</guid>
+            <description>Open Responses is a new and open inference standard. Initiated by OpenAI, built by the open source AI community, and backed by the Hugging Face ecosystem, Open Responses is based on the Responses API and is designed for the future of Agents. In this blog post, we’ll look at how Open Responses works and why the open source community should use Open Responses.
+The era of the chatbot is long gone, and agents dominate inference workloads.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Unknown</author>
+            <category>HuggingFace</category>
+        </item>
+        <item>
+            <title>MiniMax M2.5 is Here, and it&apos;s Free in Kilo for a Week</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/minimax-m25-is-here-and-its-free-in-kilo-for-a-week.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/minimax-m25-is-here-and-its-free-in-kilo-for-a-week.html</guid>
+            <description>We started Kilo Code with a simple mission: give every developer the world’s most powerful tools without the “frontier tax.” Today, we’re taking our biggest leap yet.
+We are thrilled to announce that MiniMax’s hotly anticipated new model, MiniMax M2.5 is live on Kilo Code.
+Not only is this a breathtaking new model from a top international lab, but we are making it completely free for all Kilo users for the first week.
+Remember when we made M2.1 free for Kilo for Slack?
+This is bigger.
+Much bigge</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Ari</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>AI Agent Survival Guide, Part 4: Your Agent Army Awaits</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/ai-agent-survival-guide-part-4-your-agent-army-awaits.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/ai-agent-survival-guide-part-4-your-agent-army-awaits.html</guid>
+            <description>Andrew Filev
+Published: February 12, 2026 · Last updated: February 12, 2026
+This is Part 4 of a four-part series.
+In Parts 1–3, we built a security foundation: automated scanning for repos, MCP servers, and skills before they touch your machine. This post is about what comes next: putting all your AI agents to work together.
+Here&apos;s something that&apos;s true for most serious developers in 2026 but nobody talks about: you&apos;re probably paying for two or three AI subscriptions, eg Anthropi</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Andrew Filev</author>
+            <category>Zencoder</category>
+        </item>
+        <item>
+            <title>AI Agent Survival Guide, Part 3: That MCP Server You Just Installed</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/ai-agent-survival-guide-part-3-that-mcp-server-you-just-installed.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/ai-agent-survival-guide-part-3-that-mcp-server-you-just-installed.html</guid>
+            <description>Andrew Filev
+Published: February 12, 2026 · Last updated: February 12, 2026
+This is Part 3 of a four-part series.
+In Part 1, we built an automated gate for scanning public repos before cloning them. In Part 2, we audited a real tool and discovered the structural vulnerability that affects every AI agent reading untrusted content.
+This post is about a different attack surface: the things you install that your agent then calls autonomously.
+When you npm install a library, it runs inside your appli</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Andrew Filev</author>
+            <category>Zencoder</category>
+        </item>
+        <item>
+            <title>AI Agent Survival Guide, Part 2: Chasing the Nine-Tailed Fox</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/ai-agent-survival-guide-part-2-chasing-the-nine-tailed-fox.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/ai-agent-survival-guide-part-2-chasing-the-nine-tailed-fox.html</guid>
+            <description>Andrew Filev
+Published: February 12, 2026 · Last updated: February 12, 2026
+This is Part 2 of a four-part series.
+In Part 1, I published a set of open-source skills that automatically scan every public repo, MCP server, or skill before you install it. Thirty seconds of your agent&apos;s time, a summary table, then you decide.
+While building those skills, I hit a recursive problem: the scanning agent reads untrusted code while holding privileged tool access — which means the scanner itself is vul</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Andrew Filev</author>
+            <category>Zencoder</category>
+        </item>
+        <item>
+            <title>AI Agent Survival Guide, Part 1: The Repo You Didn&apos;t Scan</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/ai-agent-survival-guide-part-1-the-repo-you-didnt-scan.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/ai-agent-survival-guide-part-1-the-repo-you-didnt-scan.html</guid>
+            <description>Andrew Filev
+Published: February 12, 2026 · Last updated: February 12, 2026
+This is Part 1 of a four-part series.
+This year we are going to see a steady beat of two progressing themes:
+A week doesn&apos;t pass without a new vibe-coded repo that people plug into their AI agents that have network and bash access. For some of you, this is brand new territory, so I&apos;ll try to explain as we go. Some of you may think you&apos;re already familiar with most of these, but because it&apos;s a new musc</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Andrew Filev</author>
+            <category>Zencoder</category>
+        </item>
+        <item>
+            <title>GLM-5 is free on Kilo Code/CLI (for a limited time)</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/glm-5-is-free-on-kilo-codecli-for-a-limited-time.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/glm-5-is-free-on-kilo-codecli-for-a-limited-time.html</guid>
+            <description>GLM-5 is out, and the entire internet can’t stop talking about it. The model matches Opus 4.5 on many tasks at a fraction of the cost.
+We’re making GLM-5 free on our CLI (we recently upgraded our CLI to 1.0 and forked OpenCode) and in our VS Code extension (which has over 700,000 downloads on the VS Code Marketplace).
+Download the CLI and then pick GLM 5 (free) from the list of models:
+If you’re using the VS Code extension, choose GLM 5 (free) from the model picker:
+If you want to read more abou</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Darko</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>Kilo Code Weekly Product Roundup | Feb 11, 2025</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/kilo-code-weekly-product-roundup-feb-11-2025.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/kilo-code-weekly-product-roundup-feb-11-2025.html</guid>
+            <description>Welcome back to the weekly product roundup! This week, Opus 4.6 lands across the platform, Agent Manager gets YOLO mode and inline renaming, Code Reviews gets a loading UX boost, and we pick up a handful of new models and providers.
+Anthropic’s new flagship model is live in Kilo. Opus 4.6 introduces adaptive thinking, which dynamically scales reasoning effort based on problem complexity instead of applying a fixed budget to every task.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Brian Turcotte</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/openenv-in-practice-evaluating-tool-using-agents-in-real-world-environments.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/openenv-in-practice-evaluating-tool-using-agents-in-real-world-environments.html</guid>
+            <description>AI agents often perform impressively in controlled research settings, yet struggle when deployed in real-world systems where they must reason across multiple steps, interact with real tools and APIs, operate under partial information, and recover from errors in stateful, permissioned environments—highlighting a persistent gap between research success and production reliability.
+OpenEnv is an open-source framework from Meta and Hugging Face designed to address this challenge by standardizing how </description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Unknown</author>
+            <category>HuggingFace</category>
+        </item>
+        <item>
+            <title>Opus 4.6 is Live in Kilo</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/opus-46-is-live-in-kilo.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/opus-46-is-live-in-kilo.html</guid>
+            <description>Anthropic just released Claude Opus 4.6, and it’s setting a new standard for what AI can do in production environments.
+This isn’t just an incremental update. Opus 4.6 represents Anthropic’s most significant leap in agentic capabilities to date—and it’s already live in Kilo for all users. You can even use your Kilo Pass credits to take advantage of the new Opus at a discount.
+The industry is continuing to accelerate.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Ari</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>Introducing SyGra Studio</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/introducing-sygra-studio.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/introducing-sygra-studio.html</guid>
+            <description>SyGra 2.0.0 introduces Studio, an interactive environment that turns synthetic data generation into a transparent, visual craft. Instead of juggling YAML files and terminals, you compose flows directly on the canvas, preview datasets before committing, tune prompts with inline variable hints, and watch executions stream live—all from a single pane. Under the hood it’s the same platform, so everything you do visually generates the corresponding SyGra compatible graph config and task executor scri</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Unknown</author>
+            <category>HuggingFace</category>
+        </item>
+        <item>
+            <title>How to use the MiniMax Coding Plan in Kilo Code</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/how-to-use-the-minimax-coding-plan-in-kilo-code.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/how-to-use-the-minimax-coding-plan-in-kilo-code.html</guid>
+            <description>SOTA AI coding models have come a long way in the past year. They’re more powerful than ever —but using them often means thinking about caps, quotas, and trade-offs.
+Enter the world of open weight-coding models. MiniMax is the company behind one of the most capable open-weight models on the planet (MiniMax M2.1), and it’s great for developers who care about shipping code without friction.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Darko</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>Why Our Engineers Own a Number, Not Just a Codebase</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/why-our-engineers-own-a-number-not-just-a-codebase.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/why-our-engineers-own-a-number-not-just-a-codebase.html</guid>
+            <description>I interview a lot of engineers for Kilo, and something they always want to know is why and how engineers at Kilo own a whole product area. At most companies, this would be the job of at least 2-3 people, so how can one engineer do it all?
+Most engineering orgs assign engineers to a codebase. Ship features, close tickets, repeat.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Emilie Schario</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>Kilo Claw: Hosted OpenClaw in 60 Seconds</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/kilo-claw-hosted-openclaw-in-60-seconds.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/kilo-claw-hosted-openclaw-in-60-seconds.html</guid>
+            <description>If you haven’t been paying attention to OpenClaw, now’s the time.
+In just a few months, Peter Steinberger’s open-source AI agent has become one of the fastest-growing projects in GitHub history. OpenClaw connects to 50+ chat platforms (WhatsApp, Telegram, Discord, Slack, you name it), gives your AI full system access to read files, run scripts, and control a browser, and remembers everything across sessions.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Brendan O&apos;Leary</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>7 Real Use Cases for Kilo&apos;s App Builder</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/7-real-use-cases-for-kilos-app-builder.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/7-real-use-cases-for-kilos-app-builder.html</guid>
+            <description>There’s a pattern with many vibe-coding tools. You describe something, it looks amazing for about five minutes, and then you try to do anything real with it and the whole thing falls apart. You export the code, stare at a folder structure you didn’t write, and realize you’re basically starting over.
+Kilo’s App Builder was built to break that pattern.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Brian Turcotte</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>Anthropic&apos;s Engineers Report a 50% Productivity Boost. Now What?</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/anthropics-engineers-report-a-50-productivity-boost-now-what.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/anthropics-engineers-report-a-50-productivity-boost-now-what.html</guid>
+            <description>A director at a traditional company recently told Gergely Orosz something that stuck with me: “We’re starting to rename 2-pizza teams to 1-pizza teams. With AI, large teams just no longer make sense and slows things down.”
+Amazon’s two-pizza rule has been engineering gospel for what, 20 years? If you need more than two pizzas to feed the team, the team is too big. Coordination costs eat you alive.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Brendan O&apos;Leary</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>Amp Code Is Killing Their VS Code Extension. We&apos;re Doubling Down on Ours</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/amp-code-is-killing-their-vs-code-extension-were-doubling-down-on-ours.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/amp-code-is-killing-their-vs-code-extension-were-doubling-down-on-ours.html</guid>
+            <description>On February 5, the creators of Amp Code announced that their VS Code extension will self-destruct in 60 days or less.
+The reason? All development effort is being redirected to the CLI. Amp Code thinks the future of agentic AI coding isn’t in VS Code.
+We beg to differ.
+Kilo Code is the leading open-source AI coding extension for VS Code, with over 700,000 downloads. We’ve shipped regular updates since the day we launched, and we have no plans to stop.
+While other tools are abandoning VS Code to c</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Darko</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>Transformers.js v4 Preview: Now Available on NPM!</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/transformersjs-v4-preview-now-available-on-npm.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/transformersjs-v4-preview-now-available-on-npm.html</guid>
+            <description>We&apos;re excited to announce that Transformers.js v4 (preview) is now available on NPM! After nearly a year of development (we started in March 2025 🤯), we&apos;re finally ready for you to test it out. Previously, users had to install v4 directly from source via GitHub, but now it&apos;s as simple as running a single command!
+We&apos;ll continue publishing v4 releases under the next tag on NPM until the full release, so expect regular updates!
+The biggest change is undoubtedly the adoption of </description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Unknown</author>
+            <category>HuggingFace</category>
+        </item>
+        <item>
+            <title>NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/nvidia-cosmos-reason-2-brings-advanced-reasoning-to-physical-ai.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/nvidia-cosmos-reason-2-brings-advanced-reasoning-to-physical-ai.html</guid>
+            <description>NVIDIA today released Cosmos Reason 2, the latest advancement in open, reasoning vision language models for physical AI. Cosmos Reason 2 surpasses its previous version in accuracy and tops the Physical AI Bench and Physical Reasoning leaderboards as the #1 open model for visual understanding.
+Since their introduction, vision-language models have rapidly improved at tasks like object and pattern recognition in images.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Unknown</author>
+            <category>HuggingFace</category>
+        </item>
+        <item>
+            <title>Why We&apos;re Making Kilo’s Gateway and Cloud Backend Source-Available</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/why-were-making-kilos-gateway-and-cloud-backend-source-available.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/why-were-making-kilos-gateway-and-cloud-backend-source-available.html</guid>
+            <description>On February 6, 2026, we’ll release the source code for Kilo Gateway and our Cloud backend infrastructure on GitHub under our Kilo-Org. This has been part of our roadmap from the beginning, and we’re six days away from shipping it.
+Most AI coding platforms operate as black boxes. You send a prompt, get code back, and everything in between stays hidden.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Brendan O&apos;Leary</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>Beyond Benchmarks: Practical Model Experimentation with Parallel Execution</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/beyond-benchmarks-practical-model-experimentation-with-parallel-execution.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/beyond-benchmarks-practical-model-experimentation-with-parallel-execution.html</guid>
+            <description>Leon Malisov
+Published: January 30, 2026 · Last updated: January 30, 2026
+Model selection is more fluid than it used to be. Developers who work with LLMs tend to revisit their choices frequently, sometimes weekly, as new releases shift the decision and as different tasks reveal different model strengths. The process involves some combination of reading benchmarks, testing against real workflows, following what peers are using, and developing intuitions through direct experience.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Leon Malisov</author>
+            <category>Zencoder</category>
+        </item>
+        <item>
+            <title>How I Claw - OpenClaw as my Intern</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/how-i-claw---openclaw-as-my-intern.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/how-i-claw---openclaw-as-my-intern.html</guid>
+            <description>Everyone’s excited about OpenClaw. The security implications are real. People are buying Mac minis to run it, giving an autonomous agent unfiltered access to their accounts, SSH keys, passwords — their whole life.
+OpenClaw’s value does come from accessing your email, calendar, and messages.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Brendan O&apos;Leary</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>How to Use NVIDIA NIM + Kilo Code to Access Kimi K2.5 and Dozens of Free Models</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/how-to-use-nvidia-nim-kilo-code-to-access-kimi-k25-and-dozens-of-free-models.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/how-to-use-nvidia-nim-kilo-code-to-access-kimi-k25-and-dozens-of-free-models.html</guid>
+            <description>Did you know: NVIDIA has a generous free tier that allows you to use models like Kimi K2.5 at no cost.
+In this tutorial, we’ll walk through how to use NVIDIA’s Build platform + Kilo Code to get free access to Kimi K2.5.
+Install the Kilo Code extension
+Sign up for an NVIDIA Build account.
+If you don’t see a “Sign Up” screen, click “Sign In,” enter your email address, and the platform will automatically redirect you to a “Create Your Account” page..
+After signing up, you’ll need to verify your pho</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Darko</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>Custom Kernels for All from Codex and Claude</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/custom-kernels-for-all-from-codex-and-claude.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/custom-kernels-for-all-from-codex-and-claude.html</guid>
+            <description>tl;dr: We built an agent skill that teaches coding agents how to write production CUDA kernels. Then we pointed Claude and Codex at two real targets: a diffusers pipeline and a transformers model. The agents produced working kernels for both, with correct PyTorch bindings and benchmarks, end to end.
+Writing CUDA kernels is hard.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Unknown</author>
+            <category>HuggingFace</category>
+        </item>
+        <item>
+            <title>Announcing a Deep-Thinking New Stealth Model, Free in Kilo Code</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/announcing-a-deep-thinking-new-stealth-model-free-in-kilo-code.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/announcing-a-deep-thinking-new-stealth-model-free-in-kilo-code.html</guid>
+            <description>We’re excited to announce a powerful new stealth model from one of our most popular lab partners—and it’s totally free to use in Kilo Code. They’re calling it Pony Alpha, and it’s available wherever you use Kilo.
+It feel like large language models (LLMs) have come further in the past two weeks than in the past two years. And Pony Alpha, a new 200k context model, is a part of that evolution.
+As the model landscape heats up, one thing is certain: speed is a big part of the trifecta of cost, speed,</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>Ari</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>AI-first software engineering: how the discipline is being reshaped</title>
+            <link>https://yourusername.github.io/ai-dev-blog/posts/ai-first-software-engineering-how-the-discipline-is-being-reshaped.html</link>
+            <guid>https://yourusername.github.io/ai-dev-blog/posts/ai-first-software-engineering-how-the-discipline-is-being-reshaped.html</guid>
+            <description>Neeraj
+Published: February 06, 2026 · Last updated: February 06, 2026
+Software engineering is becoming the first domain where artificial intelligence is not just an assistive technology, but a structural force. While debates continue around transparency, trust, and environmental cost, one pattern is already clear across industries: AI adoption is moving fastest and deepest inside software delivery itself.
+This is not simply because developers are early adopters.</description>
+            <pubDate>Sun, 15 Feb 2026 00:42:39 +0000</pubDate>
+            <author>neeraj.khandelwal@forgood.ai (Neeraj)</author>
+            <category>Zencoder</category>
+        </item>
+    </channel>
+</rss>
