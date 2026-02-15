@@ -1,0 +1,821 @@
+[
+  {
+    "title": "How I Claw - OpenClaw as my Intern",
+    "link": "https://blog.kilo.ai/p/open-claw-is-my-intern",
+    "published": "Fri, 13 Feb 2026 19:26:28 GMT",
+    "author": "Brendan O'Leary",
+    "source": "KiloCode",
+    "summary": "Everyone’s excited about OpenClaw. The security implications are real. People are buying Mac minis to run it, giving an autonomous agent unfiltered access to their accounts, SSH keys, passwords — their whole life. OpenClaw’s value does come from accessing your email, calendar, and messages. But I think you can get most of the value without handing over the keys to your life.",
+    "download_date": "2026-02-15T12:38:11.183571+00:00"
+  },
+  {
+    "title": "How to Use NVIDIA NIM + Kilo Code to Access Kimi K2.5 and Dozens of Free Models",
+    "link": "https://blog.kilo.ai/p/nvidia-nim-kilo-code-free-kimi-k25",
+    "published": "Fri, 13 Feb 2026 11:48:24 GMT",
+    "author": "Darko",
+    "source": "KiloCode",
+    "summary": "Did you know: NVIDIA has a generous free tier that allows you to use models like Kimi K2.5 at no cost. In this tutorial, we’ll walk through how to use NVIDIA’s Build platform + Kilo Code to get free access to Kimi K2.5. Install the Kilo Code extension Sign up for an NVIDIA Build account.",
+    "download_date": "2026-02-15T12:38:11.293349+00:00"
+  },
+  {
+    "title": "MiniMax M2.5 is Here, and it's Free in Kilo for a Week",
+    "link": "https://blog.kilo.ai/p/minimax-m25-is-here-and-its-free",
+    "published": "Thu, 12 Feb 2026 15:31:51 GMT",
+    "author": "Ari",
+    "source": "KiloCode",
+    "summary": "We started Kilo Code with a simple mission: give every developer the world’s most powerful tools without the “frontier tax.” Today, we’re taking our biggest leap yet. We are thrilled to announce that MiniMax’s hotly anticipated new model, MiniMax M2.5 is live on Kilo Code.",
+    "download_date": "2026-02-15T12:38:11.390216+00:00"
+  },
+  {
+    "title": "GLM-5 is free on Kilo Code/CLI (for a limited time)",
+    "link": "https://blog.kilo.ai/p/glm-5-free-limited-time",
+    "published": "Thu, 12 Feb 2026 10:29:45 GMT",
+    "author": "Darko",
+    "source": "KiloCode",
+    "summary": "GLM-5 is out, and the entire internet can’t stop talking about it. The model matches Opus 4.5 on many tasks at a fraction of the cost. We’re making GLM-5 free on our CLI (we recently upgraded our CLI to 1.0 and forked OpenCode) and in our VS Code extension (which has over 700,000 downloads on the VS Code Marketplace).",
+    "download_date": "2026-02-15T12:38:11.647085+00:00"
+  },
+  {
+    "title": "Kilo Code Weekly Product Roundup | Feb 11, 2025",
+    "link": "https://blog.kilo.ai/p/kilo-code-weekly-product-roundup-155",
+    "published": "Thu, 12 Feb 2026 04:23:21 GMT",
+    "author": "Brian Turcotte",
+    "source": "KiloCode",
+    "summary": "Welcome back to the weekly product roundup! This week, Opus 4.6 lands across the platform, Agent Manager gets YOLO mode and inline renaming, Code Reviews gets a loading UX boost, and we pick up a handful of new models and providers. Anthropic’s new flagship model is live in Kilo.",
+    "download_date": "2026-02-15T12:38:12.042221+00:00"
+  },
+  {
+    "title": "The Secret is Out: Pony Alpha is GLM-5 (And It’s Free in Kilo)",
+    "link": "https://blog.kilo.ai/p/the-secret-is-out-pony-alpha-is-glm",
+    "published": "Wed, 11 Feb 2026 18:38:40 GMT",
+    "author": "Ari",
+    "source": "KiloCode",
+    "summary": "For the past few weeks, the AI world has been buzzing about a “stealth” model appearing in the wild. Known only as Pony Alpha, this mystery model has been crushing coding benchmarks and showing off “deep-thinking” reasoning capabilities that rival the biggest names in the industry. Reddit has been losing its mind. Today, we’re pulling back the curtain.",
+    "download_date": "2026-02-15T12:38:12.356371+00:00"
+  },
+  {
+    "title": "Anthropic's Engineers Report a 50% Productivity Boost. Now What?",
+    "link": "https://blog.kilo.ai/p/1-pizza-teams",
+    "published": "Mon, 09 Feb 2026 15:31:56 GMT",
+    "author": "Brendan O'Leary",
+    "source": "KiloCode",
+    "summary": "A director at a traditional company recently told Gergely Orosz something that stuck with me: “We’re starting to rename 2-pizza teams to 1-pizza teams. With AI, large teams just no longer make sense and slows things down.” Amazon’s two-pizza rule has been engineering gospel for what, 20 years? If you need more than two pizzas to feed the team, the team is too big. Coordination costs eat you alive.",
+    "download_date": "2026-02-15T12:38:12.452827+00:00"
+  },
+  {
+    "title": "Amp Code Is Killing Their VS Code Extension. We're Doubling Down on Ours",
+    "link": "https://blog.kilo.ai/p/amp-code-shuts-down-vs-code-extension",
+    "published": "Mon, 09 Feb 2026 12:16:26 GMT",
+    "author": "Darko",
+    "source": "KiloCode",
+    "summary": "On February 5, the creators of Amp Code announced that their VS Code extension will self-destruct in 60 days or less. All development effort is being redirected to the CLI. Amp Code thinks the future of agentic AI coding isn’t in VS Code. Kilo Code is the leading open-source AI coding extension for VS Code, with over 700,000 downloads.",
+    "download_date": "2026-02-15T12:38:12.742978+00:00"
+  },
+  {
+    "title": "Kilo Claw: Hosted OpenClaw in 60 Seconds",
+    "link": "https://blog.kilo.ai/p/hosted-openclaw-in-60-seconds",
+    "published": "Sat, 07 Feb 2026 16:13:54 GMT",
+    "author": "Brendan O'Leary",
+    "source": "KiloCode",
+    "summary": "If you haven’t been paying attention to OpenClaw, now’s the time. In just a few months, Peter Steinberger’s open-source AI agent has become one of the fastest-growing projects in GitHub history.",
+    "download_date": "2026-02-15T12:38:12.845041+00:00"
+  },
+  {
+    "title": "7 Real Use Cases for Kilo's App Builder",
+    "link": "https://blog.kilo.ai/p/7-real-use-cases-for-kilos-app-builder",
+    "published": "Sat, 07 Feb 2026 01:30:29 GMT",
+    "author": "Brian Turcotte",
+    "source": "KiloCode",
+    "summary": "There’s a pattern with many vibe-coding tools. You describe something, it looks amazing for about five minutes, and then you try to do anything real with it and the whole thing falls apart. You export the code, stare at a folder structure you didn’t write, and realize you’re basically starting over. Kilo’s App Builder was built to break that pattern.",
+    "download_date": "2026-02-15T12:38:13.108051+00:00"
+  },
+  {
+    "title": "Announcing a Deep-Thinking New Stealth Model, Free in Kilo Code",
+    "link": "https://blog.kilo.ai/p/announcing-a-deep-thinking-new-stealth",
+    "published": "Fri, 06 Feb 2026 20:35:14 GMT",
+    "author": "Ari",
+    "source": "KiloCode",
+    "summary": "We’re excited to announce a powerful new stealth model from one of our most popular lab partners—and it’s totally free to use in Kilo Code. They’re calling it Pony Alpha, and it’s available wherever you use Kilo. It feel like large language models (LLMs) have come further in the past two weeks than in the past two years. And Pony Alpha, a new 200k context model, is a part of that evolution.",
+    "download_date": "2026-02-15T12:38:13.373447+00:00"
+  },
+  {
+    "title": "Opus 4.6 is Live in Kilo",
+    "link": "https://blog.kilo.ai/p/opus-46-is-live-in-kilo",
+    "published": "Thu, 05 Feb 2026 18:34:26 GMT",
+    "author": "Ari",
+    "source": "KiloCode",
+    "summary": "Anthropic just released Claude Opus 4.6, and it’s setting a new standard for what AI can do in production environments. This isn’t just an incremental update. Opus 4.6 represents Anthropic’s most significant leap in agentic capabilities to date—and it’s already live in Kilo for all users. You can even use your Kilo Pass credits to take advantage of the new Opus at a discount.",
+    "download_date": "2026-02-15T12:38:13.673225+00:00"
+  },
+  {
+    "title": "How to use the MiniMax Coding Plan in Kilo Code",
+    "link": "https://blog.kilo.ai/p/how-to-use-the-minimax-coding-plan",
+    "published": "Thu, 05 Feb 2026 14:30:23 GMT",
+    "author": "Darko",
+    "source": "KiloCode",
+    "summary": "SOTA AI coding models have come a long way in the past year. They’re more powerful than ever —but using them often means thinking about caps, quotas, and trade-offs. Enter the world of open weight-coding models. MiniMax is the company behind one of the most capable open-weight models on the planet (MiniMax M2.1), and it’s great for developers who care about shipping code without friction.",
+    "download_date": "2026-02-15T12:38:13.769256+00:00"
+  },
+  {
+    "title": "Inside Kilo Speed: How One Engineer Built Cloud Agents in a Week",
+    "link": "https://blog.kilo.ai/p/inside-kilo-speed-how-one-engineer-dcb",
+    "published": "Wed, 04 Feb 2026 20:20:54 GMT",
+    "author": "Rebecca Dodd",
+    "source": "KiloCode",
+    "summary": "Infrastructure projects—the “plumbing” that other features rely on—are usually weighed down by months of architectural vetting and manual configuration. But for Florian Hines, building the foundation for Kilo’s most advanced tools was a sprint.",
+    "download_date": "2026-02-15T12:38:14.106113+00:00"
+  },
+  {
+    "title": "Announcing the Kilo League",
+    "link": "https://blog.kilo.ai/p/kilo-league",
+    "published": "Wed, 04 Feb 2026 14:22:24 GMT",
+    "author": "Brian Turcotte",
+    "source": "KiloCode",
+    "summary": "TL;DR: Kilo is hosting weekly, virtual challenges throughout the year that will culminate in a grand prize of $50,000. The first challenge, where top prize gets $500 in Kilo Credits, is live here: Join the Challenge We are thrilled to announce the launch of Kilo League—a year-long competition to push the boundaries of what's possible with AI coding agents.",
+    "download_date": "2026-02-15T12:38:14.435603+00:00"
+  },
+  {
+    "title": "What We Learned from a Week of Free Kimi K2.5",
+    "link": "https://blog.kilo.ai/p/what-we-learned-from-a-week-of-free",
+    "published": "Tue, 03 Feb 2026 20:35:38 GMT",
+    "author": "Ari",
+    "source": "KiloCode",
+    "summary": "Last week, to celebrate the release of Kimi K2.5, we made it totally free in Kilo Code for a full week. Let’s just say that AI never sleeps. Developers were hungry to put the model to the test, using it across modes and tasks in Kilo. Overall, Kilo Coders loved the model. But there were also some unexpected findings in terms of speed, cost, and performance.",
+    "download_date": "2026-02-15T12:38:14.725405+00:00"
+  },
+  {
+    "title": "Kilo CLI 1.0: Built for Kilo Speed",
+    "link": "https://blog.kilo.ai/p/kilo-cli",
+    "published": "Tue, 03 Feb 2026 14:35:55 GMT",
+    "author": "Scott Breitenother",
+    "source": "KiloCode",
+    "summary": "We’ve spent the last year building the best VS Code extension for agentic engineering. A million downloads later, we’ve learned how important an end-to-end experience is. Developers don’t live in one tool. They move between IDEs, terminals, phones, and remote servers. Kilo CLI 1.0 is built for this world.",
+    "download_date": "2026-02-15T12:38:15.017538+00:00"
+  },
+  {
+    "title": "Kilo Code Weekly Product Roundup | Feb 2, 2025",
+    "link": "https://blog.kilo.ai/p/kilo-code-weekly-product-roundup-073",
+    "published": "Tue, 03 Feb 2026 03:01:21 GMT",
+    "author": "Brian Turcotte",
+    "source": "KiloCode",
+    "summary": "Welcome back to the weekly product roundup! This week introduces Local Code Reviews directly in your IDE, support for ChatGPT Plus/Pro subscriptions, a streamlined onboarding experience, and a substantial upstream sync from Roo Code with native tool calling improvements across providers.",
+    "download_date": "2026-02-15T12:38:15.326029+00:00"
+  },
+  {
+    "title": "Why We're Making Kilo’s Gateway and Cloud Backend Source-Available",
+    "link": "https://blog.kilo.ai/p/kilo-cloud-source-available",
+    "published": "Mon, 02 Feb 2026 20:50:48 GMT",
+    "author": "Brendan O'Leary",
+    "source": "KiloCode",
+    "summary": "On February 6, 2026, we’ll release the source code for Kilo Gateway and our Cloud backend infrastructure on GitHub under our Kilo-Org. This has been part of our roadmap from the beginning, and we’re six days away from shipping it. Most AI coding platforms operate as black boxes. You send a prompt, get code back, and everything in between stays hidden.",
+    "download_date": "2026-02-15T12:38:15.571242+00:00"
+  },
+  {
+    "title": "Why Our Engineers Own a Number, Not Just a Codebase",
+    "link": "https://blog.kilo.ai/p/our-engineers-own-a-number",
+    "published": "Sun, 01 Feb 2026 21:22:05 GMT",
+    "author": "Emilie Schario",
+    "source": "KiloCode",
+    "summary": "I interview a lot of engineers for Kilo, and something they always want to know is why and how engineers at Kilo own a whole product area. At most companies, this would be the job of at least 2-3 people, so how can one engineer do it all? Most engineering orgs assign engineers to a codebase. Ship features, close tickets, repeat.",
+    "download_date": "2026-02-15T12:38:15.872045+00:00"
+  },
+  {
+    "title": "Enterprise identity and usage metrics",
+    "link": "https://kiro.dev/blog/enterprise-identity-and-usage-metrics/",
+    "published": "Feb 13, 2026",
+    "author": "Ranjith Ramakrishnan",
+    "source": "Kiro",
+    "summary": "Since Kiro became generally available on November 17th, we have seen many enterprises like Rackspace, Smugmug and Netsmart adopt the spec-driven development approach across engineering teams to bring more structure in how they develop with AI, seeing increases in efficiency of up to 90% in some cases.",
+    "download_date": "2026-02-15T12:38:16.243057+00:00"
+  },
+  {
+    "title": "Open weight models are here: more choice, more speed, less cost",
+    "link": "https://kiro.dev/blog/open-weight-models/",
+    "published": "Feb 10, 2026",
+    "author": "Nima Kaviani",
+    "source": "Kiro",
+    "summary": "From the start, we built Kiro to give you the best AI coding experience possible. That meant shipping with the current state-of-the-art coding models and building everything around quality output.",
+    "download_date": "2026-02-15T12:38:16.410911+00:00"
+  },
+  {
+    "title": "Opus 4.6 is now available in Kiro",
+    "link": "https://kiro.dev/blog/opus-4-6/",
+    "published": "Feb 5, 2026",
+    "author": "Nima Kaviani",
+    "source": "Kiro",
+    "summary": "Starting today, you can use Claude Opus 4.6, Anthropicâs newest SoTA model, in the Kiro IDE and CLI. Opus 4.6 is Anthropicâs most powerful model yet and also the worldâs best model for coding. Opus 4.6 maintains everything you love about 4.5, while expanding its coding capabilities to become the best model for production code and sophisticated agents.",
+    "download_date": "2026-02-15T12:38:16.527935+00:00"
+  },
+  {
+    "title": "Refactoring made right: how program analysis makes AI agents safe and reliable",
+    "link": "https://kiro.dev/blog/refactoring-made-right/",
+    "published": "Feb 5, 2026",
+    "author": "Pardis Pashakhanloo and Rajdeep Mukherjee",
+    "source": "Kiro",
+    "summary": "You ask your AI coding assistant to do something simpleârename a function or move a fileâand suddenly youâre in recovery mode. Imports break or references point to files that no longer exist. A codebase that compiled five minutes ago starts throwing errors everywhere. What should have been a 20-second refactor turns into a 5-minute debugging and cleanup session.",
+    "download_date": "2026-02-15T12:38:16.649214+00:00"
+  },
+  {
+    "title": "Kiro 0.9: Custom subagents in the IDE, new enterprise controls, and granular code review",
+    "link": "https://kiro.dev/blog/custom-subagents-skills-and-enterprise-controls/",
+    "published": "Feb 5, 2026",
+    "author": "Dragos Ilinca and Arun Nair",
+    "source": "Kiro",
+    "summary": "This release brings new features in the IDE to give developers more control without slowing them down, while also giving enterprise teams the governance they need. We're shipping custom subagents, skills support, and smarter refactoring tools. Subagents have been around for a few releases now, but they were general-purpose.",
+    "download_date": "2026-02-15T12:38:16.751933+00:00"
+  },
+  {
+    "title": "Specialized IDEs deserve AI too: Kiro adopts ACPBrian Beach",
+    "link": "https://kiro.dev/blog/kiro-adopts-acp/",
+    "published": "Feb 5, 2026",
+    "author": "Unknown",
+    "source": "Kiro",
+    "summary": "I'm excited to share that Kiro CLI now supports the Agent Client Protocol (ACP), which means you can use Kiro's agentic AI capabilities directly into other IDEs. IDEs that currently support ACP include Eclipse, Emacs, JetBrains IDEs, Neovim, Toad, Zed, and more. For me, this solves a real workflow problem that is important to me. Let me be clear: Kiro is my daily driver for application development.",
+    "download_date": "2026-02-15T12:38:16.853276+00:00"
+  },
+  {
+    "title": "Run all tasks: the feature we refused to ship (until now)Victor Ding and Nikhil Swaminathan",
+    "link": "https://kiro.dev/blog/run-all-tasks/",
+    "published": "Jan 16, 2026",
+    "author": "Unknown",
+    "source": "Kiro",
+    "summary": "When we first launched Kiro, we made a deliberate decision that frustrated some early users: we didnât include an ârun all tasksâ button. You had to check in with the agent after every task. âWhy canât I just run all the tasks in my spec at once?â was one of the top questions we got after launching 6 months ago. The request made senseâspecs often contain 5, 10, sometimes 20+ tasks.",
+    "download_date": "2026-02-15T12:38:16.995966+00:00"
+  },
+  {
+    "title": "Empowering Kiro with IDE diagnostics",
+    "link": "https://kiro.dev/blog/empowering-kiro-with-ide-diagnostics/",
+    "published": "Jan 14, 2026",
+    "author": "By Pardis Pashakhanloo, Rajdeep Mukherjee and Murali Krishna Ramanathan",
+    "source": "Kiro",
+    "summary": "Early coding agents had this problem: AI generates code that looks correct, but IDE errors aren't immediately visible to the agent. This was because agents lacked visibility into these errors without executing additional tools. Consequently, the agent would move on confidently while the codebase accumulated technical debt.",
+    "download_date": "2026-02-15T12:38:17.124111+00:00"
+  },
+  {
+    "title": "Property-Based Testing Caught a Security Bug I Never Would Have Found",
+    "link": "https://kiro.dev/blog/property-based-testing-fixed-security-bug/",
+    "published": "Dec 18, 2025",
+    "author": "Krishiv Dakwala",
+    "source": "Kiro",
+    "summary": "Security vulnerabilities often hide in the corners of our code that we never think to test. We write unit tests for the happy path, maybe a few edge cases we can imagine, but what about the inputs we'd never consider? Many times we assume that LLMs are handling these scenarios by default, however LLM-generated code can be as prone to contain bugs or vulnerabilities as human-written code.",
+    "download_date": "2026-02-15T12:38:17.226405+00:00"
+  },
+  {
+    "title": "Multi-root Workspaces in Kiro: Work Across Projects, Not Just Inside One",
+    "link": "https://kiro.dev/blog/multi-root-workspaces/",
+    "published": "Dec 17, 2025",
+    "author": "Brooke Jamieson",
+    "source": "Kiro",
+    "summary": "Normally, a Kiro workspace is tied to a single project folder: But - what if youâre working on my-app and a shared library that it depends on at the same time? Or managing multiple microservices? Or a monorepo with a bunch of packages? Thatâs where multi-root workspaces come in, and you can try them out today! With multi-root support, you can bring multiple folders into a single Kiro IDE window.",
+    "download_date": "2026-02-15T12:38:17.348443+00:00"
+  },
+  {
+    "title": "Gemini Enterprise Agent Ready (GEAR) program now available, a new path to building AI agents at scale",
+    "link": "https://cloud.google.com/blog/products/ai-machine-learning/gear-program-now-available",
+    "published": "",
+    "author": "Unknown",
+    "source": "Google Cloud",
+    "summary": "Vice President, Product Marketing Vice President, Global Solutions & Industries Our most intelligent model is now available on Vertex AI and Gemini Enterprise Today’s reality is agentic – software that can reason, plan, and act on your behalf to execute complex workflows. To meet this moment, we are excited to open the Gemini Enterprise Agent Ready (GEAR) learning program to everyone.",
+    "download_date": "2026-02-15T12:38:17.810666+00:00"
+  },
+  {
+    "title": "Simpler billing, clearer savings: A FinOps guide to updated spend-based CUDs",
+    "link": "https://cloud.google.com/blog/topics/cost-management/a-finops-professionals-guide-to-updated-spend-based-cuds",
+    "published": "",
+    "author": "Unknown",
+    "source": "Google Cloud",
+    "summary": "Product Manager Our most intelligent model is now available on Vertex AI and Gemini Enterprise Optimizing cloud spend is one of the most rewarding aspects of FinOps — and committed use discounts (CUDs) remain one of the most effective levers to pull.",
+    "download_date": "2026-02-15T12:38:18.130649+00:00"
+  },
+  {
+    "title": "Telemetry Protocol metrics",
+    "link": "https://cloud.google.com/blog/products/management-tools/otlp-opentelemetry-protocol-for-google-cloud-monitoring-metrics",
+    "published": "",
+    "author": "Unknown",
+    "source": "Google Cloud",
+    "summary": "Senior Product Manager Senior Product Manager Our most intelligent model is now available on Vertex AI and Gemini Enterprise As part of our commitment to open standards, Google Cloud is deeply invested in making OpenTelemetry the universal client, data format, and set of standards for telemetry data.",
+    "download_date": "2026-02-15T12:38:18.384125+00:00"
+  },
+  {
+    "title": "How we cut Vertex AI latency",
+    "link": "https://cloud.google.com/blog/products/containers-kubernetes/how-gke-inference-gateway-improved-latency-for-vertex-ai",
+    "published": "",
+    "author": "Unknown",
+    "source": "Google Cloud",
+    "summary": "Product Manager Software Engineer Our most intelligent model is now available on Vertex AI and Gemini Enterprise As generative AI moves from experimentation to production, platform engineers face a universal challenge for inference serving: you need low latency, high throughput, and manageable costs.",
+    "download_date": "2026-02-15T12:38:22.132284+00:00"
+  },
+  {
+    "title": "Google Distributed Cloud brings public-cloud-like networking to air-gapped environments",
+    "link": "https://cloud.google.com/blog/products/networking/google-distributed-cloud-gdc-air-gapped-1-15-networking",
+    "published": "",
+    "author": "Unknown",
+    "source": "Google Cloud",
+    "summary": "Product Manager Product Manager Our most intelligent model is now available on Vertex AI and Gemini Enterprise Organizations in highly regulated industries often struggle to balance the rigid security of air-gapped environments with the need for the agility and flexibility that the cloud provides.",
+    "download_date": "2026-02-15T12:38:22.437830+00:00"
+  },
+  {
+    "title": "High-performance inference meets serverless compute with NVIDIA RTX PRO 6000 on Cloud Run",
+    "link": "https://cloud.google.com/blog/products/serverless/cloud-run-supports-nvidia-rtx-6000-pro-gpus-for-ai-workloads",
+    "published": "",
+    "author": "Unknown",
+    "source": "Google Cloud",
+    "summary": "Engineering Manager Our most intelligent model is now available on Vertex AI and Gemini Enterprise Running large-scale inference models can involve significant operational toil, including cluster management and manual VM maintenance. One solution is to leverage a serverless compute platform to abstract away the underlying infrastructure.",
+    "download_date": "2026-02-15T12:38:26.632887+00:00"
+  },
+  {
+    "title": "Accelerate GKE cluster autoscaling with faster concurrent node pool auto-creation",
+    "link": "https://cloud.google.com/blog/products/containers-kubernetes/faster-gke-node-pool-auto-creation",
+    "published": "",
+    "author": "Unknown",
+    "source": "Google Cloud",
+    "summary": "Software Engineer, GKE Product Manager, GKE Our most intelligent model is now available on Vertex AI and Gemini Enterprise We're excited to announce concurrency in Google Kubernetes Engine (GKE) node pool auto-creation, to significantly reduce provisioning latency and autoscaling performance.",
+    "download_date": "2026-02-15T12:38:30.430340+00:00"
+  },
+  {
+    "title": "Announcing Claude Opus 4.6 on Vertex AI",
+    "link": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-vertex-ai-with-claude-opus-4-6",
+    "published": "",
+    "author": "Unknown",
+    "source": "Google Cloud",
+    "summary": "VP of Product Management, Vertex AI At Google Cloud, we’re committed to providing customers with the leading selection of models to build and scale production-ready AI apps and agents on a platform optimized for performance, trust, and global scale. Today, we’re further expanding Vertex AI’s curated collection of models with the addition of Anthropic’s newest release: Claude Opus 4.6.",
+    "download_date": "2026-02-15T12:38:30.674332+00:00"
+  },
+  {
+    "title": "What's new with ML infrastructure for Dataflow",
+    "link": "https://cloud.google.com/blog/products/data-analytics/new-dataflow-features-to-enable-streaming-and-ml-workloads",
+    "published": "",
+    "author": "Unknown",
+    "source": "Google Cloud",
+    "summary": "Product Manager, Google Software Engineer, Google Cloud Our most intelligent model is now available on Vertex AI and Gemini Enterprise The world of artificial intelligence is moving at lightning speed. At Google Cloud, we’re committed to providing best-in-class infrastructure to power your AI and ML workloads.",
+    "download_date": "2026-02-15T12:38:34.183000+00:00"
+  },
+  {
+    "title": "Mastering Gemini CLI: Your Complete Guide from Installation to Advanced Use-Cases",
+    "link": "https://cloud.google.com/blog/topics/developers-practitioners/mastering-gemini-cli-your-complete-guide-from-installation-to-advanced-use-cases",
+    "published": "",
+    "author": "Unknown",
+    "source": "Google Cloud",
+    "summary": "Developer Advocate Senior Developer Relations Engineer We’ve teamed up with DeepLearning.ai and are excited to announce a free course – Gemini CLI: Code & Create with an Open-Source Agent. This comprehensive course is designed to empower users by teaching them how to integrate Gemini CLI–and its most powerful features–into their daily workflows.",
+    "download_date": "2026-02-15T12:38:37.693044+00:00"
+  },
+  {
+    "title": "Delivering a secure, open, and sovereign digital world",
+    "link": "https://cloud.google.com/blog/products/identity-security/delivering-a-secure-open-sovereign-digital-world",
+    "published": "",
+    "author": "Unknown",
+    "source": "Google Cloud",
+    "summary": "VP/GM, Infrastructure and Solutions Group, Google Cloud VP/GM, Regulated and Sovereign Cloud, Google Cloud The latest on security from Google Cloud's Office of the CISO, twice a month.",
+    "download_date": "2026-02-15T12:38:47.170253+00:00"
+  },
+  {
+    "title": "No Place Like Home Network: Disrupting the World's Largest Residential Proxy Network",
+    "link": "https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network",
+    "published": "",
+    "author": "Unknown",
+    "source": "Google Cloud",
+    "summary": "No content available.",
+    "download_date": "2026-02-15T12:39:02.403820+00:00"
+  },
+  {
+    "title": "Introducing Single-tenant Cloud HSM to support more data encryption control",
+    "link": "https://cloud.google.com/blog/products/identity-security/introducing-single-tenant-cloud-hsm-for-more-data-encryption-control",
+    "published": "",
+    "author": "Unknown",
+    "source": "Google Cloud",
+    "summary": "No content available.",
+    "download_date": "2026-02-15T12:39:17.558837+00:00"
+  },
+  {
+    "title": "Introducing Conversational Analytics in BigQuery",
+    "link": "https://cloud.google.com/blog/products/data-analytics/introducing-conversational-analytics-in-bigquery",
+    "published": "",
+    "author": "Unknown",
+    "source": "Google Cloud",
+    "summary": "Product Manager Senior Engineering Manager Our most intelligent model is now available on Vertex AI and Gemini Enterprise Businesses want to move quickly and make informed decisions, but the explosion of data in today’s organizations often can leave knowledge teams buried and business users waiting in lengthy queues for the data insights they need.",
+    "download_date": "2026-02-15T12:39:19.593171+00:00"
+  },
+  {
+    "title": "Spanner in 2025: Innovations powering intelligent, multi-model AI applications",
+    "link": "https://cloud.google.com/blog/products/databases/spanner-in-2025",
+    "published": "",
+    "author": "Unknown",
+    "source": "Google Cloud",
+    "summary": "No content available.",
+    "download_date": "2026-02-15T12:39:34.812802+00:00"
+  },
+  {
+    "title": "BigQuery AI supports Gemini 3.0, simplified embedding generation and new similarity function",
+    "link": "https://cloud.google.com/blog/products/data-analytics/new-bigquery-gen-ai-functions-for-better-data-analysis",
+    "published": "",
+    "author": "Unknown",
+    "source": "Google Cloud",
+    "summary": "Software Engineer Software Engineer Our most intelligent model is now available on Vertex AI and Gemini Enterprise The digital landscape is flooded with unstructured data — images, videos, audio, and documents — that often remain untapped.",
+    "download_date": "2026-02-15T12:39:38.799073+00:00"
+  },
+  {
+    "title": "Ship Production Ready AI and Survive the Multimodal Frontier This February",
+    "link": "https://cloud.google.com/blog/topics/developers-practitioners/ship-production-ready-ai-and-survive-the-multimodal-frontier-this-february",
+    "published": "",
+    "author": "Unknown",
+    "source": "Google Cloud",
+    "summary": "Developer Relations Engineering Manager The AI landscape is moving at breakneck speed. One day you’re figuring out how to secure a basic chatbot, and the next, you’re looking at agents that can see, hear, and react in real-time. This February and March, the Google Cloud is bringing you the best of both worlds.",
+    "download_date": "2026-02-15T12:39:43.021825+00:00"
+  },
+  {
+    "title": "Getting Started with Gemini 3: Unlocking the Cloud with the Free Trial",
+    "link": "https://cloud.google.com/blog/topics/developers-practitioners/getting-started-with-gemini-3-unlocking-the-cloud-with-the-free-trial",
+    "published": "",
+    "author": "Unknown",
+    "source": "Google Cloud",
+    "summary": "The requested URL /blog/topics/developers-practitioners/getting-started-with-gemini-3-unlocking-the-cloud-with-the-free-trial was not found on this server. That's all we know.",
+    "download_date": "2026-02-15T12:39:44.310109+00:00"
+  },
+  {
+    "title": "Build intelligent employee onboarding with Gemini Enterprise",
+    "link": "https://cloud.google.com/blog/topics/developers-practitioners/how-to-build-onboarding-agents-with-gemini-enterprise",
+    "published": "",
+    "author": "Unknown",
+    "source": "Google Cloud",
+    "summary": "Generative AI Field Solutions Architect Enterprise AI Integration, Field Product Manager Our most intelligent model is now available on Vertex AI and Gemini Enterprise Employee onboarding is rarely a linear process. It’s a complex web of dependencies that vary significantly based on an individual’s specific profile.",
+    "download_date": "2026-02-15T12:39:48.631810+00:00"
+  },
+  {
+    "title": "Click here",
+    "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud",
+    "published": "",
+    "author": "Unknown",
+    "source": "Google Cloud",
+    "summary": "Our most intelligent model is now available on Vertex AI and Gemini Enterprise Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip: Not sure where to find what you’re looking for on the Google Cloud blog?",
+    "download_date": "2026-02-15T12:39:51.288352+00:00"
+  },
+  {
+    "title": "Claude Opus 4.6AnnouncementsWe’re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an ind",
+    "link": "https://www.anthropic.com/news/claude-opus-4-6",
+    "published": "Feb 5, 2026",
+    "author": "Unknown",
+    "source": "Claude",
+    "summary": "We’re upgrading our smartest model. The new Claude Opus 4.6 improves on its predecessor’s coding skills. It plans more carefully, sustains agentic tasks for longer, can operate more reliably in larger codebases, and has better code review and debugging skills to catch its own mistakes. And, in a first for our Opus-class models, Opus 4.6 features a 1M token context window in beta1.",
+    "download_date": "2026-02-15T12:39:57.606542+00:00"
+  },
+  {
+    "title": "AnnouncementsAnthropic raises $30 billion in Series G funding at $380 billion post-money valuationWe have raised $30 billion in Series G funding led b",
+    "link": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+    "published": "Feb 12, 2026",
+    "author": "Unknown",
+    "source": "Claude",
+    "summary": "We have raised $30 billion in Series G funding led by GIC and Coatue, valuing Anthropic at $380 billion post-money. Shaw Ventures, Dragoneer, Founders Fund, ICONIQ, and MGX. The investment will fuel the frontier research, product development, and infrastructure expansions that have made Anthropic the market leader in enterprise AI and coding.",
+    "download_date": "2026-02-15T12:39:59.636819+00:00"
+  },
+  {
+    "title": "AnnouncementsClaude is a space to thinkWe’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a",
+    "link": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+    "published": "Feb 12, 2026",
+    "author": "Unknown",
+    "source": "Claude",
+    "summary": "There are many good places for advertising. A conversation with Claude is not one of them. Advertising drives competition, helps people discover new products, and allows services like email and social media to be offered for free. We’ve run our own ad campaigns, and our AI models have, in turn, helped many of our customers in the advertising industry.",
+    "download_date": "2026-02-15T12:40:00.962793+00:00"
+  },
+  {
+    "title": "AnnouncementsIntroducing Claude Sonnet 4.5Claude Sonnet 4.5 sets new benchmark records in coding, reasoning, and computer use while being Anthropic's",
+    "link": "https://www.anthropic.com/news/claude-sonnet-4-5",
+    "published": "Feb 12, 2026",
+    "author": "Unknown",
+    "source": "Claude",
+    "summary": "Claude Sonnet 4.5 is the best coding model in the world. It's the strongest model for building complex agents. It’s the best model at using computers. And it shows substantial gains in reasoning and math. It runs every application, spreadsheet, and software tool you use. Being able to use those tools and reason through hard problems is how modern work gets done. Claude Sonnet 4.5 makes this possible.",
+    "download_date": "2026-02-15T12:40:05.519018+00:00"
+  },
+  {
+    "title": "13, 2026AnnouncementsAnthropic partners with CodePath to bring Claude to the US’s largest collegiate computer science program",
+    "link": "https://www.anthropic.com/news/anthropic-codepath-partnership",
+    "published": "Feb 13, 2026",
+    "author": "Unknown",
+    "source": "Claude",
+    "summary": "Anthropic is partnering with CodePath, the nation’s largest provider of collegiate computer science education, to redesign its coding curriculum as AI reshapes the field of software development.",
+    "download_date": "2026-02-15T12:40:06.105751+00:00"
+  },
+  {
+    "title": "13, 2026AnnouncementsChris Liddell appointed to Anthropic’s board of directors",
+    "link": "https://www.anthropic.com/news/chris-liddell-appointed-anthropic-board",
+    "published": "Feb 13, 2026",
+    "author": "Unknown",
+    "source": "Claude",
+    "summary": "Chris Liddell has been appointed to Anthropic’s Board of Directors. He brings over 30 years of senior leadership experience across some of the world's largest and most complex organizations to the role. He previously served as Chief Financial Officer of Microsoft, General Motors, and International Paper, as well as the Deputy White House Chief of Staff during President Trump’s first term.",
+    "download_date": "2026-02-15T12:40:09.327774+00:00"
+  },
+  {
+    "title": "12, 2026PolicyAnthropic is donating $20 million to Public First Action",
+    "link": "https://www.anthropic.com/news/donate-public-first-action",
+    "published": "Feb 12, 2026",
+    "author": "Unknown",
+    "source": "Claude",
+    "summary": "AI will bring enormous benefits—for science, technology, medicine, economic growth, and much more. But a technology this powerful also comes with considerable risks. Those risks might come from the misuse of the models: AI is already being exploited to automate cyberattacks; in the future it might assist in the production of dangerous weapons.",
+    "download_date": "2026-02-15T12:40:11.214829+00:00"
+  },
+  {
+    "title": "11, 2026PolicyCovering electricity price increases from our data centers",
+    "link": "https://www.anthropic.com/news/covering-electricity-price-increases",
+    "published": "Feb 11, 2026",
+    "author": "Unknown",
+    "source": "Claude",
+    "summary": "As we continue to invest in American AI infrastructure, Anthropic will cover electricity price increases that consumers face from our data centers. Training a single frontier AI model will soon require gigawatts of power, and the US AI sector will need at least 50 gigawatts of capacity over the next several years.",
+    "download_date": "2026-02-15T12:40:12.235710+00:00"
+  },
+  {
+    "title": "3, 2026ProductApple’s Xcode now supports the Claude Agent SDK",
+    "link": "https://www.anthropic.com/news/apple-xcode-claude-agent-sdk",
+    "published": "Feb 3, 2026",
+    "author": "Unknown",
+    "source": "Claude",
+    "summary": "Apple's Xcode is where developers build, test, and distribute apps for Apple platforms, including iPhone, iPad, Mac, Apple Watch, Apple Vision Pro, and Apple TV. In September, we announced that developers would have access to Claude Sonnet 4 in Xcode 26. Claude could be used to write code, debug, and generate documentation—but it was limited to helping with individual, turn-by-turn requests.",
+    "download_date": "2026-02-15T12:40:12.411276+00:00"
+  },
+  {
+    "title": "2, 2026Societal ImpactsAnthropic partners with Allen Institute and Howard Hughes Medical Institute to accelerate scientific discovery",
+    "link": "https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute",
+    "published": "Feb 2, 2026",
+    "author": "Unknown",
+    "source": "Claude",
+    "summary": "Modern biological research generates data at unprecedented scale—from single-cell sequencing to whole-brain connectomics—yet transforming that data into validated biological insights remains a fundamental bottleneck. Knowledge synthesis, hypothesis generation, and experimental interpretation still depend on manual processes that can't keep pace with the data being produced.",
+    "download_date": "2026-02-15T12:40:14.193996+00:00"
+  },
+  {
+    "title": "AI Agent Survival Guide, Part 4: Your Agent Army Awaits",
+    "link": "https://zencoder.ai/blog/ai-agent-survival-guide-part-4-your-agent-army-awaits",
+    "published": "Thu, 12 Feb 2026 12:13:24 GMT",
+    "author": "Andrew Filev",
+    "source": "Zencoder",
+    "summary": "Andrew Filev Published: February 12, 2026 · Last updated: February 12, 2026 This is Part 4 of a four-part series. In Parts 1–3, we built a security foundation: automated scanning for repos, MCP servers, and skills before they touch your machine. This post is about what comes next: putting all your AI agents to work together.",
+    "download_date": "2026-02-15T12:40:14.534034+00:00"
+  },
+  {
+    "title": "AI Agent Survival Guide, Part 3: That MCP Server You Just Installed",
+    "link": "https://zencoder.ai/blog/ai-agent-survival-guide-part-3-that-mcp-server-you-just-installed",
+    "published": "Thu, 12 Feb 2026 12:13:23 GMT",
+    "author": "Andrew Filev",
+    "source": "Zencoder",
+    "summary": "Andrew Filev Published: February 12, 2026 · Last updated: February 12, 2026 This is Part 3 of a four-part series. In Part 1, we built an automated gate for scanning public repos before cloning them. In Part 2, we audited a real tool and discovered the structural vulnerability that affects every AI agent reading untrusted content.",
+    "download_date": "2026-02-15T12:40:14.762310+00:00"
+  },
+  {
+    "title": "AI Agent Survival Guide, Part 2: Chasing the Nine-Tailed Fox",
+    "link": "https://zencoder.ai/blog/ai-agent-survival-guide-part-2-chasing-the-nine-tailed-fox",
+    "published": "Thu, 12 Feb 2026 12:13:21 GMT",
+    "author": "Andrew Filev",
+    "source": "Zencoder",
+    "summary": "Andrew Filev Published: February 12, 2026 · Last updated: February 12, 2026 This is Part 2 of a four-part series. In Part 1, I published a set of open-source skills that automatically scan every public repo, MCP server, or skill before you install it. Thirty seconds of your agent's time, a summary table, then you decide.",
+    "download_date": "2026-02-15T12:40:14.888889+00:00"
+  },
+  {
+    "title": "AI Agent Survival Guide, Part 1: The Repo You Didn't Scan",
+    "link": "https://zencoder.ai/blog/ai-agent-survival-guide-part-1-the-repo-you-didnt-scan",
+    "published": "Thu, 12 Feb 2026 12:13:19 GMT",
+    "author": "Andrew Filev",
+    "source": "Zencoder",
+    "summary": "Andrew Filev Published: February 12, 2026 · Last updated: February 12, 2026 This is Part 1 of a four-part series. This year we are going to see a steady beat of two progressing themes: A week doesn't pass without a new vibe-coded repo that people plug into their AI agents that have network and bash access. For some of you, this is brand new territory, so I'll try to explain as we go.",
+    "download_date": "2026-02-15T12:40:15.027088+00:00"
+  },
+  {
+    "title": "AI-first software engineering: how the discipline is being reshaped",
+    "link": "https://zencoder.ai/blog/ai-first-software-engineering-how-the-discipline-is-being-reshaped",
+    "published": "Fri, 06 Feb 2026 14:11:56 GMT",
+    "author": "neeraj.khandelwal@forgood.ai (Neeraj)",
+    "source": "Zencoder",
+    "summary": "Neeraj Published: February 06, 2026 · Last updated: February 06, 2026 Software engineering is becoming the first domain where artificial intelligence is not just an assistive technology, but a structural force.",
+    "download_date": "2026-02-15T12:40:15.240824+00:00"
+  },
+  {
+    "title": "9 Best Sourcegraph Cody AI Alternatives to Consider in 2026",
+    "link": "https://zencoder.ai/blog/cody-ai-alternatives",
+    "published": "Tue, 03 Feb 2026 18:28:16 GMT",
+    "author": "Sergio",
+    "source": "Zencoder",
+    "summary": "Sergio Published: February 03, 2026 · Last updated: February 03, 2026 Looking for AI coding assistants that go beyond what Sourcegraph Cody offers in 2026?",
+    "download_date": "2026-02-15T12:40:15.397434+00:00"
+  },
+  {
+    "title": "Agentic AI vs. Generative AI: Key Differences Explained",
+    "link": "https://zencoder.ai/blog/agentic-ai-vs-generative-ai",
+    "published": "Tue, 03 Feb 2026 17:57:56 GMT",
+    "author": "Sergio",
+    "source": "Zencoder",
+    "summary": "Sergio Published: February 03, 2026 · Last updated: February 03, 2026 As the use of AI continues to grow, it’s becoming clear that not all AI systems are designed to function the same way. While agentic AI and generative AI are often grouped together, they serve very different purposes.",
+    "download_date": "2026-02-15T12:40:15.552834+00:00"
+  },
+  {
+    "title": "Beyond Benchmarks: Practical Model Experimentation with Parallel Execution",
+    "link": "https://zencoder.ai/blog/practical-model-experimentation-with-parallel-execution",
+    "published": "Fri, 30 Jan 2026 18:46:31 GMT",
+    "author": "Leon Malisov",
+    "source": "Zencoder",
+    "summary": "Leon Malisov Published: January 30, 2026 · Last updated: January 30, 2026 Model selection is more fluid than it used to be. Developers who work with LLMs tend to revisit their choices frequently, sometimes weekly, as new releases shift the decision and as different tasks reveal different model strengths.",
+    "download_date": "2026-02-15T12:40:15.708588+00:00"
+  },
+  {
+    "title": "Amazon Q Developer vs. Copilot: In-Depth Comparison [2026]",
+    "link": "https://zencoder.ai/blog/codewhisperer-vs-copilot",
+    "published": "Wed, 28 Jan 2026 12:35:22 GMT",
+    "author": "Sergio",
+    "source": "Zencoder",
+    "summary": "Sergio Published: January 28, 2026 · Last updated: January 28, 2026 Are you searching for an AI coding assistant that can streamline your workflow and help you build software faster? Amazon Q Developer and GitHub Copilot are two popular tools, each offering a different vision of support for modern developers. In this article, we’ll explore Amazon Q Developer vs.",
+    "download_date": "2026-02-15T12:40:15.851493+00:00"
+  },
+  {
+    "title": "Prompt Roulette: Why Your AI Breaks After Iteration Three",
+    "link": "https://zencoder.ai/blog/prompt-roulette-why-your-ai-breaks-after-iteration-three",
+    "published": "Wed, 21 Jan 2026 13:16:54 GMT",
+    "author": "shantanu.vishwanadha@forgood.ai (Shantanu Vishwanadha)",
+    "source": "Zencoder",
+    "summary": "Shantanu Vishwanadha Published: January 21, 2026 · Last updated: January 21, 2026 Iteration one feels like magic. You describe a feature, the model delivers something believable, and you think: \"We're so back.\" Iteration two is usually fine. A tweak here, an edge case there. The model changes unrelated files. The diff becomes impossible to review.",
+    "download_date": "2026-02-15T12:40:16.037266+00:00"
+  },
+  {
+    "title": "Custom Kernels for All from Codex and Claude",
+    "link": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+    "published": "Fri, 13 Feb 2026 00:00:00 GMT",
+    "author": "Unknown",
+    "source": "HuggingFace",
+    "summary": "tl;dr: We built an agent skill that teaches coding agents how to write production CUDA kernels. Then we pointed Claude and Codex at two real targets: a diffusers pipeline and a transformers model. The agents produced working kernels for both, with correct PyTorch bindings and benchmarks, end to end. Writing CUDA kernels that correctly integrate with transformers and diffusers is harder.",
+    "download_date": "2026-02-15T12:40:16.478134+00:00"
+  },
+  {
+    "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
+    "link": "https://huggingface.co/blog/openenv-turing",
+    "published": "Thu, 12 Feb 2026 00:00:00 GMT",
+    "author": "Unknown",
+    "source": "HuggingFace",
+    "summary": "AI agents often perform impressively in controlled research settings, yet struggle when deployed in real-world systems where they must reason across multiple steps, interact with real tools and APIs, operate under partial information, and recover from errors in stateful, permissioned environments—highlighting a persistent gap between research success and production reliability.",
+    "download_date": "2026-02-15T12:40:16.618591+00:00"
+  },
+  {
+    "title": "Transformers.js v4 Preview: Now Available on NPM!",
+    "link": "https://huggingface.co/blog/transformersjs-v4",
+    "published": "Mon, 09 Feb 2026 00:00:00 GMT",
+    "author": "Unknown",
+    "source": "HuggingFace",
+    "summary": "We're excited to announce that Transformers.js v4 (preview) is now available on NPM! After nearly a year of development (we started in March 2025 🤯), we're finally ready for you to test it out. Previously, users had to install v4 directly from source via GitHub, but now it's as simple as running a single command!",
+    "download_date": "2026-02-15T12:40:16.788275+00:00"
+  },
+  {
+    "title": "Introducing SyGra Studio",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
+    "published": "Thu, 05 Feb 2026 16:52:28 GMT",
+    "author": "Unknown",
+    "source": "HuggingFace",
+    "summary": "SyGra 2.0.0 introduces Studio, an interactive environment that turns synthetic data generation into a transparent, visual craft. Instead of juggling YAML files and terminals, you compose flows directly on the canvas, preview datasets before committing, tune prompts with inline variable hints, and watch executions stream live—all from a single pane.",
+    "download_date": "2026-02-15T12:40:16.908194+00:00"
+  },
+  {
+    "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
+    "published": "Wed, 04 Feb 2026 15:00:40 GMT",
+    "author": "Unknown",
+    "source": "HuggingFace",
+    "summary": "Modern search systems are increasingly designed to process heterogeneous document images that may contain text, tables, charts, figures, and other visual components. In this context, accurately retrieving relevant information across these diverse modalities is a central challenge.",
+    "download_date": "2026-02-15T12:40:17.032020+00:00"
+  },
+  {
+    "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
+    "link": "https://huggingface.co/blog/community-evals",
+    "published": "Wed, 04 Feb 2026 00:00:00 GMT",
+    "author": "Unknown",
+    "source": "HuggingFace",
+    "summary": "TL;DR: Benchmark datasets on Hugging Face can now host leaderboards. Models store their own eval scores. The community can submit results via PR. Verified badges prove that the results can be reproduced. Let's be real about where we are with evals in 2026.",
+    "download_date": "2026-02-15T12:40:17.216293+00:00"
+  },
+  {
+    "title": "H Company's new Holo2 model takes the lead in UI Localization",
+    "link": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
+    "published": "Tue, 03 Feb 2026 17:40:14 GMT",
+    "author": "Unknown",
+    "source": "HuggingFace",
+    "summary": "Two months since releasing our first batch of Holo2 models, H Company is back with our largest UI localization model yet: Holo2-235B-A22B Preview. This model achieves a new State-of-the-Art (SOTA) record of 78.5% on Screenspot-Pro and 79.0% on OSWorld G. Available on Hugging Face, Holo2-235B-A22B Preview is a research release focused on UI element localization.",
+    "download_date": "2026-02-15T12:40:17.320413+00:00"
+  },
+  {
+    "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
+    "link": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+    "published": "Tue, 03 Feb 2026 15:03:19 GMT",
+    "author": "Unknown",
+    "source": "HuggingFace",
+    "summary": "This is the third and final blog in a three-part series on China's open source community's historical advancements since January 2025's \"DeepSeek Moment.\" The first blog on strategic changes and open artifact growth is available here, and the second blog on architectural and hardware shifts is available here.",
+    "download_date": "2026-02-15T12:40:17.450313+00:00"
+  },
+  {
+    "title": "Training Design for Text-to-Image Models: Lessons from Ablations",
+    "link": "https://huggingface.co/blog/Photoroom/prx-part2",
+    "published": "Tue, 03 Feb 2026 11:25:53 GMT",
+    "author": "Unknown",
+    "source": "HuggingFace",
+    "summary": "This is the second part of our series on training efficient text-to-image models from scratch. In the first post of this series, we introduced our goal: training a competitive text-to-image foundation model entirely from scratch, in the open, and at scale. We focused primarily on architectural choices and motivated the core design decisions behind our model PRX.",
+    "download_date": "2026-02-15T12:40:17.698585+00:00"
+  },
+  {
+    "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
+    "link": "https://huggingface.co/blog/daggr",
+    "published": "Thu, 29 Jan 2026 00:00:00 GMT",
+    "author": "Unknown",
+    "source": "HuggingFace",
+    "summary": "TL;DR: Daggr is a new, open-source Python library for building AI workflows that connect Gradio apps, ML models, and custom functions. It automatically generates a visual canvas where you can inspect intermediate outputs, rerun individual steps, and manage state for complex pipelines, all in a few lines of Python code!",
+    "download_date": "2026-02-15T12:40:17.940222+00:00"
+  },
+  {
+    "title": "We Got Claude to Build CUDA Kernels and teach open models!",
+    "link": "https://huggingface.co/blog/upskill",
+    "published": "Wed, 28 Jan 2026 00:00:00 GMT",
+    "author": "Unknown",
+    "source": "HuggingFace",
+    "summary": "The best thing about agent skills is upskilling your agents on hard problems. There are two ways to look at that: This blog post walks through the process of using a new tool, upskill, to generate and evaluate agent skills with large models and use them with smaller models.",
+    "download_date": "2026-02-15T12:40:18.143654+00:00"
+  },
+  {
+    "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
+    "link": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
+    "published": "Tue, 27 Jan 2026 15:01:45 GMT",
+    "author": "Unknown",
+    "source": "HuggingFace",
+    "summary": "This is the second blog in a three-part series on China's open source community's historical advancements since January 2025's \"DeepSeek Moment.\" The first blog is available here, and the third blog is available here. In this second piece we turn our focus from models to the architectural and hardware choices Chinese companies have made as openness becomes the norm.",
+    "download_date": "2026-02-15T12:40:18.287434+00:00"
+  },
+  {
+    "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
+    "link": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
+    "published": "Tue, 27 Jan 2026 10:26:42 GMT",
+    "author": "Unknown",
+    "source": "HuggingFace",
+    "summary": "📦 Dataset on HuggingFace | 🔧 Code on GitHub Arabic is one of the most widely spoken languages in the world, with hundreds of millions of speakers across more than twenty countries. Despite this global reach, Arabic is not a monolithic language.",
+    "download_date": "2026-02-15T12:40:18.411598+00:00"
+  },
+  {
+    "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
+    "link": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
+    "published": "Tue, 27 Jan 2026 01:53:15 GMT",
+    "author": "Unknown",
+    "source": "HuggingFace",
+    "summary": "Agentic reinforcement learning (RL) extends traditional LLM training by optimizing not just a single-turn response, but an entire decision-making process learned through direct interaction with an environment during training.",
+    "download_date": "2026-02-15T12:40:18.639822+00:00"
+  },
+  {
+    "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
+    "link": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
+    "published": "Wed, 21 Jan 2026 06:25:31 GMT",
+    "author": "Unknown",
+    "source": "HuggingFace",
+    "summary": "AssetOpsBench is a comprehensive benchmark and evaluation system with six qualitative dimensions that bridges the gap for agentic AI in domain-specific settings, starting with industrial Asset Lifecycle Management. While existing AI benchmarks excel at isolated tasks such as coding or web navigation, they often fail to capture the complexity of real-world industrial operations.",
+    "download_date": "2026-02-15T12:40:18.779007+00:00"
+  },
+  {
+    "title": "One Year Since the “DeepSeek Moment”",
+    "link": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
+    "published": "Tue, 20 Jan 2026 15:02:10 GMT",
+    "author": "Unknown",
+    "source": "HuggingFace",
+    "summary": "This is the first blog in a series that will examine China’s open source community’s historical advancements in the past year and its reverberations in shaping the entire ecosystem. Much of 2025’s progress can be traced back to January’s “DeepSeek Moment”, when Hangzhou-based AI company DeepSeek released their R-1 model.",
+    "download_date": "2026-02-15T12:40:19.000199+00:00"
+  },
+  {
+    "title": "Differential Transformer V2",
+    "link": "https://huggingface.co/blog/microsoft/diff-attn-v2",
+    "published": "Tue, 20 Jan 2026 03:20:57 GMT",
+    "author": "Unknown",
+    "source": "HuggingFace",
+    "summary": "Tianzhu Ye, Li Dong, Yutao Sun, Furu Wei Github Link Notion Link (for better readability) We introduce Differential Transformer V2 (DIFF V2), an improved version of Differential Transformer (DIFF V1). This revision focuses on inference efficiency, training stability for production-level LLMs, and architectural elegance.",
+    "download_date": "2026-02-15T12:40:19.258186+00:00"
+  },
+  {
+    "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
+    "link": "https://huggingface.co/blog/waypoint-1",
+    "published": "Tue, 20 Jan 2026 00:00:00 GMT",
+    "author": "Unknown",
+    "source": "HuggingFace",
+    "summary": "Overworld Stream: https://overworld.stream Waypoint-1 is Overworld’s real-time-interactive video diffusion model, controllable and prompted via text, mouse, and keyboard. You can give the model some frames, run the model, and have it create a world you can step into and interact with.",
+    "download_date": "2026-02-15T12:40:19.446559+00:00"
+  },
+  {
+    "title": "Open Responses: What you need to know",
+    "link": "https://huggingface.co/blog/open-responses",
+    "published": "Thu, 15 Jan 2026 00:00:00 GMT",
+    "author": "Unknown",
+    "source": "HuggingFace",
+    "summary": "Open Responses is a new and open inference standard. Initiated by OpenAI, built by the open source AI community, and backed by the Hugging Face ecosystem, Open Responses is based on the Responses API and is designed for the future of Agents. In this blog post, we’ll look at how Open Responses works and why the open source community should use Open Responses.",
+    "download_date": "2026-02-15T12:40:19.705767+00:00"
+  },
+  {
+    "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
+    "link": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
+    "published": "Mon, 05 Jan 2026 22:56:51 GMT",
+    "author": "Unknown",
+    "source": "HuggingFace",
+    "summary": "NVIDIA today released Cosmos Reason 2, the latest advancement in open, reasoning vision language models for physical AI. Cosmos Reason 2 surpasses its previous version in accuracy and tops the Physical AI Bench and Physical Reasoning leaderboards as the #1 open model for visual understanding.",
+    "download_date": "2026-02-15T12:40:19.856087+00:00"
+  },
+  {
+    "title": "GPT-5.3-Codex-Spark is now available in WindsurfOpenAI's GPT-5.3-Codex-Spark, an ultra-fast model optimized for real-time coding, is now available in ",
+    "link": "https://windsurf.com/blog/gpt-5.3-codex-spark",
+    "published": "",
+    "author": "Unknown",
+    "source": "Windsurf",
+    "summary": "No content available.",
+    "download_date": "2026-02-15T12:40:20.673748+00:00"
+  }
+]
