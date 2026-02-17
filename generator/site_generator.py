@@ -91,6 +91,17 @@ class SiteGenerator:
         except Exception:
             return date_str
 
+    def get_display_date(self, article):
+        """Return best available date for display.
+        Shows published date if available; falls back to download_date with a 'fetched' label."""
+        published = (article.get('published') or '').strip()
+        if published:
+            return self.format_date(published)
+        download = (article.get('download_date') or '').strip()
+        if download:
+            return f"fetched {self.format_date(download)}"
+        return "Unknown date"
+
     def get_source_color(self, source):
         """Get color for source badge"""
         colors = {
@@ -561,7 +572,7 @@ h1.article-title {
                 <div class="item-meta">
                     <span class="source-badge" style="background-color:{src_color}">{article['source']}</span>
                     <span>by {article.get('author', 'Unknown')}</span>
-                    <span>{self.format_date(article.get('published', ''))}</span>
+                    <span>{self.get_display_date(article)}</span>
                 </div>
             </div>
             <div class="item-actions">
@@ -698,7 +709,7 @@ h1.article-title {
             <div class="article-header">
                 <div class="article-meta-top">
                     <span class="source-badge" style="background-color:{src_color}">{article['source']}</span>
-                    <span class="article-date">{self.format_date(article.get('published', ''))}</span>
+                    <span class="article-date">{self.get_display_date(article)}</span>
                     <span class="article-author">by {article.get('author', 'Unknown')}</span>
                     {meta_extra_html}
                 </div>

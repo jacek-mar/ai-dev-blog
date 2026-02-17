@@ -26,7 +26,7 @@ This project automatically aggregates technical articles from top AI and machine
 
 **Hybrid Approach:**
 - **GitHub Actions** - Free scheduling and Python execution (public repos)
-- **KiloCode Webhooks** - Professional AI analysis via Claude Sonnet 4.5
+- **KiloCode Webhooks** - Professional AI analysis via LLM
 - **GitHub Pages** - Free static site hosting
 
 ```
