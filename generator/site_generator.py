@@ -14,6 +14,7 @@ from pathlib import Path
 import re
 import sys
 import io
+from dateutil import parser as dateparser
 
 # Fix Windows console encoding for Unicode
 if sys.platform == 'win32':
@@ -49,10 +50,7 @@ class SiteGenerator:
         with open(self.articles_file, 'r', encoding='utf-8') as f:
             self.articles = json.load(f)
 
-        self.articles.sort(
-            key=lambda x: x.get('published', x.get('download_date', '')),
-            reverse=True
-        )
+        self.articles.sort(key=self._parse_date_for_sort, reverse=True)
         self.sources = sorted(set(article['source'] for article in self.articles))
 
         print(f"Loaded {len(self.articles)} articles from {len(self.sources)} sources")
@@ -63,6 +61,23 @@ class SiteGenerator:
         slug = re.sub(r'[^\w\s-]', '', text.lower())
         slug = re.sub(r'[\s_]+', '-', slug)
         return slug.strip('-')[:100]
+
+    def _parse_date_for_sort(self, article):
+        """Parse article date to datetime for reliable sort (newest first).
+
+        Tries 'published' first, falls back to 'download_date'.
+        Handles ISO 8601, RFC 2822 (RSS), and human-readable formats like 'Feb 13, 2026'.
+        Returns datetime.min for unparseable dates so they sink to the bottom.
+        """
+        for field in ('published', 'download_date'):
+            date_str = (article.get(field) or '').strip()
+            if not date_str:
+                continue
+            try:
+                return dateparser.parse(date_str, ignoretz=True)
+            except Exception:
+                continue
+        return datetime.min
 
     def format_date(self, date_str):
         """Format date string for display"""
