@@ -129,6 +129,8 @@ class KiloAIEnhancer:
                 'ai_technical_level': ai_data['technical_level'],
                 'ai_key_insights': ai_data['key_insights'],
                 'ai_recommended': ai_data['recommended'],
+                'ai_quote': ai_data.get('quote', ''),
+                'ai_quote_attribution': ai_data.get('quote_attribution', ''),
                 'ai_enhanced': True,
                 'ai_enhanced_at': datetime.now().isoformat()
             }
@@ -188,6 +190,8 @@ class KiloAIEnhancer:
             'ai_technical_level': 'intermediate',
             'ai_key_insights': [],
             'ai_recommended': False,
+            'ai_quote': '',
+            'ai_quote_attribution': '',
             'ai_enhanced': False
         }
 
