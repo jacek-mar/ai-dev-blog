@@ -9,9 +9,11 @@ on:
   # Allow manual triggering from Actions tab
   workflow_dispatch:
 
-# Required permissions for git push
+# Required permissions
 permissions:
-  contents: write
+  contents: write        # For git push
+  pages: write          # For GitHub Pages deployment
+  id-token: write       # For GitHub Pages deployment
 
 jobs:
   scrape-enhance-deploy:
@@ -58,11 +60,11 @@ jobs:
           echo "✅ Site generated successfully"
 
       # ========================================
-      # Step 4: Deploy to GitHub
+      # Step 4: Commit Changes to Repository
       # ========================================
       - name: Commit and push changes
         run: |
-          echo "📦 Preparing to deploy changes..."
+          echo "📦 Preparing to commit changes..."
 
           # Configure git
           git config user.name "GitHub Actions Bot"
@@ -82,12 +84,23 @@ jobs:
             # Push to repository
             git push
 
-            echo "✅ Successfully deployed updates to GitHub"
-            echo "🌐 GitHub Pages will rebuild automatically"
+            echo "✅ Successfully committed updates to GitHub"
           fi
 
       # ========================================
-      # Step 5: Generate Run Summary
+      # Step 5: Deploy to GitHub Pages
+      # ========================================
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'site/'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      # ========================================
+      # Step 6: Generate Run Summary
       # ========================================
       - name: Generate run summary
         if: always()  # Run even if previous steps fail
@@ -111,3 +124,4 @@ jobs:
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "- **Status:** ✅ Success" >> $GITHUB_STEP_SUMMARY
           echo "- **Next Run:** $(date -u -d '+4 hours' +'%Y-%m-%d %H:%M UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "- **Site URL:** https://jacek-mar.github.io/ai-dev-blog/" >> $GITHUB_STEP_SUMMARY

@@ -89,9 +89,9 @@ GitHub Actions (every 4 hours)
 3. **Enable GitHub Pages**
 
    Go to: **Settings → Pages**
-   - Source: `Deploy from a branch`
-   - Branch: `main`
-   - Folder: `/site`
+   - Source: **GitHub Actions** (not "Deploy from a branch")
+   - No branch or folder selection needed — the workflow deploys from `site/` automatically
+   - Note: `/site` is not available as a folder option in branch-based deployment
 
 4. **Enable GitHub Actions**
 
@@ -146,10 +146,15 @@ Edit `sources.json` to add/remove blog sources:
 1. Sign up at [kilo.ai](https://kilo.ai)
 2. Create a new Cloud Agent (webhook-triggered)
 3. Configure AI analysis:
-   - Model: `claude-sonnet-4-5-20250929`
+   - **Model:** Claude Sonnet 4.5 (`claude-sonnet-4-5-20250929`) is a solid default,
+     but **500+ models are available** — including free-tier options (GLM-5, MiniMax M2.5)
+     that work just as well for this task. See the [Cost Analysis](#-cost-analysis) section below.
    - Temperature: `0.3`
    - Max tokens: `1000`
-4. Copy webhook URL and secret to GitHub Secrets
+4. Set the **Prompt Template** — see [WEBHOOK_PROMPT_TEMPLATES.md](WEBHOOK_PROMPT_TEMPLATES.md)
+   for the current production template plus 7 alternatives (Minimal, Deep Technical,
+   Beginner-Friendly, Opinionated Curation, Polish, Digest, and the retired legacy template).
+5. Copy webhook URL and secret to GitHub Secrets
 
 ### Workflow Frequency
 
@@ -180,12 +185,15 @@ Edit `generator/site_generator.py` to:
 ### Article Enhancement
 
 Each article is analyzed for:
-- **AI Summary** - Concise 2-3 sentence overview
-- **Category** - AI/ML, LLMs, DevOps, etc.
+- **AI Summary** - 200–250 word developer-focused overview (template-dependent)
+- **Original Quote** - Verbatim 1–2 sentence quote with attribution
+- **Category** - AI/ML, LLMs, DevOps, Cloud, etc.
 - **Topics** - Specific technologies mentioned
 - **Technical Level** - Beginner, Intermediate, Advanced
 - **Key Insights** - Actionable takeaways
 - **Recommendation** - Top 20% must-read articles
+
+See [WEBHOOK_PROMPT_TEMPLATES.md](WEBHOOK_PROMPT_TEMPLATES.md) to customize or switch the AI analysis prompt.
 
 ### Supported Sources
 
@@ -362,9 +370,11 @@ python scraper/scraper.py
 
 ## 📚 Documentation
 
+- **Deployment Tutorial:** [DEPLOYMENT_TUTORIAL.md](DEPLOYMENT_TUTORIAL.md) — step-by-step guide covering GitHub Actions, KiloCode webhooks, and GitHub Pages (including known gotchas like the `/site` folder limitation and the `/deployments` 404)
+- **Webhook Prompt Templates:** [WEBHOOK_PROMPT_TEMPLATES.md](WEBHOOK_PROMPT_TEMPLATES.md) — current, legacy, and 7 alternative AI prompt templates with cost and model guidance
+- **Copyright & Ethics:** [COPYRIGHT.md](COPYRIGHT.md) — scraping policy, source attribution, AI summary disclaimer
 - **Architecture:** See workflow diagram above
 - **Implementation:** Review code comments in `scraper/scraper.py`
-- **Deployment:** Follow Quick Start guide
 - **Customization:** Modify `sources.json` and `site_generator.py`
 
 ## 🤝 Contributing
