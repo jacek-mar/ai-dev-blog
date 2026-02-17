@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>AI Developers Blog</title>
+        <link>https://jacek-mar.github.io/ai-dev-blog/</link>
+        <description>Curated AI and developer news from leading sources</description>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 17 Feb 2026 16:30:37 +0000</lastBuildDate>
+        <atom:link href="https://jacek-mar.github.io/ai-dev-blog/feed.xml" rel="self" type="application/rss+xml"/>
+
+        <item>
+            <title>GLM-5 and Minimax M2.5 are now available in WindsurfGLM-5 from Zhipu AI and Minimax M2.5 are now available in Windsurf with limited-time promotional p</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/glm-5-and-minimax-m25-are-now-available-in-windsurfglm-5-from-zhipu-ai-and-minimax-m25-are-now-avail.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/glm-5-and-minimax-m25-are-now-available-in-windsurfglm-5-from-zhipu-ai-and-minimax-m25-are-now-avail.html</guid>
+            <description>No content available.</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Windsurf</category>
+        </item>
+        <item>
+            <title>Click here</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/click-here.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/click-here.html</guid>
+            <description>Our most intelligent model is now available on Vertex AI and Gemini Enterprise Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip: Not sure where to find w</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Google Cloud</category>
+        </item>
+        <item>
+            <title>Build intelligent employee onboarding with Gemini Enterprise</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/build-intelligent-employee-onboarding-with-gemini-enterprise.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/build-intelligent-employee-onboarding-with-gemini-enterprise.html</guid>
+            <description>Generative AI Field Solutions Architect Enterprise AI Integration, Field Product Manager Our most intelligent model is now available on Vertex AI and Gemini Enterprise Employee onboarding is rarely a linear process. It’s a complex web of dependencies that vary significantly based on an individual’s </description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Google Cloud</category>
+        </item>
+        <item>
+            <title>Getting Started with Gemini 3: Unlocking the Cloud with the Free Trial</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/getting-started-with-gemini-3-unlocking-the-cloud-with-the-free-trial.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/getting-started-with-gemini-3-unlocking-the-cloud-with-the-free-trial.html</guid>
+            <description>The requested URL /blog/topics/developers-practitioners/getting-started-with-gemini-3-unlocking-the-cloud-with-the-free-trial was not found on this server. That&apos;s all we know.</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Google Cloud</category>
+        </item>
+        <item>
+            <title>Ship Production Ready AI and Survive the Multimodal Frontier This February</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/ship-production-ready-ai-and-survive-the-multimodal-frontier-this-february.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/ship-production-ready-ai-and-survive-the-multimodal-frontier-this-february.html</guid>
+            <description>Developer Relations Engineering Manager The AI landscape is moving at breakneck speed. One day you’re figuring out how to secure a basic chatbot, and the next, you’re looking at agents that can see, hear, and react in real-time. This February and March, the Google Cloud is bringing you the best of b</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Google Cloud</category>
+        </item>
+        <item>
+            <title>BigQuery AI supports Gemini 3.0, simplified embedding generation and new similarity function</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/bigquery-ai-supports-gemini-30-simplified-embedding-generation-and-new-similarity-function.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/bigquery-ai-supports-gemini-30-simplified-embedding-generation-and-new-similarity-function.html</guid>
+            <description>Software Engineer Software Engineer Our most intelligent model is now available on Vertex AI and Gemini Enterprise The digital landscape is flooded with unstructured data — images, videos, audio, and documents — that often remain untapped.</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Google Cloud</category>
+        </item>
+        <item>
+            <title>Spanner in 2025: Innovations powering intelligent, multi-model AI applications</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/spanner-in-2025-innovations-powering-intelligent-multi-model-ai-applications.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/spanner-in-2025-innovations-powering-intelligent-multi-model-ai-applications.html</guid>
+            <description>Group Product Manager Group Product Manager Our most intelligent model is now available on Vertex AI and Gemini Enterprise For over a decade now, Google has relied on Spanner, an always-on, virtually unlimited database to power global-scale applications like Gmail, YouTube, and Google Photos.</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Google Cloud</category>
+        </item>
+        <item>
+            <title>Introducing Conversational Analytics in BigQuery</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/introducing-conversational-analytics-in-bigquery.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/introducing-conversational-analytics-in-bigquery.html</guid>
+            <description>Product Manager Senior Engineering Manager Our most intelligent model is now available on Vertex AI and Gemini Enterprise Businesses want to move quickly and make informed decisions, but the explosion of data in today’s organizations often can leave knowledge teams buried and business users waiting </description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Google Cloud</category>
+        </item>
+        <item>
+            <title>Introducing Single-tenant Cloud HSM to support more data encryption control</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/introducing-single-tenant-cloud-hsm-to-support-more-data-encryption-control.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/introducing-single-tenant-cloud-hsm-to-support-more-data-encryption-control.html</guid>
+            <description>Product Manager, Google Cloud Security Engineering Manager, Google Cloud Security Our most intelligent model is now available on Vertex AI and Gemini Enterprise Organizations that handle sensitive data in highly-regulated sectors often face a difficult choice: Build and manage physical hardware to m</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Google Cloud</category>
+        </item>
+        <item>
+            <title>No Place Like Home Network: Disrupting the World&apos;s Largest Residential Proxy Network</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/no-place-like-home-network-disrupting-the-worlds-largest-residential-proxy-network.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/no-place-like-home-network-disrupting-the-worlds-largest-residential-proxy-network.html</guid>
+            <description>Visibility and context on the threats that matter most. This week Google and partners took action to disrupt what we believe is one of the largest residential proxy networks in the world, the IPIDEA proxy network. IPIDEA’s proxy infrastructure is a little-known component of the digital ecosystem lev</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Google Cloud</category>
+        </item>
+        <item>
+            <title>Delivering a secure, open, and sovereign digital world</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/delivering-a-secure-open-and-sovereign-digital-world.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/delivering-a-secure-open-and-sovereign-digital-world.html</guid>
+            <description>VP/GM, Infrastructure and Solutions Group, Google Cloud VP/GM, Regulated and Sovereign Cloud, Google Cloud The latest on security from Google Cloud&apos;s Office of the CISO, twice a month.</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Google Cloud</category>
+        </item>
+        <item>
+            <title>Mastering Gemini CLI: Your Complete Guide from Installation to Advanced Use-Cases</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/mastering-gemini-cli-your-complete-guide-from-installation-to-advanced-use-cases.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/mastering-gemini-cli-your-complete-guide-from-installation-to-advanced-use-cases.html</guid>
+            <description>Developer Advocate Senior Developer Relations Engineer We’ve teamed up with DeepLearning.ai and are excited to announce a free course – Gemini CLI: Code &amp; Create with an Open-Source Agent. This comprehensive course is designed to empower users by teaching them how to integrate Gemini CLI–and its mos</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Google Cloud</category>
+        </item>
+        <item>
+            <title>What&apos;s new with ML infrastructure for Dataflow</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/whats-new-with-ml-infrastructure-for-dataflow.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/whats-new-with-ml-infrastructure-for-dataflow.html</guid>
+            <description>Product Manager, Google Software Engineer, Google Cloud Our most intelligent model is now available on Vertex AI and Gemini Enterprise The world of artificial intelligence is moving at lightning speed. At Google Cloud, we’re committed to providing best-in-class infrastructure to power your AI and ML</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Google Cloud</category>
+        </item>
+        <item>
+            <title>Announcing Claude Opus 4.6 on Vertex AI</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/announcing-claude-opus-46-on-vertex-ai.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/announcing-claude-opus-46-on-vertex-ai.html</guid>
+            <description>VP of Product Management, Vertex AI At Google Cloud, we’re committed to providing customers with the leading selection of models to build and scale production-ready AI apps and agents on a platform optimized for performance, trust, and global scale. Today, we’re further expanding Vertex AI’s curated</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Google Cloud</category>
+        </item>
+        <item>
+            <title>Accelerate GKE cluster autoscaling with faster concurrent node pool auto-creation</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/accelerate-gke-cluster-autoscaling-with-faster-concurrent-node-pool-auto-creation.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/accelerate-gke-cluster-autoscaling-with-faster-concurrent-node-pool-auto-creation.html</guid>
+            <description>Software Engineer, GKE Product Manager, GKE Our most intelligent model is now available on Vertex AI and Gemini Enterprise We&apos;re excited to announce concurrency in Google Kubernetes Engine (GKE) node pool auto-creation, to significantly reduce provisioning latency and autoscaling performance.</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Google Cloud</category>
+        </item>
+        <item>
+            <title>High-performance inference meets serverless compute with NVIDIA RTX PRO 6000 on Cloud Run</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/high-performance-inference-meets-serverless-compute-with-nvidia-rtx-pro-6000-on-cloud-run.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/high-performance-inference-meets-serverless-compute-with-nvidia-rtx-pro-6000-on-cloud-run.html</guid>
+            <description>Engineering Manager Our most intelligent model is now available on Vertex AI and Gemini Enterprise Running large-scale inference models can involve significant operational toil, including cluster management and manual VM maintenance. One solution is to leverage a serverless compute platform to abstr</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Google Cloud</category>
+        </item>
+        <item>
+            <title>Google Distributed Cloud brings public-cloud-like networking to air-gapped environments</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/google-distributed-cloud-brings-public-cloud-like-networking-to-air-gapped-environments.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/google-distributed-cloud-brings-public-cloud-like-networking-to-air-gapped-environments.html</guid>
+            <description>Product Manager Product Manager Our most intelligent model is now available on Vertex AI and Gemini Enterprise Organizations in highly regulated industries often struggle to balance the rigid security of air-gapped environments with the need for the agility and flexibility that the cloud provides.</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Google Cloud</category>
+        </item>
+        <item>
+            <title>How we cut Vertex AI latency</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/how-we-cut-vertex-ai-latency.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/how-we-cut-vertex-ai-latency.html</guid>
+            <description>Product Manager Software Engineer Our most intelligent model is now available on Vertex AI and Gemini Enterprise As generative AI moves from experimentation to production, platform engineers face a universal challenge for inference serving: you need low latency, high throughput, and manageable costs</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Google Cloud</category>
+        </item>
+        <item>
+            <title>Telemetry Protocol metrics</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/telemetry-protocol-metrics.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/telemetry-protocol-metrics.html</guid>
+            <description>Senior Product Manager Senior Product Manager Our most intelligent model is now available on Vertex AI and Gemini Enterprise As part of our commitment to open standards, Google Cloud is deeply invested in making OpenTelemetry the universal client, data format, and set of standards for telemetry data</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Google Cloud</category>
+        </item>
+        <item>
+            <title>Simpler billing, clearer savings: A FinOps guide to updated spend-based CUDs</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/simpler-billing-clearer-savings-a-finops-guide-to-updated-spend-based-cuds.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/simpler-billing-clearer-savings-a-finops-guide-to-updated-spend-based-cuds.html</guid>
+            <description>Product Manager Our most intelligent model is now available on Vertex AI and Gemini Enterprise Optimizing cloud spend is one of the most rewarding aspects of FinOps — and committed use discounts (CUDs) remain one of the most effective levers to pull.</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Google Cloud</category>
+        </item>
+        <item>
+            <title>Gemini Enterprise Agent Ready (GEAR) program now available, a new path to building AI agents at scale</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/gemini-enterprise-agent-ready-gear-program-now-available-a-new-path-to-building-ai-agents-at-scale.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/gemini-enterprise-agent-ready-gear-program-now-available-a-new-path-to-building-ai-agents-at-scale.html</guid>
+            <description>Vice President, Product Marketing Vice President, Global Solutions &amp; Industries Our most intelligent model is now available on Vertex AI and Gemini Enterprise Today’s reality is agentic – software that can reason, plan, and act on your behalf to execute complex workflows. To meet this moment, we are</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Google Cloud</category>
+        </item>
+        <item>
+            <title>17, 2026AnnouncementsAnthropic and the Government of Rwanda sign MOU for AI in health and education</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/17-2026announcementsanthropic-and-the-government-of-rwanda-sign-mou-for-ai-in-health-and-education.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/17-2026announcementsanthropic-and-the-government-of-rwanda-sign-mou-for-ai-in-health-and-education.html</guid>
+            <description>The Government of Rwanda and Anthropic have signed a three-year Memorandum of Understanding to formalize and expand our partnership, bringing AI to Rwanda’s education, health, and public sector systems.</description>
+            <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Claude</category>
+        </item>
+        <item>
+            <title>17, 2026AnnouncementsAnthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/17-2026announcementsanthropic-and-infosys-collaborate-to-build-ai-agents-for-telecommunications-and-.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/17-2026announcementsanthropic-and-infosys-collaborate-to-build-ai-agents-for-telecommunications-and-.html</guid>
+            <description>Anthropic and Infosys, a global leader in next-generation digital services and consulting founded and headquartered in Bengaluru, today announced a collaboration to develop and deliver enterprise AI solutions across telecommunications, financial services, manufacturing, and software development.</description>
+            <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Claude</category>
+        </item>
+        <item>
+            <title>Auto Model: Stop Thinking About Which AI Model to Use</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/auto-model-stop-thinking-about-which-ai-model-to-use.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/auto-model-stop-thinking-about-which-ai-model-to-use.html</guid>
+            <description>You’re deep in a coding session, architecting a new feature with a powerful reasoning model. Then you switch to implementation and realize you’re still burning through a ton of tokens for straightforward code generation. So you switch to a cheaper model. Then back to the premium one for debugging a </description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Job Rietbergen</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>Optimized Grok Code Fast 1 is Here (and Free)</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/optimized-grok-code-fast-1-is-here-and-free.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/optimized-grok-code-fast-1-is-here-and-free.html</guid>
+            <description>We’re doing something special: Grok Code Fast 1 is back, it’s optimized, and it’s totally free in Kilo for a limited time. We heard you when xAI’s Grok Code Fast 1 model moved to a paid tier. We know it’s a daily driver for many of you.</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Ari</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>OpenClaw and the Rise of AI Agents: Power, Promise, and Peril</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/openclaw-and-the-rise-of-ai-agents-power-promise-and-peril.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/openclaw-and-the-rise-of-ai-agents-power-promise-and-peril.html</guid>
+            <description>Neeraj Published: February 16, 2026 · Last updated: February 16, 2026 Picture an assistant that doesn’t just answer questions, but quietly does things for you. You message it from an app you already use maybe WhatsApp or Telegram and ask it to find the cheapest nonstop flight to Tokyo, mark the date</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>neeraj.khandelwal@forgood.ai (Neeraj)</author>
+            <category>Zencoder</category>
+        </item>
+        <item>
+            <title>OpenClaw founder to OpenAI...now what?</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/openclaw-founder-to-openainow-what.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/openclaw-founder-to-openainow-what.html</guid>
+            <description>Peter Steinberger, the creator of OpenClaw, is joining OpenAI. Sam Altman announced it on X: Peter will “drive the next generation of personal agents,” and OpenClaw will “live in a foundation as an open source project that OpenAI will continue to support.” Let me say this clearly: Peter earned this.</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Brendan O&apos;Leary</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>16, 2026AnnouncementsAnthropic opens Bengaluru office and announces new partnerships across India</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/16-2026announcementsanthropic-opens-bengaluru-office-and-announces-new-partnerships-across-india.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/16-2026announcementsanthropic-opens-bengaluru-office-and-announces-new-partnerships-across-india.html</guid>
+            <description>India is the second-largest market for Claude.ai, home to a developer community doing some of the most technically intense AI work we see anywhere. Nearly half of Claude usage in India comprises computer and mathematical tasks: building applications, modernizing systems, and shipping production soft</description>
+            <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Claude</category>
+        </item>
+        <item>
+            <title>How I Claw - OpenClaw as my Intern</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/how-i-claw---openclaw-as-my-intern.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/how-i-claw---openclaw-as-my-intern.html</guid>
+            <description>Everyone’s excited about OpenClaw. The security implications are real. People are buying Mac minis to run it, giving an autonomous agent unfiltered access to their accounts, SSH keys, passwords — their whole life. OpenClaw’s value does come from accessing your email, calendar, and messages. But I th</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Brendan O&apos;Leary</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>How to Use NVIDIA NIM + Kilo Code to Access Kimi K2.5 and Dozens of Free Models</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/how-to-use-nvidia-nim-kilo-code-to-access-kimi-k25-and-dozens-of-free-models.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/how-to-use-nvidia-nim-kilo-code-to-access-kimi-k25-and-dozens-of-free-models.html</guid>
+            <description>Did you know: NVIDIA has a generous free tier that allows you to use models like Kimi K2.5 at no cost. In this tutorial, we’ll walk through how to use NVIDIA’s Build platform + Kilo Code to get free access to Kimi K2.5. Install the Kilo Code extension Sign up for an NVIDIA Build account.</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Darko</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>Enterprise identity and usage metrics</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/enterprise-identity-and-usage-metrics.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/enterprise-identity-and-usage-metrics.html</guid>
+            <description>Since Kiro became generally available on November 17th, we have seen many enterprises like Rackspace, Smugmug and Netsmart adopt the spec-driven development approach across engineering teams to bring more structure in how they develop with AI, seeing increases in efficiency of up to 90% in some case</description>
+            <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+            <author>Ranjith Ramakrishnan</author>
+            <category>Kiro</category>
+        </item>
+        <item>
+            <title>13, 2026AnnouncementsAnthropic partners with CodePath to bring Claude to the US’s largest collegiate computer science program</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/13-2026announcementsanthropic-partners-with-codepath-to-bring-claude-to-the-uss-largest-collegiate-c.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/13-2026announcementsanthropic-partners-with-codepath-to-bring-claude-to-the-uss-largest-collegiate-c.html</guid>
+            <description>Anthropic is partnering with CodePath, the nation’s largest provider of collegiate computer science education, to redesign its coding curriculum as AI reshapes the field of software development.</description>
+            <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Claude</category>
+        </item>
+        <item>
+            <title>13, 2026AnnouncementsChris Liddell appointed to Anthropic’s board of directors</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/13-2026announcementschris-liddell-appointed-to-anthropics-board-of-directors.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/13-2026announcementschris-liddell-appointed-to-anthropics-board-of-directors.html</guid>
+            <description>Chris Liddell has been appointed to Anthropic’s Board of Directors. He brings over 30 years of senior leadership experience across some of the world&apos;s largest and most complex organizations to the role. He previously served as Chief Financial Officer of Microsoft, General Motors, and International P</description>
+            <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Claude</category>
+        </item>
+        <item>
+            <title>Custom Kernels for All from Codex and Claude</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/custom-kernels-for-all-from-codex-and-claude.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/custom-kernels-for-all-from-codex-and-claude.html</guid>
+            <description>tl;dr: We built an agent skill that teaches coding agents how to write production CUDA kernels. Then we pointed Claude and Codex at two real targets: a diffusers pipeline and a transformers model. The agents produced working kernels for both, with correct PyTorch bindings and benchmarks, end to end.</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Unknown</author>
+            <category>HuggingFace</category>
+        </item>
+        <item>
+            <title>MiniMax M2.5 is Here, and it&apos;s Free in Kilo for a Week</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/minimax-m25-is-here-and-its-free-in-kilo-for-a-week.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/minimax-m25-is-here-and-its-free-in-kilo-for-a-week.html</guid>
+            <description>We started Kilo Code with a simple mission: give every developer the world’s most powerful tools without the “frontier tax.” Today, we’re taking our biggest leap yet. We are thrilled to announce that MiniMax’s hotly anticipated new model, MiniMax M2.5 is live on Kilo Code.</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Ari</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>AI Agent Survival Guide, Part 4: Your Agent Army Awaits</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/ai-agent-survival-guide-part-4-your-agent-army-awaits.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/ai-agent-survival-guide-part-4-your-agent-army-awaits.html</guid>
+            <description>Andrew Filev Published: February 12, 2026 · Last updated: February 12, 2026 This is Part 4 of a four-part series. In Parts 1–3, we built a security foundation: automated scanning for repos, MCP servers, and skills before they touch your machine. This post is about what comes next: putting all your A</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Andrew Filev</author>
+            <category>Zencoder</category>
+        </item>
+        <item>
+            <title>AI Agent Survival Guide, Part 3: That MCP Server You Just Installed</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/ai-agent-survival-guide-part-3-that-mcp-server-you-just-installed.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/ai-agent-survival-guide-part-3-that-mcp-server-you-just-installed.html</guid>
+            <description>Andrew Filev Published: February 12, 2026 · Last updated: February 12, 2026 This is Part 3 of a four-part series. In Part 1, we built an automated gate for scanning public repos before cloning them. In Part 2, we audited a real tool and discovered the structural vulnerability that affects every AI a</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Andrew Filev</author>
+            <category>Zencoder</category>
+        </item>
+        <item>
+            <title>AI Agent Survival Guide, Part 2: Chasing the Nine-Tailed Fox</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/ai-agent-survival-guide-part-2-chasing-the-nine-tailed-fox.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/ai-agent-survival-guide-part-2-chasing-the-nine-tailed-fox.html</guid>
+            <description>Andrew Filev Published: February 12, 2026 · Last updated: February 12, 2026 This is Part 2 of a four-part series. In Part 1, I published a set of open-source skills that automatically scan every public repo, MCP server, or skill before you install it. Thirty seconds of your agent&apos;s time, a summary t</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Andrew Filev</author>
+            <category>Zencoder</category>
+        </item>
+        <item>
+            <title>AI Agent Survival Guide, Part 1: The Repo You Didn&apos;t Scan</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/ai-agent-survival-guide-part-1-the-repo-you-didnt-scan.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/ai-agent-survival-guide-part-1-the-repo-you-didnt-scan.html</guid>
+            <description>Andrew Filev Published: February 12, 2026 · Last updated: February 12, 2026 This is Part 1 of a four-part series. This year we are going to see a steady beat of two progressing themes: A week doesn&apos;t pass without a new vibe-coded repo that people plug into their AI agents that have network and bash </description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Andrew Filev</author>
+            <category>Zencoder</category>
+        </item>
+        <item>
+            <title>GLM-5 is free on Kilo Code/CLI (for a limited time)</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/glm-5-is-free-on-kilo-codecli-for-a-limited-time.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/glm-5-is-free-on-kilo-codecli-for-a-limited-time.html</guid>
+            <description>GLM-5 is out, and the entire internet can’t stop talking about it. The model matches Opus 4.5 on many tasks at a fraction of the cost. We’re making GLM-5 free on our CLI (we recently upgraded our CLI to 1.0 and forked OpenCode) and in our VS Code extension (which has over 700,000 downloads on the VS</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Darko</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>Kilo Code Weekly Product Roundup | Feb 11, 2025</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/kilo-code-weekly-product-roundup-feb-11-2025.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/kilo-code-weekly-product-roundup-feb-11-2025.html</guid>
+            <description>Welcome back to the weekly product roundup! This week, Opus 4.6 lands across the platform, Agent Manager gets YOLO mode and inline renaming, Code Reviews gets a loading UX boost, and we pick up a handful of new models and providers. Anthropic’s new flagship model is live in Kilo.</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Brian Turcotte</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>AnnouncementsAnthropic raises $30 billion in Series G funding at $380 billion post-money valuationWe have raised $30 billion in Series G funding led b</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/announcementsanthropic-raises-30-billion-in-series-g-funding-at-380-billion-post-money-valuationwe-h.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/announcementsanthropic-raises-30-billion-in-series-g-funding-at-380-billion-post-money-valuationwe-h.html</guid>
+            <description>We have raised $30 billion in Series G funding led by GIC and Coatue, valuing Anthropic at $380 billion post-money. Shaw Ventures, Dragoneer, Founders Fund, ICONIQ, and MGX. The investment will fuel the frontier research, product development, and infrastructure expansions that have made Anthropic th</description>
+            <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Claude</category>
+        </item>
+        <item>
+            <title>AnnouncementsClaude is a space to thinkWe’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/announcementsclaude-is-a-space-to-thinkweve-made-a-choice-claude-will-remain-ad-free-we-explain-why-.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/announcementsclaude-is-a-space-to-thinkweve-made-a-choice-claude-will-remain-ad-free-we-explain-why-.html</guid>
+            <description>There are many good places for advertising. A conversation with Claude is not one of them. Advertising drives competition, helps people discover new products, and allows services like email and social media to be offered for free. We’ve run our own ad campaigns, and our AI models have, in turn, help</description>
+            <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Claude</category>
+        </item>
+        <item>
+            <title>AnnouncementsIntroducing Claude Sonnet 4.5Claude Sonnet 4.5 sets new benchmark records in coding, reasoning, and computer use while being Anthropic&apos;s</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/announcementsintroducing-claude-sonnet-45claude-sonnet-45-sets-new-benchmark-records-in-coding-reaso.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/announcementsintroducing-claude-sonnet-45claude-sonnet-45-sets-new-benchmark-records-in-coding-reaso.html</guid>
+            <description>Claude Sonnet 4.5 is the best coding model in the world. It&apos;s the strongest model for building complex agents. It’s the best model at using computers. And it shows substantial gains in reasoning and math. It runs every application, spreadsheet, and software tool you use. Being able to use those tool</description>
+            <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Claude</category>
+        </item>
+        <item>
+            <title>12, 2026PolicyAnthropic is donating $20 million to Public First Action</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/12-2026policyanthropic-is-donating-20-million-to-public-first-action.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/12-2026policyanthropic-is-donating-20-million-to-public-first-action.html</guid>
+            <description>AI will bring enormous benefits—for science, technology, medicine, economic growth, and much more. But a technology this powerful also comes with considerable risks. Those risks might come from the misuse of the models: AI is already being exploited to automate cyberattacks; in the future it might a</description>
+            <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+            <author>Unknown</author>
+            <category>Claude</category>
+        </item>
+        <item>
+            <title>OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/openenv-in-practice-evaluating-tool-using-agents-in-real-world-environments.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/openenv-in-practice-evaluating-tool-using-agents-in-real-world-environments.html</guid>
+            <description>AI agents often perform impressively in controlled research settings, yet struggle when deployed in real-world systems where they must reason across multiple steps, interact with real tools and APIs, operate under partial information, and recover from errors in stateful, permissioned environments—hi</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Unknown</author>
+            <category>HuggingFace</category>
+        </item>
+        <item>
+            <title>The Secret is Out: Pony Alpha is GLM-5 (And It’s Free in Kilo)</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/the-secret-is-out-pony-alpha-is-glm-5-and-its-free-in-kilo.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/the-secret-is-out-pony-alpha-is-glm-5-and-its-free-in-kilo.html</guid>
+            <description>For the past few weeks, the AI world has been buzzing about a “stealth” model appearing in the wild. Known only as Pony Alpha, this mystery model has been crushing coding benchmarks and showing off “deep-thinking” reasoning capabilities that rival the biggest names in the industry. Reddit has been l</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Ari</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>Open weight models are here: more choice, more speed, less cost</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/open-weight-models-are-here-more-choice-more-speed-less-cost.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/open-weight-models-are-here-more-choice-more-speed-less-cost.html</guid>
+            <description>From the start, we built Kiro to give you the best AI coding experience possible. That meant shipping with the current state-of-the-art coding models and building everything around quality output.</description>
+            <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+            <author>Nima Kaviani</author>
+            <category>Kiro</category>
+        </item>
+        <item>
+            <title>Anthropic&apos;s Engineers Report a 50% Productivity Boost. Now What?</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/anthropics-engineers-report-a-50-productivity-boost-now-what.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/anthropics-engineers-report-a-50-productivity-boost-now-what.html</guid>
+            <description>A director at a traditional company recently told Gergely Orosz something that stuck with me: “We’re starting to rename 2-pizza teams to 1-pizza teams. With AI, large teams just no longer make sense and slows things down.” Amazon’s two-pizza rule has been engineering gospel for what, 20 years? If yo</description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Brendan O&apos;Leary</author>
+            <category>KiloCode</category>
+        </item>
+        <item>
+            <title>Amp Code Is Killing Their VS Code Extension. We&apos;re Doubling Down on Ours</title>
+            <link>https://jacek-mar.github.io/ai-dev-blog/posts/amp-code-is-killing-their-vs-code-extension-were-doubling-down-on-ours.html</link>
+            <guid>https://jacek-mar.github.io/ai-dev-blog/posts/amp-code-is-killing-their-vs-code-extension-were-doubling-down-on-ours.html</guid>
+            <description>On February 5, the creators of Amp Code announced that their VS Code extension will self-destruct in 60 days or less. All development effort is being redirected to the CLI. Amp Code thinks the future of agentic AI coding isn’t in VS Code. Kilo Code is the leading open-source AI coding extension for </description>
+            <pubDate>Tue, 17 Feb 2026 16:30:37 +0000</pubDate>
+            <author>Darko</author>
+            <category>KiloCode</category>
+        </item>
+    </channel>
+</rss>

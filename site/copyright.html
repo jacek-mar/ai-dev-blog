@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Copyright — AI Developers Blog</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .copyright-content {
+            max-width: var(--width);
+            margin: 20px auto;
+            padding: 0 var(--pad);
+            line-height: 1.8;
+        }
+        .copyright-content h2 {
+            font-size: 14px;
+            font-family: var(--mono);
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin: 20px 0 8px;
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 4px;
+        }
+        .copyright-content p, .copyright-content li {
+            color: var(--text-dim);
+            font-size: 13px;
+            margin-bottom: 8px;
+        }
+        .copyright-content ul { padding-left: 18px; margin-bottom: 10px; }
+        .copyright-content hr { border: none; border-top: 1px solid var(--border); margin: 16px 0; }
+        .copyright-content strong { color: var(--text); }
+    </style>
+</head>
+<body>
+    
+    <nav class="main-nav">
+        <div class="nav-container">
+            <a href="index.html" class="nav-brand">[AI Dev Blog]</a>
+            <div class="nav-links">
+                <a href="index.html" class="nav-link active">All</a>
+                <span class="nav-sep">|</span>
+                <div class="dropdown">
+                    <button class="nav-link dropdown-btn">Sources ▾</button>
+                    <div class="dropdown-content">
+                <a href="sources/claude.html">Claude</a>
+                <a href="sources/google-cloud.html">Google Cloud</a>
+                <a href="sources/huggingface.html">HuggingFace</a>
+                <a href="sources/kilocode.html">KiloCode</a>
+                <a href="sources/kiro.html">Kiro</a>
+                <a href="sources/windsurf.html">Windsurf</a>
+                <a href="sources/zencoder.html">Zencoder</a>
+                    </div>
+                </div>
+                <span class="nav-sep">|</span>
+                <a href="feed.xml" class="nav-link">RSS</a>
+                <span class="nav-sep">|</span>
+                <a href="copyright.html" class="nav-link">Copyright</a>
+            </div>
+        </div>
+    </nav>
+    <div class="copyright-content">
+<h1 style="font-size:18px;margin-bottom:12px;">Copyright Notice</h1>
+<p>This site provides AI-generated summaries of publicly available blog posts. All original content belongs to its respective authors.</p>
+<p>Summaries are provided for educational purposes and link to the original source. If you are a copyright holder and would like the content removed, please <a href="https://github.com/jacek-mar">Contact me</a>.</p>
+<hr>
+<h2>Sources</h2>
+<p>This aggregator indexes publicly available content from the following sources:</p>
+<ul><li><strong>KiloCode</strong> — kilo.ai</li>
+<li><strong>Kiro</strong> — kiro.dev</li>
+<li><strong>Google Cloud</strong> — cloud.google.com/blog</li>
+<li><strong>Anthropic / Claude</strong> — anthropic.com</li>
+<li><strong>HuggingFace</strong> — huggingface.co/blog</li>
+<li><strong>Windsurf</strong> — windsurf.com/blog</li>
+</ul>
+Each article page links directly to the original publication.
+<hr>
+<h2>About AI Summaries</h2>
+<p>Summaries are generated automatically using Claude (Anthropic) via KiloCode Cloud Agent webhooks.</p>
+<ul><li>Summaries may be incomplete or contain inaccuracies.</li>
+<li>Summaries do not substitute for reading the original article.</li>
+<li>Original quotes are reproduced verbatim and attributed to their source.</li>
+<li>All summary pages include a visible notice: *"Summaries are AI-generated. Please read the original article for full context."*</li>
+</ul>
+<hr>
+<h2>robots.txt and Scraping Policy</h2>
+<p>This scraper:</p>
+<ul><li>Identifies itself with a descriptive `User-Agent` header.</li>
+<li>Respects `robots.txt` directives before fetching any page content.</li>
+<li>Fetches only publicly accessible pages (no login-gated content).</li>
+<li>Stores only article metadata and text — no images or binary assets.</li>
+<li>Links back to the original source on every summary page.</li>
+</ul>
+If you operate one of the indexed sources and wish to opt out, open an issue at:
+https://github.com/jacek-mar/ai-dev-blog/issues
+<hr>
+<p>*AI Developers Blog Aggregator — https://jacek-mar.github.io/ai-dev-blog/*</p>
+
+    </div>
+    
+    <footer class="site-footer">
+        <div>
+            <a href="index.html">Home</a> ·
+            <a href="feed.xml">RSS</a> ·
+            <a href="https://github.com/jacek-mar/ai-dev-blog" target="_blank" rel="noopener">GitHub</a> ·
+            <a href="copyright.html">Copyright</a>
+        </div>
+        <div class="footer-copyright">
+            This site provides AI-generated summaries of publicly available blog posts. All original content belongs to its respective authors. Summaries are provided for educational purposes and link to the original source. If you are a copyright holder and would like content removed, please <a href="https://github.com/jacek-mar/ai-dev-blog/issues">open an issue</a>.
+        </div>
+    </footer>
+</body>
+</html>
