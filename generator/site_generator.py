@@ -115,14 +115,41 @@ class SiteGenerator:
         return nav_html
 
     def generate_article_card(self, article):
-        """Generate HTML for an article card"""
+        """Generate HTML for an article card with enhanced metadata"""
         slug = self.slugify(article['title'])
         source_color = self.get_source_color(article['source'])
-
+        
+        # Get enhanced data if available
+        category = article.get('category', '')
+        tags = article.get('tags', [])
+        relevance_score = article.get('relevance_score', 50)
+        
+        # Generate category badge if available
+        category_badge = ''
+        if category:
+            category_badge = f'<span class="category-badge">{category}</span>'
+        
+        # Generate tags if available
+        tags_html = ''
+        if tags:
+            tag_links = ' '.join([
+                f'<span class="tag">{tag}</span>'
+                for tag in tags[:4]
+            ])
+            tags_html = f'<div class="article-tags">{tag_links}</div>'
+        
+        # Generate relevance indicator
+        relevance_html = ''
+        if relevance_score:
+            relevance_class = 'high' if relevance_score >= 70 else 'medium' if relevance_score >= 50 else 'low'
+            relevance_html = f'<span class="relevance {relevance_class}" title="Relevance Score: {relevance_score}">★</span>'
+        
         card_html = f'''
         <article class="article-card">
             <div class="card-header">
                 <span class="source-badge" style="background-color: {source_color}">{article['source']}</span>
+                {category_badge}
+                {relevance_html}
                 <span class="article-date">{self.format_date(article.get('published', ''))}</span>
             </div>
             <h2 class="article-title">
@@ -132,6 +159,7 @@ class SiteGenerator:
                 <span class="author">By {article.get('author', 'Unknown')}</span>
             </div>
             <p class="article-summary">{article.get('summary', 'No summary available.')[:300]}...</p>
+            {tags_html}
             <div class="card-footer">
                 <a href="posts/{slug}.html" class="read-more">Read More →</a>
                 <a href="{article['link']}" class="external-link" target="_blank" rel="noopener">View Original ↗</a>
@@ -191,9 +219,64 @@ class SiteGenerator:
         print(f"✅ Generated {output_path}")
 
     def generate_article_page(self, article):
-        """Generate individual article page"""
+        """Generate individual article page with enhanced metadata"""
         slug = self.slugify(article['title'])
         source_color = self.get_source_color(article['source'])
+        
+        # Get enhanced data if available
+        category = article.get('category', '')
+        topics = article.get('topics', [])
+        tags = article.get('tags', [])
+        sentiment = article.get('sentiment', 'neutral')
+        relevance_score = article.get('relevance_score', 50)
+        enhanced_summary = article.get('enhanced_summary', article.get('summary', ''))
+        
+        # Generate topics section
+        topics_html = ''
+        if topics:
+            topic_links = ' '.join([
+                f'<span class="topic-tag">{topic}</span>'
+                for topic in topics
+            ])
+            topics_html = f'''
+                <div class="topics-section">
+                    <h4>Topics</h4>
+                    <div class="topics-list">{topic_links}</div>
+                </div>
+            '''
+        
+        # Generate tags section
+        tags_html = ''
+        if tags:
+            tag_links = ' '.join([
+                f'<span class="tag">{tag}</span>'
+                for tag in tags
+            ])
+            tags_html = f'''
+                <div class="tags-section">
+                    <h4>Tags</h4>
+                    <div class="tags-list">{tag_links}</div>
+                </div>
+            '''
+        
+        # Generate metadata sidebar
+        metadata_items = []
+        if category:
+            metadata_items.append(f'<li><strong>Category:</strong> {category}</li>')
+        if sentiment:
+            metadata_items.append(f'<li><strong>Sentiment:</strong> <span class="sentiment-{sentiment}">{sentiment}</span></li>')
+        if relevance_score:
+            metadata_items.append(f'<li><strong>Relevance:</strong> {relevance_score}/100</li>')
+        
+        metadata_html = ''
+        if metadata_items:
+            metadata_html = f'''
+                <div class="article-metadata">
+                    <ul>
+                        {''.join(metadata_items)}
+                    </ul>
+                </div>
+            '''
 
         html = f'''<!DOCTYPE html>
 <html lang="en">
@@ -216,6 +299,7 @@ class SiteGenerator:
 
                 <div class="article-meta-top">
                     <span class="source-badge" style="background-color: {source_color}">{article['source']}</span>
+                    {f'<span class="category-badge">{category}</span>' if category else ''}
                     <span class="article-date">{self.format_date(article.get('published', ''))}</span>
                 </div>
 
@@ -231,6 +315,10 @@ class SiteGenerator:
                     <h3>Summary</h3>
                     <p>{article.get('summary', 'No summary available.')}</p>
                 </div>
+
+                {topics_html}
+                {tags_html}
+                {metadata_html}
 
                 <div class="article-actions">
                     <a href="{article['link']}" class="btn btn-primary" target="_blank" rel="noopener">
@@ -308,12 +396,16 @@ class SiteGenerator:
         print(f"✅ Generated {output_path}")
 
     def generate_rss(self):
-        """Generate RSS feed"""
+        """Generate RSS feed with enhanced categories"""
         print("Generating RSS feed...")
 
         items_xml = []
         for article in self.articles[:50]:  # Limit to 50 most recent
             slug = self.slugify(article['title'])
+            
+            # Get category for RSS
+            category = article.get('category', article['source'])
+            
             item_xml = f'''
         <item>
             <title>{self.escape_xml(article['title'])}</title>
@@ -323,6 +415,7 @@ class SiteGenerator:
             <pubDate>{self.format_rss_date(article.get('published', article.get('download_date', '')))}</pubDate>
             <author>{self.escape_xml(article.get('author', 'Unknown'))}</author>
             <category>{self.escape_xml(article['source'])}</category>
+            <category>{self.escape_xml(category)}</category>
         </item>'''
             items_xml.append(item_xml)
 

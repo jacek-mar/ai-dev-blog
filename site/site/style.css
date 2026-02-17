@@ -386,6 +386,137 @@ body {
     text-decoration: underline;
 }
 
+/* Category Badge */
+.category-badge {
+    display: inline-block;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    background-color: #f0fdf4;
+    color: #166534;
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border: 1px solid #bbf7d0;
+}
+
+/* Relevance Indicator */
+.relevance {
+    font-size: 1rem;
+    margin-left: 0.5rem;
+}
+
+.relevance.high {
+    color: #f59e0b;
+}
+
+.relevance.medium {
+    color: #d1d5db;
+}
+
+.relevance.low {
+    color: #9ca3af;
+}
+
+/* Article Tags */
+.article-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.tag {
+    display: inline-block;
+    padding: 0.2rem 0.5rem;
+    border-radius: 0.25rem;
+    background-color: #eff6ff;
+    color: #1d4ed8;
+    font-size: 0.7rem;
+    font-weight: 500;
+}
+
+/* Topics Section */
+.topics-section,
+.tags-section {
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border-color);
+}
+
+.topics-section h4,
+.tags-section h4 {
+    color: var(--text-secondary);
+    font-size: 0.875rem;
+    margin-bottom: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.topics-list,
+.tags-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.topic-tag {
+    display: inline-block;
+    padding: 0.35rem 0.75rem;
+    border-radius: 9999px;
+    background: linear-gradient(135deg, #6366f1, #8b5cf6);
+    color: white;
+    font-size: 0.75rem;
+    font-weight: 600;
+}
+
+/* Article Metadata */
+.article-metadata {
+    margin-top: 1.5rem;
+    padding: 1rem;
+    background-color: #f8fafc;
+    border-radius: 0.5rem;
+    border: 1px solid var(--border-color);
+}
+
+.article-metadata ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.article-metadata li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid var(--border-color);
+    font-size: 0.875rem;
+    color: var(--text-secondary);
+}
+
+.article-metadata li:last-child {
+    border-bottom: none;
+}
+
+.article-metadata strong {
+    color: var(--text-primary);
+    font-weight: 600;
+}
+
+/* Sentiment Styles */
+.sentiment-positive {
+    color: #16a34a;
+    font-weight: 600;
+}
+
+.sentiment-negative {
+    color: #dc2626;
+    font-weight: 600;
+}
+
+.sentiment-neutral {
+    color: #6b7280;
+    font-weight: 600;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
     .nav-container {
