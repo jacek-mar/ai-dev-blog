@@ -1762,5 +1762,41 @@
     "ai_quote": "",
     "ai_quote_attribution": "",
     "ai_enhanced": false
+  },
+  {
+    "title": "Announcing America-India Connect and new investments to advance global AI access",
+    "link": "https://cloud.google.com/blog/products/infrastructure/america-india-connect-infrastructure-connects-four-continents",
+    "published": "",
+    "author": "Unknown",
+    "source": "Google Cloud",
+    "summary": "VP, Global Network Infrastructure, Google Cloud Our most intelligent model is now available on Vertex AI and Gemini Enterprise AI is poised to accelerate progress at an unprecedented rate — but only if we democratize access to it from the start.",
+    "download_date": "2026-02-18T16:57:18.772500+00:00",
+    "ai_summary": "VP, Global Network Infrastructure, Google Cloud Our most intelligent model is now available on Vertex AI and Gemini Enterprise AI is poised to accelerate progress at an unprecedented rate — but only if we democratize access to it from the start.",
+    "ai_category": "AI/ML",
+    "ai_topics": [],
+    "ai_technical_level": "intermediate",
+    "ai_key_insights": [],
+    "ai_recommended": false,
+    "ai_quote": "",
+    "ai_quote_attribution": "",
+    "ai_enhanced": false
+  },
+  {
+    "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
+    "link": "https://huggingface.co/blog/ibm-research/itbenchandmast",
+    "published": "Wed, 18 Feb 2026 16:15:45 GMT",
+    "author": "Unknown",
+    "source": "HuggingFace",
+    "summary": "Ayhan Sebin Saurabh Jha Rohan Arora Daby Sow Mert Cemri Melissa Pan Ion Stoica ITBench HF Space ITBench HF Dataset MAST HF Dataset ITBench Github MAST Github IBM Research and UC Berkeley collaborated to study how agentic LLM systems break in real-world IT automation, for tasks involving incident triage, logs/metrics queries, and Kubernetes actions in long-horizon tool loops.",
+    "download_date": "2026-02-18T16:57:23.748962+00:00",
+    "ai_summary": "Ayhan Sebin Saurabh Jha Rohan Arora Daby Sow Mert Cemri Melissa Pan Ion Stoica ITBench HF Space ITBench HF Dataset MAST HF Dataset ITBench Github MAST Github IBM Research and UC Berkeley collaborated to study how agentic LLM systems break in real-world IT automation, for tasks involving incident tri",
+    "ai_category": "AI/ML",
+    "ai_topics": [],
+    "ai_technical_level": "intermediate",
+    "ai_key_insights": [],
+    "ai_recommended": false,
+    "ai_quote": "",
+    "ai_quote_attribution": "",
+    "ai_enhanced": false
   }
 ]
