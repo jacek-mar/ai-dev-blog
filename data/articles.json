@@ -1978,5 +1978,23 @@
     "ai_quote": "",
     "ai_quote_attribution": "",
     "ai_enhanced": false
+  },
+  {
+    "title": "Kilo Code Weekly Product Roundup | Feb. 18 2025",
+    "link": "https://blog.kilo.ai/p/kilo-code-weekly-product-roundup-744",
+    "published": "Thu, 19 Feb 2026 04:50:35 GMT",
+    "author": "Brian Turcotte",
+    "source": "KiloCode",
+    "summary": "Welcome back to the weekly product roundup! This week brings Roast Mode for Code Reviews, two new hosted platform features (Gas Town and KiloClaw), Claude Sonnet 4.6 support, a wave of new models and providers, one-click fix suggestions in Review mode, and a solid round of stability and reliability improvements across the extension.",
+    "download_date": "2026-02-19T05:19:11.087823+00:00",
+    "ai_summary": "Welcome back to the weekly product roundup! This week brings Roast Mode for Code Reviews, two new hosted platform features (Gas Town and KiloClaw), Claude Sonnet 4.6 support, a wave of new models and providers, one-click fix suggestions in Review mode, and a solid round of stability and reliability ",
+    "ai_category": "AI/ML",
+    "ai_topics": [],
+    "ai_technical_level": "intermediate",
+    "ai_key_insights": [],
+    "ai_recommended": false,
+    "ai_quote": "",
+    "ai_quote_attribution": "",
+    "ai_enhanced": false
   }
 ]
