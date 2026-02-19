@@ -5,7 +5,7 @@
         <link>https://jacek-mar.github.io/ai-dev-blog/</link>
         <description>Curated AI and developer news from leading sources</description>
         <language>en-us</language>
-        <lastBuildDate>Thu, 19 Feb 2026 05:19:15 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 19 Feb 2026 08:37:26 +0000</lastBuildDate>
         <atom:link href="https://jacek-mar.github.io/ai-dev-blog/feed.xml" rel="self" type="application/rss+xml"/>
 
         <item>
@@ -13,7 +13,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/kilo-code-weekly-product-roundup-feb-18-2025.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/kilo-code-weekly-product-roundup-feb-18-2025.html</guid>
             <description>Welcome back to the weekly product roundup! This week brings Roast Mode for Code Reviews, two new hosted platform features (Gas Town and KiloClaw), Claude Sonnet 4.6 support, a wave of new models and providers, one-click fix suggestions in Review mode, and a solid round of stability and reliability </description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Brian Turcotte</author>
             <category>KiloCode</category>
         </item>
@@ -22,7 +22,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/using-the-neo4j-extension-in-gemini-cli.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/using-the-neo4j-extension-in-gemini-cli.html</guid>
             <description>Developer Advocate Senior Director at Neo4j Gemini CLI integrates Gemini’s reasoning capabilities directly into your terminal. As graph databases like Neo4j become foundational AI infrastructure—turning raw data into actionable knowledge—their convergence with Gemini CLI offers a powerful new soluti</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -31,7 +31,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/mastering-model-adaptation-a-guide-to-fine-tuning-on-google-cloud.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/mastering-model-adaptation-a-guide-to-fine-tuning-on-google-cloud.html</guid>
             <description>Developer Advocate If you are building AI applications, you might experiment with prompts, or even dip your toes into agents. But as you move from prototype to production, you might hit a common wall: the model is just not as consistent as you need it to be.</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -40,7 +40,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/cloud-ciso-perspectives-new-ai-threats-report-distillation-experimentation-and-integration.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/cloud-ciso-perspectives-new-ai-threats-report-distillation-experimentation-and-integration.html</guid>
             <description>chief analyst, Google Threat Intelligence Group The latest on security from Google Cloud&apos;s Office of the CISO, twice a month. Welcome to the first Cloud CISO Perspectives for February 2026. Today, John Hultquist, chief analyst, Google Threat Intelligence Group, explains the research detailed in our </description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -49,7 +49,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/threat-intelligencegtig-ai-threat-tracker-distillation-experimentation-and-continued-integration-of-.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/threat-intelligencegtig-ai-threat-tracker-distillation-experimentation-and-continued-integration-of-.html</guid>
             <description>Visibility and context on the threats that matter most. In the final quarter of 2025, Google Threat Intelligence Group (GTIG) observed threat actors increasingly integrating artificial intelligence (AI) to accelerate the attack lifecycle, achieving productivity gains in reconnaissance, social engine</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -58,7 +58,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/your-guide-to-provisioned-throughput-pt-on-vertex-ai.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/your-guide-to-provisioned-throughput-pt-on-vertex-ai.html</guid>
             <description>Senior Product Manager, Vertex AI Our most intelligent model is now available on Vertex AI and Gemini Enterprise When AI agents make thousands of decisions a day, consistent performance isn&apos;t just a technical detail — it&apos;s a business requirement. Provisioned Throughput (PT) solves this by giving you</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -67,7 +67,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/google-spanner-ranks-1-for-lightweight-transactions-use-case-in-gartner-critical-capabilities-report.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/google-spanner-ranks-1-for-lightweight-transactions-use-case-in-gartner-critical-capabilities-report.html</guid>
             <description>Group Product Manager Director Product Management Our most intelligent model is now available on Vertex AI and Gemini Enterprise For the second consecutive year Google (Spanner) has been recognized by Gartner in the Critical Capabilities for Cloud Database Management Systems for Operational Use Case</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -76,7 +76,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/powering-the-next-generation-of-agents-with-google-cloud-databases.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/powering-the-next-generation-of-agents-with-google-cloud-databases.html</guid>
             <description>Vice President, AI &amp; Databases Sr. Product Manager, AI for Databases Our most intelligent model is now available on Vertex AI and Gemini Enterprise For developers building AI applications, including custom agents and chatbots, the open-source Model Context Protocol (MCP) standard enables your innova</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -85,7 +85,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/announcing-america-india-connect-and-new-investments-to-advance-global-ai-access.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/announcing-america-india-connect-and-new-investments-to-advance-global-ai-access.html</guid>
             <description>VP, Global Network Infrastructure, Google Cloud Our most intelligent model is now available on Vertex AI and Gemini Enterprise AI is poised to accelerate progress at an unprecedented rate — but only if we democratize access to it from the start.</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -94,7 +94,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/ibm-and-uc-berkeley-diagnose-why-enterprise-agents-fail-using-it-bench-and-mast.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/ibm-and-uc-berkeley-diagnose-why-enterprise-agents-fail-using-it-bench-and-mast.html</guid>
             <description>Ayhan Sebin Saurabh Jha Rohan Arora Daby Sow Mert Cemri Melissa Pan Ion Stoica ITBench HF Space ITBench HF Dataset MAST HF Dataset ITBench Github MAST Github IBM Research and UC Berkeley collaborated to study how agentic LLM systems break in real-world IT automation, for tasks involving incident tri</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>HuggingFace</category>
         </item>
@@ -112,7 +112,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/one-shot-any-web-app-with-gradios-grhtml.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/one-shot-any-web-app-with-gradios-grhtml.html</guid>
             <description>Gradio 6 quietly shipped a very powerful feature: gr.HTML now supports custom templates, scoped CSS, and JavaScript interactivity. Which means you can build pretty much any web component — and Claude (or any other frontier LLM) can generate the whole thing in one shot: frontend, backend, and state m</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>HuggingFace</category>
         </item>
@@ -130,7 +130,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/nvidia-nemotron-2-nano-9b-japanese-日本のソブリンaiを支える最先端小規模言語モデル.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/nvidia-nemotron-2-nano-9b-japanese-日本のソブリンaiを支える最先端小規模言語モデル.html</guid>
             <description>NVIDIA Nemotronは、オープンモデルだけでなく、データセット、ライブラリ、レシピ、クックブックを提供し、開発者がモデルをカスタマイズし、多様なユースケースや言語に適応できるようにすることでソブリンAIを推進しています。 本日、NVIDIAは、Nejumi Leaderboard 4のパラメータ数10B以下において、最先端の性能（SOTA）を達成した NVIDIA Nemotron-Nano-9B-v2-Japaneseを公開しました。 本モデルは、高度な日本語理解と強力なエージェント機能を、導入しやすい軽量なサイズで実現しており、日本のエンタープライズAI開発における重要なマイルス</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>HuggingFace</category>
         </item>
@@ -139,7 +139,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/spec-driven-development-everything-you-need-to-know-2026.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/spec-driven-development-everything-you-need-to-know-2026.html</guid>
             <description>Sergio Published: February 17, 2026 · Last updated: February 17, 2026 In software development, things are constantly changing. Features evolve, priorities shift, and requirements rarely stay fixed. Spec-driven development addresses this reality by anchoring teams around clear, shared expectations be</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Sergio</author>
             <category>Zencoder</category>
         </item>
@@ -148,7 +148,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/claude-sonnet-46-is-now-available-in-windsurfclaude-sonnet-46-is-now-available-in-windsurf-with-limi.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/claude-sonnet-46-is-now-available-in-windsurfclaude-sonnet-46-is-now-available-in-windsurf-with-limi.html</guid>
             <description>No content available.</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Windsurf</category>
         </item>
@@ -157,7 +157,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/new-bigquery-global-queries-let-you-explore-distributed-data-with-a-single-sql-statement.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/new-bigquery-global-queries-let-you-explore-distributed-data-with-a-single-sql-statement.html</guid>
             <description>Product Manager Software Engineer Our most intelligent model is now available on Vertex AI and Gemini Enterprise In a global economy, data is generated and stored all over the world.</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -166,7 +166,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/no-its-not-sonnet-5-and-thats-a-good-thing-meet-sonnet-46.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/no-its-not-sonnet-5-and-thats-a-good-thing-meet-sonnet-46.html</guid>
             <description>Once again, the rumor mill got it wrong. If you’ve been glued to X and Reddit expecting a “Sonnet 5” drop this week, you might be feeling a twinge of disappointment. Anthropic just dropped Sonnet 4.6, and while the version number looks like an incremental bump, the performance feels like a major lea</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Ari</author>
             <category>KiloCode</category>
         </item>
@@ -175,7 +175,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/glm-5-and-minimax-m25-are-now-available-in-windsurfglm-5-from-zhipu-ai-and-minimax-m25-are-now-avail.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/glm-5-and-minimax-m25-are-now-available-in-windsurfglm-5-from-zhipu-ai-and-minimax-m25-are-now-avail.html</guid>
             <description>No content available.</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Windsurf</category>
         </item>
@@ -184,7 +184,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/click-here.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/click-here.html</guid>
             <description>Our most intelligent model is now available on Vertex AI and Gemini Enterprise Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip: Not sure where to find w</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -193,7 +193,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/build-intelligent-employee-onboarding-with-gemini-enterprise.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/build-intelligent-employee-onboarding-with-gemini-enterprise.html</guid>
             <description>Generative AI Field Solutions Architect Enterprise AI Integration, Field Product Manager Our most intelligent model is now available on Vertex AI and Gemini Enterprise Employee onboarding is rarely a linear process. It’s a complex web of dependencies that vary significantly based on an individual’s </description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -202,7 +202,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/getting-started-with-gemini-3-unlocking-the-cloud-with-the-free-trial.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/getting-started-with-gemini-3-unlocking-the-cloud-with-the-free-trial.html</guid>
             <description>The requested URL /blog/topics/developers-practitioners/getting-started-with-gemini-3-unlocking-the-cloud-with-the-free-trial was not found on this server. That&apos;s all we know.</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -211,7 +211,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/ship-production-ready-ai-and-survive-the-multimodal-frontier-this-february.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/ship-production-ready-ai-and-survive-the-multimodal-frontier-this-february.html</guid>
             <description>Developer Relations Engineering Manager The AI landscape is moving at breakneck speed. One day you’re figuring out how to secure a basic chatbot, and the next, you’re looking at agents that can see, hear, and react in real-time. This February and March, the Google Cloud is bringing you the best of b</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -220,7 +220,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/bigquery-ai-supports-gemini-30-simplified-embedding-generation-and-new-similarity-function.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/bigquery-ai-supports-gemini-30-simplified-embedding-generation-and-new-similarity-function.html</guid>
             <description>Software Engineer Software Engineer Our most intelligent model is now available on Vertex AI and Gemini Enterprise The digital landscape is flooded with unstructured data — images, videos, audio, and documents — that often remain untapped.</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -229,7 +229,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/spanner-in-2025-innovations-powering-intelligent-multi-model-ai-applications.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/spanner-in-2025-innovations-powering-intelligent-multi-model-ai-applications.html</guid>
             <description>Group Product Manager Group Product Manager Our most intelligent model is now available on Vertex AI and Gemini Enterprise For over a decade now, Google has relied on Spanner, an always-on, virtually unlimited database to power global-scale applications like Gmail, YouTube, and Google Photos.</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -238,7 +238,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/introducing-conversational-analytics-in-bigquery.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/introducing-conversational-analytics-in-bigquery.html</guid>
             <description>Product Manager Senior Engineering Manager Our most intelligent model is now available on Vertex AI and Gemini Enterprise Businesses want to move quickly and make informed decisions, but the explosion of data in today’s organizations often can leave knowledge teams buried and business users waiting </description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -247,7 +247,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/introducing-single-tenant-cloud-hsm-to-support-more-data-encryption-control.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/introducing-single-tenant-cloud-hsm-to-support-more-data-encryption-control.html</guid>
             <description>Product Manager, Google Cloud Security Engineering Manager, Google Cloud Security Our most intelligent model is now available on Vertex AI and Gemini Enterprise Organizations that handle sensitive data in highly-regulated sectors often face a difficult choice: Build and manage physical hardware to m</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -256,7 +256,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/no-place-like-home-network-disrupting-the-worlds-largest-residential-proxy-network.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/no-place-like-home-network-disrupting-the-worlds-largest-residential-proxy-network.html</guid>
             <description>Visibility and context on the threats that matter most. This week Google and partners took action to disrupt what we believe is one of the largest residential proxy networks in the world, the IPIDEA proxy network. IPIDEA’s proxy infrastructure is a little-known component of the digital ecosystem lev</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -265,7 +265,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/delivering-a-secure-open-and-sovereign-digital-world.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/delivering-a-secure-open-and-sovereign-digital-world.html</guid>
             <description>VP/GM, Infrastructure and Solutions Group, Google Cloud VP/GM, Regulated and Sovereign Cloud, Google Cloud The latest on security from Google Cloud&apos;s Office of the CISO, twice a month.</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -274,7 +274,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/mastering-gemini-cli-your-complete-guide-from-installation-to-advanced-use-cases.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/mastering-gemini-cli-your-complete-guide-from-installation-to-advanced-use-cases.html</guid>
             <description>Developer Advocate Senior Developer Relations Engineer We’ve teamed up with DeepLearning.ai and are excited to announce a free course – Gemini CLI: Code &amp; Create with an Open-Source Agent. This comprehensive course is designed to empower users by teaching them how to integrate Gemini CLI–and its mos</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -283,7 +283,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/whats-new-with-ml-infrastructure-for-dataflow.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/whats-new-with-ml-infrastructure-for-dataflow.html</guid>
             <description>Product Manager, Google Software Engineer, Google Cloud Our most intelligent model is now available on Vertex AI and Gemini Enterprise The world of artificial intelligence is moving at lightning speed. At Google Cloud, we’re committed to providing best-in-class infrastructure to power your AI and ML</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -292,7 +292,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/announcing-claude-opus-46-on-vertex-ai.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/announcing-claude-opus-46-on-vertex-ai.html</guid>
             <description>VP of Product Management, Vertex AI At Google Cloud, we’re committed to providing customers with the leading selection of models to build and scale production-ready AI apps and agents on a platform optimized for performance, trust, and global scale. Today, we’re further expanding Vertex AI’s curated</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -301,7 +301,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/accelerate-gke-cluster-autoscaling-with-faster-concurrent-node-pool-auto-creation.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/accelerate-gke-cluster-autoscaling-with-faster-concurrent-node-pool-auto-creation.html</guid>
             <description>Software Engineer, GKE Product Manager, GKE Our most intelligent model is now available on Vertex AI and Gemini Enterprise We&apos;re excited to announce concurrency in Google Kubernetes Engine (GKE) node pool auto-creation, to significantly reduce provisioning latency and autoscaling performance.</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -310,7 +310,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/high-performance-inference-meets-serverless-compute-with-nvidia-rtx-pro-6000-on-cloud-run.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/high-performance-inference-meets-serverless-compute-with-nvidia-rtx-pro-6000-on-cloud-run.html</guid>
             <description>Engineering Manager Our most intelligent model is now available on Vertex AI and Gemini Enterprise Running large-scale inference models can involve significant operational toil, including cluster management and manual VM maintenance. One solution is to leverage a serverless compute platform to abstr</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -319,7 +319,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/google-distributed-cloud-brings-public-cloud-like-networking-to-air-gapped-environments.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/google-distributed-cloud-brings-public-cloud-like-networking-to-air-gapped-environments.html</guid>
             <description>Product Manager Product Manager Our most intelligent model is now available on Vertex AI and Gemini Enterprise Organizations in highly regulated industries often struggle to balance the rigid security of air-gapped environments with the need for the agility and flexibility that the cloud provides.</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -328,7 +328,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/how-we-cut-vertex-ai-latency.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/how-we-cut-vertex-ai-latency.html</guid>
             <description>Product Manager Software Engineer Our most intelligent model is now available on Vertex AI and Gemini Enterprise As generative AI moves from experimentation to production, platform engineers face a universal challenge for inference serving: you need low latency, high throughput, and manageable costs</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -337,7 +337,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/telemetry-protocol-metrics.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/telemetry-protocol-metrics.html</guid>
             <description>Senior Product Manager Senior Product Manager Our most intelligent model is now available on Vertex AI and Gemini Enterprise As part of our commitment to open standards, Google Cloud is deeply invested in making OpenTelemetry the universal client, data format, and set of standards for telemetry data</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -346,7 +346,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/simpler-billing-clearer-savings-a-finops-guide-to-updated-spend-based-cuds.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/simpler-billing-clearer-savings-a-finops-guide-to-updated-spend-based-cuds.html</guid>
             <description>Product Manager Our most intelligent model is now available on Vertex AI and Gemini Enterprise Optimizing cloud spend is one of the most rewarding aspects of FinOps — and committed use discounts (CUDs) remain one of the most effective levers to pull.</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -355,7 +355,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/gemini-enterprise-agent-ready-gear-program-now-available-a-new-path-to-building-ai-agents-at-scale.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/gemini-enterprise-agent-ready-gear-program-now-available-a-new-path-to-building-ai-agents-at-scale.html</guid>
             <description>Vice President, Product Marketing Vice President, Global Solutions &amp; Industries Our most intelligent model is now available on Vertex AI and Gemini Enterprise Today’s reality is agentic – software that can reason, plan, and act on your behalf to execute complex workflows. To meet this moment, we are</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -400,7 +400,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/auto-model-stop-thinking-about-which-ai-model-to-use.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/auto-model-stop-thinking-about-which-ai-model-to-use.html</guid>
             <description>You’re deep in a coding session, architecting a new feature with a powerful reasoning model. Then you switch to implementation and realize you’re still burning through a ton of tokens for straightforward code generation. So you switch to a cheaper model. Then back to the premium one for debugging a </description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Job Rietbergen</author>
             <category>KiloCode</category>
         </item>
@@ -409,7 +409,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/optimized-grok-code-fast-1-is-here-and-free.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/optimized-grok-code-fast-1-is-here-and-free.html</guid>
             <description>We’re doing something special: Grok Code Fast 1 is back, it’s optimized, and it’s totally free in Kilo for a limited time. We heard you when xAI’s Grok Code Fast 1 model moved to a paid tier. We know it’s a daily driver for many of you.</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Ari</author>
             <category>KiloCode</category>
         </item>
@@ -418,7 +418,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/openclaw-and-the-rise-of-ai-agents-power-promise-and-peril.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/openclaw-and-the-rise-of-ai-agents-power-promise-and-peril.html</guid>
             <description>Neeraj Published: February 16, 2026 · Last updated: February 16, 2026 Picture an assistant that doesn’t just answer questions, but quietly does things for you. You message it from an app you already use maybe WhatsApp or Telegram and ask it to find the cheapest nonstop flight to Tokyo, mark the date</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>neeraj.khandelwal@forgood.ai (Neeraj)</author>
             <category>Zencoder</category>
         </item>
@@ -427,7 +427,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/openclaw-founder-to-openainow-what.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/openclaw-founder-to-openainow-what.html</guid>
             <description>Peter Steinberger, the creator of OpenClaw, is joining OpenAI. Sam Altman announced it on X: Peter will “drive the next generation of personal agents,” and OpenClaw will “live in a foundation as an open source project that OpenAI will continue to support.” Let me say this clearly: Peter earned this.</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Brendan O&apos;Leary</author>
             <category>KiloCode</category>
         </item>
@@ -445,7 +445,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/how-i-claw---openclaw-as-my-intern.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/how-i-claw---openclaw-as-my-intern.html</guid>
             <description>Everyone’s excited about OpenClaw. The security implications are real. People are buying Mac minis to run it, giving an autonomous agent unfiltered access to their accounts, SSH keys, passwords — their whole life. OpenClaw’s value does come from accessing your email, calendar, and messages. But I th</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Brendan O&apos;Leary</author>
             <category>KiloCode</category>
         </item>
@@ -454,7 +454,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/how-to-use-nvidia-nim-kilo-code-to-access-kimi-k25-and-dozens-of-free-models.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/how-to-use-nvidia-nim-kilo-code-to-access-kimi-k25-and-dozens-of-free-models.html</guid>
             <description>Did you know: NVIDIA has a generous free tier that allows you to use models like Kimi K2.5 at no cost. In this tutorial, we’ll walk through how to use NVIDIA’s Build platform + Kilo Code to get free access to Kimi K2.5. Install the Kilo Code extension Sign up for an NVIDIA Build account.</description>
-            <pubDate>Thu, 19 Feb 2026 05:19:15 +0000</pubDate>
+            <pubDate>Thu, 19 Feb 2026 08:37:26 +0000</pubDate>
             <author>Darko</author>
             <category>KiloCode</category>
         </item>
