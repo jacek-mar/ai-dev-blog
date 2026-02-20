@@ -2176,5 +2176,23 @@
     "ai_quote": "",
     "ai_quote_attribution": "",
     "ai_enhanced": false
+  },
+  {
+    "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+    "link": "https://huggingface.co/blog/ggml-joins-hf",
+    "published": "Fri, 20 Feb 2026 00:00:00 GMT",
+    "author": "Unknown",
+    "source": "HuggingFace",
+    "summary": "We are super happy to announce that GGML, creators of Llama.cpp, are joining HF in order to keep future AI open. 🔥 Georgi Gerganov and team are joining HF with the goal of scaling and supporting the community behind ggml and llama.cpp as Local AI continues to make exponential progress in the coming years.",
+    "download_date": "2026-02-20T16:31:59.351734+00:00",
+    "ai_summary": "We are super happy to announce that GGML, creators of Llama.cpp, are joining HF in order to keep future AI open. 🔥 Georgi Gerganov and team are joining HF with the goal of scaling and supporting the community behind ggml and llama.cpp as Local AI continues to make exponential progress in the coming ",
+    "ai_category": "AI/ML",
+    "ai_topics": [],
+    "ai_technical_level": "intermediate",
+    "ai_key_insights": [],
+    "ai_recommended": false,
+    "ai_quote": "",
+    "ai_quote_attribution": "",
+    "ai_enhanced": false
   }
 ]
