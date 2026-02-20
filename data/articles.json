@@ -2194,5 +2194,41 @@
     "ai_quote": "",
     "ai_quote_attribution": "",
     "ai_enhanced": false
+  },
+  {
+    "title": "Inside Kilo Speed: How Our Head of Data Shipped an Identity Resolution System Before His First Full Day",
+    "link": "https://blog.kilo.ai/p/inside-kilo-speed-how-our-head-of",
+    "published": "Fri, 20 Feb 2026 19:46:19 GMT",
+    "author": "Rebecca Dodd",
+    "source": "KiloCode",
+    "summary": "Identity resolution is one of the hardest problems in data engineering. Telemetry, backend, payment platforms, marketing forms—each of these systems contain their own representation of what a user is. Stitching those together requires not only a shared meaning of what represents a single identity, but also mapping edge cases, validating fragile joins and praying nothing silently breaks downstream.",
+    "download_date": "2026-02-20T20:24:23.098413+00:00",
+    "ai_summary": "Identity resolution is one of the hardest problems in data engineering. Telemetry, backend, payment platforms, marketing forms—each of these systems contain their own representation of what a user is. Stitching those together requires not only a shared meaning of what represents a single identity, b",
+    "ai_category": "AI/ML",
+    "ai_topics": [],
+    "ai_technical_level": "intermediate",
+    "ai_key_insights": [],
+    "ai_recommended": false,
+    "ai_quote": "",
+    "ai_quote_attribution": "",
+    "ai_enhanced": false
+  },
+  {
+    "title": "20, 2026AnnouncementsMaking frontier cybersecurity capabilities available to defenders",
+    "link": "https://www.anthropic.com/news/claude-code-security",
+    "published": "Feb 20, 2026",
+    "author": "Unknown",
+    "source": "Claude",
+    "summary": "Claude Code Security, a new capability built into Claude Code on the web, is now available in a limited research preview.",
+    "download_date": "2026-02-20T20:24:32.809003+00:00",
+    "ai_summary": "Claude Code Security, a new capability built into Claude Code on the web, is now available in a limited research preview.",
+    "ai_category": "AI/ML",
+    "ai_topics": [],
+    "ai_technical_level": "intermediate",
+    "ai_key_insights": [],
+    "ai_recommended": false,
+    "ai_quote": "",
+    "ai_quote_attribution": "",
+    "ai_enhanced": false
   }
 ]
