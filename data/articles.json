@@ -2158,5 +2158,23 @@
     "ai_quote": "",
     "ai_quote_attribution": "",
     "ai_enhanced": false
+  },
+  {
+    "title": "The bug fix paradox: why AI agents keep breaking working code",
+    "link": "https://kiro.dev/blog/bug-fix-paradox/",
+    "published": "Feb 19, 2026",
+    "author": "Jatin Arora",
+    "source": "Kiro",
+    "summary": "Hereâs a pattern most teams run into: you ask an AI agent to fix a bug. It refactors three helper functions, adds defensive null checks, and writes dozens of new tests for edge cases that were already passing. Even worse, it changes parts of the application that were working just fine. You wanted a scalpel but got a sledgehammer.",
+    "download_date": "2026-02-20T01:29:53.089431+00:00",
+    "ai_summary": "Hereâs a pattern most teams run into: you ask an AI agent to fix a bug. It refactors three helper functions, adds defensive null checks, and writes dozens of new tests for edge cases that were already passing. Even worse, it changes parts of the application that were working just fine. You wanted ",
+    "ai_category": "AI/ML",
+    "ai_topics": [],
+    "ai_technical_level": "intermediate",
+    "ai_key_insights": [],
+    "ai_recommended": false,
+    "ai_quote": "",
+    "ai_quote_attribution": "",
+    "ai_enhanced": false
   }
 ]
