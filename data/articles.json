@@ -2230,5 +2230,41 @@
     "ai_quote": "",
     "ai_quote_attribution": "",
     "ai_enhanced": false
+  },
+  {
+    "title": "RSS Feed",
+    "link": "https://kiro.dev/blog/feed.rss",
+    "published": "",
+    "author": "Unknown",
+    "source": "Kiro",
+    "summary": "No content available.",
+    "download_date": "2026-02-21T01:27:56.007137+00:00",
+    "ai_summary": "No content available.",
+    "ai_category": "AI/ML",
+    "ai_topics": [],
+    "ai_technical_level": "intermediate",
+    "ai_key_insights": [],
+    "ai_recommended": false,
+    "ai_quote": "",
+    "ai_quote_attribution": "",
+    "ai_enhanced": false
+  },
+  {
+    "title": "Atom Feed",
+    "link": "https://kiro.dev/blog/feed.atom",
+    "published": "",
+    "author": "Unknown",
+    "source": "Kiro",
+    "summary": "No content available.",
+    "download_date": "2026-02-21T01:27:56.183910+00:00",
+    "ai_summary": "No content available.",
+    "ai_category": "AI/ML",
+    "ai_topics": [],
+    "ai_technical_level": "intermediate",
+    "ai_key_insights": [],
+    "ai_recommended": false,
+    "ai_quote": "",
+    "ai_quote_attribution": "",
+    "ai_enhanced": false
   }
 ]
