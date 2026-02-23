@@ -2302,5 +2302,41 @@
     "ai_quote": "",
     "ai_quote_attribution": "",
     "ai_enhanced": false
+  },
+  {
+    "title": "Firefly: Illuminating the path to nanosecond-level clock sync in the data center",
+    "link": "https://cloud.google.com/blog/products/networking/understanding-the-firefly-clock-synchronization-protocol",
+    "published": "",
+    "author": "Unknown",
+    "source": "Google Cloud",
+    "summary": "Product Manager, Google Software Engineer Our most intelligent model available yet for complex tasks on Gemini Enterprise and Vertex AI From the high-frequency trading floors of Wall Street to orchestrating cloud data centers, the ability to synchronize events with nanosecond accuracy is critical.",
+    "download_date": "2026-02-23T20:39:20.663454+00:00",
+    "ai_summary": "Product Manager, Google Software Engineer Our most intelligent model available yet for complex tasks on Gemini Enterprise and Vertex AI From the high-frequency trading floors of Wall Street to orchestrating cloud data centers, the ability to synchronize events with nanosecond accuracy is critical.",
+    "ai_category": "AI/ML",
+    "ai_topics": [],
+    "ai_technical_level": "intermediate",
+    "ai_key_insights": [],
+    "ai_recommended": false,
+    "ai_quote": "",
+    "ai_quote_attribution": "",
+    "ai_enhanced": false
+  },
+  {
+    "title": "23, 2026AnnouncementsDetecting and preventing distillation attacks",
+    "link": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
+    "published": "Feb 23, 2026",
+    "author": "Unknown",
+    "source": "Claude",
+    "summary": "We have identified industrial-scale campaigns by three AI laboratories—DeepSeek, Moonshot, and MiniMax—to illicitly extract Claude’s capabilities to improve their own models. These labs generated over 16 million exchanges with Claude through approximately 24,000 fraudulent accounts, in violation of our terms of service and regional access restrictions.",
+    "download_date": "2026-02-23T20:39:24.512691+00:00",
+    "ai_summary": "We have identified industrial-scale campaigns by three AI laboratories—DeepSeek, Moonshot, and MiniMax—to illicitly extract Claude’s capabilities to improve their own models. These labs generated over 16 million exchanges with Claude through approximately 24,000 fraudulent accounts, in violation of ",
+    "ai_category": "AI/ML",
+    "ai_topics": [],
+    "ai_technical_level": "intermediate",
+    "ai_key_insights": [],
+    "ai_recommended": false,
+    "ai_quote": "",
+    "ai_quote_attribution": "",
+    "ai_enhanced": false
   }
 ]
