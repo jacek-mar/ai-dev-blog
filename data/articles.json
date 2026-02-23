@@ -2266,5 +2266,41 @@
     "ai_quote": "",
     "ai_quote_attribution": "",
     "ai_enhanced": false
+  },
+  {
+    "title": "Why we're still building autocomplete when the future is agents",
+    "link": "https://blog.kilo.ai/p/why-were-still-building-autocomplete",
+    "published": "Mon, 23 Feb 2026 10:49:19 GMT",
+    "author": "Emilie Schario",
+    "source": "KiloCode",
+    "summary": "Not in a chat window, not reviewing an agent diff—inside a file, cursor blinking, writing a function you’ve written variations of a hundred times. The suggestion appears, and you hit Tab. Those are 12 words you didn’t have to type yourself. Now you’re back to the problem. That interaction took 200 milliseconds and cost zero cognitive overhead.",
+    "download_date": "2026-02-23T12:52:59.620072+00:00",
+    "ai_summary": "Not in a chat window, not reviewing an agent diff—inside a file, cursor blinking, writing a function you’ve written variations of a hundred times. The suggestion appears, and you hit Tab. Those are 12 words you didn’t have to type yourself. Now you’re back to the problem. That interaction took 200 m",
+    "ai_category": "AI/ML",
+    "ai_topics": [],
+    "ai_technical_level": "intermediate",
+    "ai_key_insights": [],
+    "ai_recommended": false,
+    "ai_quote": "",
+    "ai_quote_attribution": "",
+    "ai_enhanced": false
+  },
+  {
+    "title": "How does Zenflow handle testing? A full comparison",
+    "link": "https://zencoder.ai/blog/how-does-zenflow-handle-testing-a-full-comparison",
+    "published": "Mon, 23 Feb 2026 12:22:15 GMT",
+    "author": "shantanu.vishwanadha@forgood.ai (Shantanu Vishwanadha)",
+    "source": "Zencoder",
+    "summary": "Shantanu Vishwanadha Published: February 23, 2026 · Last updated: February 23, 2026 Most AI coding tools treat testing like an afterthought. You generate code, maybe ask the AI to write some tests, and hope for the best. Zenflow does something different: it makes testing a non-negotiable part of every workflow. Code doesn't ship until it passes.",
+    "download_date": "2026-02-23T12:53:08.797191+00:00",
+    "ai_summary": "Shantanu Vishwanadha Published: February 23, 2026 · Last updated: February 23, 2026 Most AI coding tools treat testing like an afterthought. You generate code, maybe ask the AI to write some tests, and hope for the best. Zenflow does something different: it makes testing a non-negotiable part of eve",
+    "ai_category": "AI/ML",
+    "ai_topics": [],
+    "ai_technical_level": "intermediate",
+    "ai_key_insights": [],
+    "ai_recommended": false,
+    "ai_quote": "",
+    "ai_quote_attribution": "",
+    "ai_enhanced": false
   }
 ]
