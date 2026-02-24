@@ -2392,5 +2392,23 @@
     "ai_quote": "",
     "ai_quote_attribution": "",
     "ai_enhanced": false
+  },
+  {
+    "title": "KiloClaw is Now Generally Available with 500+ Models and a New Agent Benchmark",
+    "link": "https://blog.kilo.ai/p/kiloclaw-hosted-openclaw",
+    "published": "Tue, 24 Feb 2026 15:13:53 GMT",
+    "author": "Brendan O'Leary",
+    "source": "KiloCode",
+    "summary": "Two weeks ago, we announced KiloClaw, a fully managed way to run OpenClaw without dealing with servers, configuration files, or 3 AM crashes. Today, KiloClaw is generally available. In the first two weeks, more than 3,500 developers joined the waitlist. Early access users have already been spinning up OpenClaw instances and putting them to work. And now, we’re opening the doors to everyone.",
+    "download_date": "2026-02-24T17:00:15.019373+00:00",
+    "ai_summary": "Two weeks ago, we announced KiloClaw, a fully managed way to run OpenClaw without dealing with servers, configuration files, or 3 AM crashes. Today, KiloClaw is generally available. In the first two weeks, more than 3,500 developers joined the waitlist. Early access users have already been spinning ",
+    "ai_category": "AI/ML",
+    "ai_topics": [],
+    "ai_technical_level": "intermediate",
+    "ai_key_insights": [],
+    "ai_recommended": false,
+    "ai_quote": "",
+    "ai_quote_attribution": "",
+    "ai_enhanced": false
   }
 ]
