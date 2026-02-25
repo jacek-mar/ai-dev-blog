@@ -2464,5 +2464,23 @@
     "ai_quote": "",
     "ai_quote_attribution": "",
     "ai_enhanced": false
+  },
+  {
+    "title": "25, 2026AnnouncementsAnthropic acquires Vercept to advance Claude's computer use capabilities",
+    "link": "https://www.anthropic.com/news/acquires-vercept",
+    "published": "Feb 25, 2026",
+    "author": "Unknown",
+    "source": "Claude",
+    "summary": "People are using Claude for increasingly complex work—writing and running code across entire repositories, synthesizing research from dozens of sources, and managing workflows that span multiple tools and teams. Computer use enables Claude to do all of that inside live applications, the way a person at a keyboard would.",
+    "download_date": "2026-02-25T17:03:32.309181+00:00",
+    "ai_summary": "People are using Claude for increasingly complex work—writing and running code across entire repositories, synthesizing research from dozens of sources, and managing workflows that span multiple tools and teams. Computer use enables Claude to do all of that inside live applications, the way a person",
+    "ai_category": "AI/ML",
+    "ai_topics": [],
+    "ai_technical_level": "intermediate",
+    "ai_key_insights": [],
+    "ai_recommended": false,
+    "ai_quote": "",
+    "ai_quote_attribution": "",
+    "ai_enhanced": false
   }
 ]
