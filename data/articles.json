@@ -2446,5 +2446,23 @@
     "ai_quote": "",
     "ai_quote_attribution": "",
     "ai_enhanced": false
+  },
+  {
+    "title": "GPT-5.3-Codex is Live in Kilo",
+    "link": "https://blog.kilo.ai/p/gpt-53-codex-is-live-in-kilo",
+    "published": "Wed, 25 Feb 2026 12:40:24 GMT",
+    "author": "Ari",
+    "source": "KiloCode",
+    "summary": "Forget everything you knew about “coding models” being specialized, terse, or limited to a terminal. GPT-5.3-Codex was recently made available for developers in OpenAI’s Responses API, and it was live in Kilo within minutes.",
+    "download_date": "2026-02-25T12:53:12.034200+00:00",
+    "ai_summary": "Forget everything you knew about “coding models” being specialized, terse, or limited to a terminal. GPT-5.3-Codex was recently made available for developers in OpenAI’s Responses API, and it was live in Kilo within minutes.",
+    "ai_category": "AI/ML",
+    "ai_topics": [],
+    "ai_technical_level": "intermediate",
+    "ai_key_insights": [],
+    "ai_recommended": false,
+    "ai_quote": "",
+    "ai_quote_attribution": "",
+    "ai_enhanced": false
   }
 ]
