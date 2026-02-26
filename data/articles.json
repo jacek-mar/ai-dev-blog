@@ -2500,5 +2500,23 @@
     "ai_quote": "",
     "ai_quote_attribution": "",
     "ai_enhanced": false
+  },
+  {
+    "title": "A developer's guide to production-ready AI agents",
+    "link": "https://cloud.google.com/blog/products/ai-machine-learning/a-devs-guide-to-production-ready-ai-agents",
+    "published": "",
+    "author": "Unknown",
+    "source": "Google Cloud",
+    "summary": "Technical Solutions Manager Sr. Staff ML Engineer & Founder of Gen AI Intensive, Google Our most intelligent model available yet for complex tasks on Gemini Enterprise and Vertex AI Something has shifted in the developer community over the past year. AI agents have moved from \"interesting research concept\" to \"thing my team is actually building.\" The prototypes are working.",
+    "download_date": "2026-02-26T01:42:06.810876+00:00",
+    "ai_summary": "Technical Solutions Manager Sr. Staff ML Engineer & Founder of Gen AI Intensive, Google Our most intelligent model available yet for complex tasks on Gemini Enterprise and Vertex AI Something has shifted in the developer community over the past year. AI agents have moved from \"interesting research c",
+    "ai_category": "AI/ML",
+    "ai_topics": [],
+    "ai_technical_level": "intermediate",
+    "ai_key_insights": [],
+    "ai_recommended": false,
+    "ai_quote": "",
+    "ai_quote_attribution": "",
+    "ai_enhanced": false
   }
 ]
