@@ -2536,5 +2536,41 @@
     "ai_quote": "",
     "ai_quote_attribution": "",
     "ai_enhanced": false
+  },
+  {
+    "title": "Cloud Agents: The Missing Layer in Your DevOps Pipeline",
+    "link": "https://blog.kilo.ai/p/cloud-agents-the-missing-layer-in",
+    "published": "Thu, 26 Feb 2026 14:03:05 GMT",
+    "author": "Brian Turcotte",
+    "source": "KiloCode",
+    "summary": "Promotion: Claude Sonnet 4.6 is free in Cloud Agents for 48 hours, ending February 28th. Try it now → Platform and DevOps teams have spent years wiring together CI/CD, infrastructure-as-code, observability, and incident management. The detection and notification layers are solid. A drift detection tool flags a mismatch.",
+    "download_date": "2026-02-26T16:52:40.983783+00:00",
+    "ai_summary": "Promotion: Claude Sonnet 4.6 is free in Cloud Agents for 48 hours, ending February 28th. Try it now → Platform and DevOps teams have spent years wiring together CI/CD, infrastructure-as-code, observability, and incident management. The detection and notification layers are solid. A drift detection t",
+    "ai_category": "AI/ML",
+    "ai_topics": [],
+    "ai_technical_level": "intermediate",
+    "ai_key_insights": [],
+    "ai_recommended": false,
+    "ai_quote": "",
+    "ai_quote_attribution": "",
+    "ai_enhanced": false
+  },
+  {
+    "title": "Pro-level image generation gets faster and more accessible with Nano Banana 2",
+    "link": "https://cloud.google.com/blog/products/ai-machine-learning/bringing-nano-banana-2-to-enterprise",
+    "published": "",
+    "author": "Unknown",
+    "source": "Google Cloud",
+    "summary": "VP of Product Management, Vertex AI Today, we’re entering a new and vibrant era of generative creativity with Nano Banana 2. What’s new: Nano Banana 2 is our state-of-the-art image generation and editing model. It delivers Pro-level image generation and editing at the speed you expect from Flash — making the quality, reasoning, and world knowledge you loved about Nano Banana Pro more accessible.",
+    "download_date": "2026-02-26T16:52:41.763070+00:00",
+    "ai_summary": "VP of Product Management, Vertex AI Today, we’re entering a new and vibrant era of generative creativity with Nano Banana 2. What’s new: Nano Banana 2 is our state-of-the-art image generation and editing model. It delivers Pro-level image generation and editing at the speed you expect from Flash — m",
+    "ai_category": "AI/ML",
+    "ai_topics": [],
+    "ai_technical_level": "intermediate",
+    "ai_key_insights": [],
+    "ai_recommended": false,
+    "ai_quote": "",
+    "ai_quote_attribution": "",
+    "ai_enhanced": false
   }
 ]
