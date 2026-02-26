@@ -2518,5 +2518,23 @@
     "ai_quote": "",
     "ai_quote_attribution": "",
     "ai_enhanced": false
+  },
+  {
+    "title": "Mixture of Experts (MoEs) in Transformers",
+    "link": "https://huggingface.co/blog/moe-transformers",
+    "published": "Thu, 26 Feb 2026 00:00:00 GMT",
+    "author": "Unknown",
+    "source": "HuggingFace",
+    "summary": "Over the past few years, scaling dense language models has driven most progress in LLMs. From early models like the original ULMFiT (~30M parameters) or GPT-2 (1.5B parameters, which at the time was considered \"too dangerous to release\" 🧌), and eventually to today’s hundred-billion–parameter systems, the recipe was simple: More data + more parameters gives better performance.",
+    "download_date": "2026-02-26T12:54:18.187538+00:00",
+    "ai_summary": "Over the past few years, scaling dense language models has driven most progress in LLMs. From early models like the original ULMFiT (~30M parameters) or GPT-2 (1.5B parameters, which at the time was considered \"too dangerous to release\" 🧌), and eventually to today’s hundred-billion–parameter systems",
+    "ai_category": "AI/ML",
+    "ai_topics": [],
+    "ai_technical_level": "intermediate",
+    "ai_key_insights": [],
+    "ai_recommended": false,
+    "ai_quote": "",
+    "ai_quote_attribution": "",
+    "ai_enhanced": false
   }
 ]
