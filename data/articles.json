@@ -2572,5 +2572,23 @@
     "ai_quote": "",
     "ai_quote_attribution": "",
     "ai_enhanced": false
+  },
+  {
+    "title": "Serving data from Iceberg lakehouses fast and fresh with Spanner columnar engine",
+    "link": "https://cloud.google.com/blog/products/databases/spanner-columnar-engine-in-preview",
+    "published": "",
+    "author": "Unknown",
+    "source": "Google Cloud",
+    "summary": "Group Product Manager Director of Engineering Our most intelligent model available yet for complex tasks on Gemini Enterprise and Vertex AI The divide between data in operational databases and analytical data lakehouses is disappearing fast.",
+    "download_date": "2026-02-26T20:31:10.157490+00:00",
+    "ai_summary": "Group Product Manager Director of Engineering Our most intelligent model available yet for complex tasks on Gemini Enterprise and Vertex AI The divide between data in operational databases and analytical data lakehouses is disappearing fast.",
+    "ai_category": "AI/ML",
+    "ai_topics": [],
+    "ai_technical_level": "intermediate",
+    "ai_key_insights": [],
+    "ai_recommended": false,
+    "ai_quote": "",
+    "ai_quote_attribution": "",
+    "ai_enhanced": false
   }
 ]
