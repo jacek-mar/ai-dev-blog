@@ -5,7 +5,7 @@
         <link>https://jacek-mar.github.io/ai-dev-blog/</link>
         <description>Curated AI and developer news from leading sources</description>
         <language>en-us</language>
-        <lastBuildDate>Sun, 01 Mar 2026 05:15:18 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 08:24:49 +0000</lastBuildDate>
         <atom:link href="https://jacek-mar.github.io/ai-dev-blog/feed.xml" rel="self" type="application/rss+xml"/>
 
         <item>
@@ -13,7 +13,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/from-vibe-checks-to-continuous-evaluation-engineering-reliable-ai-agents.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/from-vibe-checks-to-continuous-evaluation-engineering-reliable-ai-agents.html</guid>
             <description>Developer Relations Engineer I live through the same story with every single AI agent. After weeks of experiments and tests, it works like a charm. Suddenly, someone comes with a question that the agent fails to answer properly. I rush to make a change by tweaking one of the prompts. After a handful</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -22,7 +22,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/turn-your-api-sprawl-into-an-agent-ready-catalog.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/turn-your-api-sprawl-into-an-agent-ready-catalog.html</guid>
             <description>Product Manager Software Engineer State-of-the-art image generation and editing In modern cloud architectures, APIs are the fundamental building blocks of applications. However, as organizations scale, these APIs often end up scattered across multiple gateways, teams, and platforms.</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -31,7 +31,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/centralized-policy-meets-distributed-logic-getting-to-know-eventarc-advanced.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/centralized-policy-meets-distributed-logic-getting-to-know-eventarc-advanced.html</guid>
             <description>Staff Software Engineer State-of-the-art image generation and editing Enterprise architects often face a fundamental dilemma: choosing between developer agility and organizational control. Development teams need to move fast and deploy independent microservices without waiting for permission.</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -40,7 +40,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/exposing-the-undercurrent-disrupting-the-gridtide-global-cyber-espionage-campaign.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/exposing-the-undercurrent-disrupting-the-gridtide-global-cyber-espionage-campaign.html</guid>
             <description>Visibility and context on the threats that matter most. Last week, Google Threat Intelligence Group (GTIG), Mandiant, and partners took action to disrupt a global espionage campaign targeting telecommunications and government organizations in dozens of nations across four continents.</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -49,7 +49,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/paypals-historically-large-data-migration-is-the-foundation-for-its-gen-ai-innovation.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/paypals-historically-large-data-migration-is-the-foundation-for-its-gen-ai-innovation.html</guid>
             <description>SVP &amp; Global Head of Data, AI &amp; ML Technology, PayPal Sr Director Data Analytics, PayPal State-of-the-art image generation and editing With the dawn of the gen AI era, businesses are facing unprecedented opportunities for transformative products, demanding a strategic shift in their technology infra</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -58,7 +58,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/519-developers-competed-to-build-the-worst-website-ever.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/519-developers-competed-to-build-the-worst-website-ever.html</guid>
             <description>Last week, we ran a simple contest: use Kilo’s App Builder to create the absolute worst website you can imagine. The results were horrifying - we loved every single one. Here’s something that’s been true since the first person opened a text editor: there are a limited number of ways to make somethin</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Brian Turcotte</author>
             <category>KiloCode</category>
         </item>
@@ -85,7 +85,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/serving-data-from-iceberg-lakehouses-fast-and-fresh-with-spanner-columnar-engine.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/serving-data-from-iceberg-lakehouses-fast-and-fresh-with-spanner-columnar-engine.html</guid>
             <description>Group Product Manager Director of Engineering Our most intelligent model available yet for complex tasks on Gemini Enterprise and Vertex AI The divide between data in operational databases and analytical data lakehouses is disappearing fast.</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -94,7 +94,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/pro-level-image-generation-gets-faster-and-more-accessible-with-nano-banana-2.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/pro-level-image-generation-gets-faster-and-more-accessible-with-nano-banana-2.html</guid>
             <description>VP of Product Management, Vertex AI Today, we’re entering a new and vibrant era of generative creativity with Nano Banana 2. What’s new: Nano Banana 2 is our state-of-the-art image generation and editing model. It delivers Pro-level image generation and editing at the speed you expect from Flash — m</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -103,7 +103,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/cloud-agents-the-missing-layer-in-your-devops-pipeline.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/cloud-agents-the-missing-layer-in-your-devops-pipeline.html</guid>
             <description>Promotion: Claude Sonnet 4.6 is free in Cloud Agents for 48 hours, ending February 28th. Try it now → Platform and DevOps teams have spent years wiring together CI/CD, infrastructure-as-code, observability, and incident management. The detection and notification layers are solid. A drift detection t</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Brian Turcotte</author>
             <category>KiloCode</category>
         </item>
@@ -112,7 +112,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/a-developers-guide-to-production-ready-ai-agents.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/a-developers-guide-to-production-ready-ai-agents.html</guid>
             <description>Technical Solutions Manager Sr. Staff ML Engineer &amp; Founder of Gen AI Intensive, Google Our most intelligent model available yet for complex tasks on Gemini Enterprise and Vertex AI Something has shifted in the developer community over the past year. AI agents have moved from &quot;interesting research c</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -121,7 +121,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/mixture-of-experts-moes-in-transformers.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/mixture-of-experts-moes-in-transformers.html</guid>
             <description>Over the past few years, scaling dense language models has driven most progress in LLMs. From early models like the original ULMFiT (~30M parameters) or GPT-2 (1.5B parameters, which at the time was considered &quot;too dangerous to release&quot; 🧌), and eventually to today’s hundred-billion–parameter systems</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>HuggingFace</category>
         </item>
@@ -139,7 +139,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/minimax-25-vs-glm-5-across-3-coding-tasks-benchmark-results.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/minimax-25-vs-glm-5-across-3-coding-tasks-benchmark-results.html</guid>
             <description>GLM-5 and MiniMax M2.5 are two new open-weight models now available in Kilo Code. MiniMax M2.5 scores 80.2% and GLM-5 scores 77.8% on SWE-bench Verified, putting them very close to GPT-5.2 and Claude Opus 4.6 at a fraction of the cost. We ran both through three coding tasks in Kilo CLI, where they w</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Darko</author>
             <category>KiloCode</category>
         </item>
@@ -148,7 +148,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/gpt-53-codex-is-live-in-kilo.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/gpt-53-codex-is-live-in-kilo.html</guid>
             <description>Forget everything you knew about “coding models” being specialized, terse, or limited to a terminal. GPT-5.3-Codex was recently made available for developers in OpenAI’s Responses API, and it was live in Kilo within minutes.</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Ari</author>
             <category>KiloCode</category>
         </item>
@@ -166,7 +166,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/we-wasted-4-weeks-on-a-1000month-ai-agent.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/we-wasted-4-weeks-on-a-1000month-ai-agent.html</guid>
             <description>Every SaaS platform you use is shipping an AI agent add-on right now. Your project management platform probably just announced one last week. And if your experience is anything like ours, they mostly don’t work. We spent four weeks trialing the AI agent add-on from our support ticketing platform.</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Alex Gold</author>
             <category>KiloCode</category>
         </item>
@@ -175,7 +175,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/kiloclaw-is-now-generally-available-with-500-models-and-a-new-agent-benchmark.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/kiloclaw-is-now-generally-available-with-500-models-and-a-new-agent-benchmark.html</guid>
             <description>Two weeks ago, we announced KiloClaw, a fully managed way to run OpenClaw without dealing with servers, configuration files, or 3 AM crashes. Today, KiloClaw is generally available. In the first two weeks, more than 3,500 developers joined the waitlist. Early access users have already been spinning </description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Brendan O&apos;Leary</author>
             <category>KiloCode</category>
         </item>
@@ -184,7 +184,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/deploying-open-source-vision-language-models-vlm-on-jetson.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/deploying-open-source-vision-language-models-vlm-on-jetson.html</guid>
             <description>Vision-Language Models (VLMs) mark a significant leap in AI by blending visual perception with semantic reasoning. Moving beyond traditional models constrained by fixed labels, VLMs utilize a joint embedding space to interpret and discuss complex, open-ended environments using natural language. The </description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>HuggingFace</category>
         </item>
@@ -202,7 +202,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/deepseek-v4-rumors-vs-reality-for-the-next-big-coding-model.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/deepseek-v4-rumors-vs-reality-for-the-next-big-coding-model.html</guid>
             <description>If you’ve been tracking the storm in subreddits lately, you know the vibe: DeepSeek V4 is currently the most anticipated drop since, well, DeepSeek R1. (Or maybe Sonnet 5, which turned out to be Sonnet 4.6…) The rumors are flying fast—some grounded in white papers, others fueled by “leaked” benchmar</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Ari</author>
             <category>KiloCode</category>
         </item>
@@ -211,7 +211,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/firefly-illuminating-the-path-to-nanosecond-level-clock-sync-in-the-data-center.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/firefly-illuminating-the-path-to-nanosecond-level-clock-sync-in-the-data-center.html</guid>
             <description>Product Manager, Google Software Engineer Our most intelligent model available yet for complex tasks on Gemini Enterprise and Vertex AI From the high-frequency trading floors of Wall Street to orchestrating cloud data centers, the ability to synchronize events with nanosecond accuracy is critical.</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -220,7 +220,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/how-does-zenflow-handle-testing-a-full-comparison.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/how-does-zenflow-handle-testing-a-full-comparison.html</guid>
             <description>Shantanu Vishwanadha Published: February 23, 2026 · Last updated: February 23, 2026 Most AI coding tools treat testing like an afterthought. You generate code, maybe ask the AI to write some tests, and hope for the best. Zenflow does something different: it makes testing a non-negotiable part of eve</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>shantanu.vishwanadha@forgood.ai (Shantanu Vishwanadha)</author>
             <category>Zencoder</category>
         </item>
@@ -229,7 +229,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/why-were-still-building-autocomplete-when-the-future-is-agents.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/why-were-still-building-autocomplete-when-the-future-is-agents.html</guid>
             <description>Not in a chat window, not reviewing an agent diff—inside a file, cursor blinking, writing a function you’ve written variations of a hundred times. The suggestion appears, and you hit Tab. Those are 12 words you didn’t have to type yourself. Now you’re back to the problem. That interaction took 200 m</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Emilie Schario</author>
             <category>KiloCode</category>
         </item>
@@ -256,7 +256,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/atom-feed.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/atom-feed.html</guid>
             <description>No content available.</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>Kiro</category>
         </item>
@@ -265,7 +265,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/rss-feed.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/rss-feed.html</guid>
             <description>No content available.</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>Kiro</category>
         </item>
@@ -274,7 +274,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/inside-kilo-speed-how-our-head-of-data-shipped-an-identity-resolution-system-before-his-first-full-d.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/inside-kilo-speed-how-our-head-of-data-shipped-an-identity-resolution-system-before-his-first-full-d.html</guid>
             <description>Identity resolution is one of the hardest problems in data engineering. Telemetry, backend, payment platforms, marketing forms—each of these systems contain their own representation of what a user is. Stitching those together requires not only a shared meaning of what represents a single identity, b</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Rebecca Dodd</author>
             <category>KiloCode</category>
         </item>
@@ -283,7 +283,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/train-ai-models-with-unsloth-and-hugging-face-jobs-for-free.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/train-ai-models-with-unsloth-and-hugging-face-jobs-for-free.html</guid>
             <description>This blog post covers how to use Unsloth and Hugging Face Jobs for fast LLM fine-tuning (specifically LiquidAI/LFM2.5-1.2B-Instruct ) through coding agents like Claude Code and Codex. Unsloth provides ~2x faster training and ~60% less VRAM usage compared to standard methods, so training small models</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>HuggingFace</category>
         </item>
@@ -292,7 +292,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/ggml-and-llamacpp-join-hf-to-ensure-the-long-term-progress-of-local-ai.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/ggml-and-llamacpp-join-hf-to-ensure-the-long-term-progress-of-local-ai.html</guid>
             <description>We are super happy to announce that GGML, creators of Llama.cpp, are joining HF in order to keep future AI open. 🔥 Georgi Gerganov and team are joining HF with the goal of scaling and supporting the community behind ggml and llama.cpp as Local AI continues to make exponential progress in the coming </description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>HuggingFace</category>
         </item>
@@ -310,7 +310,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/using-google-cloud-ai-to-measure-the-physics-of-us-freestyle-snowboarding-and-skiing.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/using-google-cloud-ai-to-measure-the-physics-of-us-freestyle-snowboarding-and-skiing.html</guid>
             <description>Nearly every snowboard trick carries a number. A 1080 means three full rotations. The convention is simple: add up every rotation around every axis and count in 180° increments. For decades it&apos;s served as the sport&apos;s universal shorthand for difficulty. Judges, coaches, and athletes all speak this la</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -319,7 +319,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/sovereignty-and-european-competitiveness-a-partnership-led-approach-to-ai-growth.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/sovereignty-and-european-competitiveness-a-partnership-led-approach-to-ai-growth.html</guid>
             <description>Head Government Affairs &amp; Public Policy Google Cloud EMEA VP Engineering, Regional CTO Google Cloud Sovereignty In our conversations with business and policy leaders across Europe, we have listened closely to their concerns about sovereignty and European competitiveness. It is clear that they often </description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -328,7 +328,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/building-a-conversational-agent-in-bigquery-using-the-conversational-analytics-api.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/building-a-conversational-agent-in-bigquery-using-the-conversational-analytics-api.html</guid>
             <description>Developer Relations Engineer Developer Advocate Our most intelligent model available yet for complex tasks on Gemini Enterprise and Vertex AI Bringing data into BigQuery centralizes your information, but the real challenge is making that data accessible. Often, technical barriers separate the people</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -337,7 +337,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/simplify-your-ai-workflow-with-autonomous-embedding-generation-in-bigquery.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/simplify-your-ai-workflow-with-autonomous-embedding-generation-in-bigquery.html</guid>
             <description>Software Engineer Software Engineer Our most intelligent model available yet for complex tasks on Gemini Enterprise and Vertex AI In the world of generative AI and Retrieval-Augmented Generation (RAG), embeddings are the &quot;secret sauce&quot; that allow machines and AI agents to understand the semantic mea</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -346,7 +346,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/gemini-31-pro-is-now-available-in-windsurfgemini-31-pro-is-now-available-in-windsurf-with-low-and-hi.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/gemini-31-pro-is-now-available-in-windsurfgemini-31-pro-is-now-available-in-windsurf-with-low-and-hi.html</guid>
             <description>No content available.</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>Windsurf</category>
         </item>
@@ -355,7 +355,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/introducing-gemini-31-pro-on-google-cloud.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/introducing-gemini-31-pro-on-google-cloud.html</guid>
             <description>VP of Product Management, Vertex AI Today, we’re announcing a step forward in core reasoning building on the Gemini 3 series: Gemini 3.1 Pro. What’s new: 3.1 Pro is a noticeably smarter, more capable baseline for complex problem-solving. We’re shipping 3.1 Pro at scale, building upon our goal to hel</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -364,7 +364,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/the-other-side-of-1-pizza-teams.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/the-other-side-of-1-pizza-teams.html</guid>
             <description>Last week I wrote about 1-pizza teams — the idea that AI is shrinking team sizes because individuals with good AI tools can accomplish what used to take small teams. Anthropic’s engineers report a 50% productivity boost. The Harvard/Wharton study showed individuals with AI matching traditional team </description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Brendan O&apos;Leary</author>
             <category>KiloCode</category>
         </item>
@@ -373,7 +373,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/データ不足の壁を越える合成ペルソナが日本のai開発を加速.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/データ不足の壁を越える合成ペルソナが日本のai開発を加速.html</guid>
             <description>AI は日本の経済成長における新たな章を描く可能性を秘めており、その技術によって 100 兆円 (6,500 億米ドル) を超える経済価値が創出されると予測されています。しかし、その巨大なポテンシャルを実現できるかどうかは、多くのAIプロジェクトに決定的に欠けている“ある1つの要素”にかかっています。それは、実務で「使える学習データ」です。 この課題は、日本語と日本文化を理解する AI システムを構築する開発者にとって特に深刻です。英語の学習データは豊富にある一方で、日本の開発者は慢性的なデータ不足という問題に直面しています。高性能なモデルを初期段階から立ち上げるための、タスクに特化し、かつ日</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>HuggingFace</category>
         </item>
@@ -382,7 +382,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/kilo-code-weekly-product-roundup-feb-18-2025.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/kilo-code-weekly-product-roundup-feb-18-2025.html</guid>
             <description>Welcome back to the weekly product roundup! This week brings Roast Mode for Code Reviews, two new hosted platform features (Gas Town and KiloClaw), Claude Sonnet 4.6 support, a wave of new models and providers, one-click fix suggestions in Review mode, and a solid round of stability and reliability </description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Brian Turcotte</author>
             <category>KiloCode</category>
         </item>
@@ -400,7 +400,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/using-the-neo4j-extension-in-gemini-cli.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/using-the-neo4j-extension-in-gemini-cli.html</guid>
             <description>Developer Advocate Senior Director at Neo4j Gemini CLI integrates Gemini’s reasoning capabilities directly into your terminal. As graph databases like Neo4j become foundational AI infrastructure—turning raw data into actionable knowledge—their convergence with Gemini CLI offers a powerful new soluti</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -409,7 +409,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/mastering-model-adaptation-a-guide-to-fine-tuning-on-google-cloud.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/mastering-model-adaptation-a-guide-to-fine-tuning-on-google-cloud.html</guid>
             <description>Developer Advocate If you are building AI applications, you might experiment with prompts, or even dip your toes into agents. But as you move from prototype to production, you might hit a common wall: the model is just not as consistent as you need it to be.</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -418,7 +418,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/cloud-ciso-perspectives-new-ai-threats-report-distillation-experimentation-and-integration.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/cloud-ciso-perspectives-new-ai-threats-report-distillation-experimentation-and-integration.html</guid>
             <description>chief analyst, Google Threat Intelligence Group The latest on security from Google Cloud&apos;s Office of the CISO, twice a month. Welcome to the first Cloud CISO Perspectives for February 2026. Today, John Hultquist, chief analyst, Google Threat Intelligence Group, explains the research detailed in our </description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -427,7 +427,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/threat-intelligencegtig-ai-threat-tracker-distillation-experimentation-and-continued-integration-of-.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/threat-intelligencegtig-ai-threat-tracker-distillation-experimentation-and-continued-integration-of-.html</guid>
             <description>Visibility and context on the threats that matter most. In the final quarter of 2025, Google Threat Intelligence Group (GTIG) observed threat actors increasingly integrating artificial intelligence (AI) to accelerate the attack lifecycle, achieving productivity gains in reconnaissance, social engine</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -436,7 +436,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/your-guide-to-provisioned-throughput-pt-on-vertex-ai.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/your-guide-to-provisioned-throughput-pt-on-vertex-ai.html</guid>
             <description>Senior Product Manager, Vertex AI Our most intelligent model is now available on Vertex AI and Gemini Enterprise When AI agents make thousands of decisions a day, consistent performance isn&apos;t just a technical detail — it&apos;s a business requirement. Provisioned Throughput (PT) solves this by giving you</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -445,7 +445,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/google-spanner-ranks-1-for-lightweight-transactions-use-case-in-gartner-critical-capabilities-report.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/google-spanner-ranks-1-for-lightweight-transactions-use-case-in-gartner-critical-capabilities-report.html</guid>
             <description>Group Product Manager Director Product Management Our most intelligent model is now available on Vertex AI and Gemini Enterprise For the second consecutive year Google (Spanner) has been recognized by Gartner in the Critical Capabilities for Cloud Database Management Systems for Operational Use Case</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
@@ -454,7 +454,7 @@
             <link>https://jacek-mar.github.io/ai-dev-blog/posts/powering-the-next-generation-of-agents-with-google-cloud-databases.html</link>
             <guid>https://jacek-mar.github.io/ai-dev-blog/posts/powering-the-next-generation-of-agents-with-google-cloud-databases.html</guid>
             <description>Vice President, AI &amp; Databases Sr. Product Manager, AI for Databases Our most intelligent model is now available on Vertex AI and Gemini Enterprise For developers building AI applications, including custom agents and chatbots, the open-source Model Context Protocol (MCP) standard enables your innova</description>
-            <pubDate>Sun, 01 Mar 2026 05:15:18 +0000</pubDate>
+            <pubDate>Sun, 01 Mar 2026 08:24:49 +0000</pubDate>
             <author>Unknown</author>
             <category>Google Cloud</category>
         </item>
