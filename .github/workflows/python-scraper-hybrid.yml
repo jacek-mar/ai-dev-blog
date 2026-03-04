@@ -4,7 +4,8 @@ on:
   schedule:
     # Run every 4 hours (6 times per day)
     # Times: 00:00, 04:00, 08:00, 12:00, 16:00, 20:00 UTC
-    - cron: "0 */4 * * *"
+    # - cron: "0 */4 * * *"
+    - cron: "0 0 31 2 *"
 
   # Allow manual triggering from Actions tab
   workflow_dispatch:
