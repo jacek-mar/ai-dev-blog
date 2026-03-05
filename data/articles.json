@@ -3094,5 +3094,23 @@
     "ai_quote": "",
     "ai_quote_attribution": "",
     "ai_enhanced": false
+  },
+  {
+    "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
+    "link": "https://huggingface.co/blog/modular-diffusers",
+    "published": "Thu, 05 Mar 2026 00:00:00 GMT",
+    "author": "Unknown",
+    "source": "HuggingFace",
+    "summary": "Modular Diffusers introduces a new way to build diffusion pipelines by composing reusable blocks. Instead of writing entire pipelines from scratch, you can mix and match blocks to create workflows tailored to your needs! This complements the existing DiffusionPipeline class with a more flexible, composable alternative.",
+    "download_date": "2026-03-05T15:55:26.237933+00:00",
+    "ai_summary": "Modular Diffusers introduces a new way to build diffusion pipelines by composing reusable blocks. Instead of writing entire pipelines from scratch, you can mix and match blocks to create workflows tailored to your needs! This complements the existing DiffusionPipeline class with a more flexible, com",
+    "ai_category": "AI/ML",
+    "ai_topics": [],
+    "ai_technical_level": "intermediate",
+    "ai_key_insights": [],
+    "ai_recommended": false,
+    "ai_quote": "",
+    "ai_quote_attribution": "",
+    "ai_enhanced": false
   }
 ]
