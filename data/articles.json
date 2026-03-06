@@ -3256,5 +3256,23 @@
     "ai_quote": "",
     "ai_quote_attribution": "",
     "ai_enhanced": false
+  },
+  {
+    "title": "6, 2026PolicyPartnering with Mozilla to improve Firefox’s security",
+    "link": "https://www.anthropic.com/news/mozilla-firefox-security",
+    "published": "Mar 6, 2026",
+    "author": "Unknown",
+    "source": "Claude",
+    "summary": "AI models can now independently identify high-severity vulnerabilities in complex software. As we recently documented, Claude found more than 500 zero-day vulnerabilities (security flaws that are unknown to the software’s maintainers) in well-tested open-source software.",
+    "download_date": "2026-03-06T10:49:52.620502+00:00",
+    "ai_summary": "AI models can now independently identify high-severity vulnerabilities in complex software. As we recently documented, Claude found more than 500 zero-day vulnerabilities (security flaws that are unknown to the software’s maintainers) in well-tested open-source software.",
+    "ai_category": "AI/ML",
+    "ai_topics": [],
+    "ai_technical_level": "intermediate",
+    "ai_key_insights": [],
+    "ai_recommended": false,
+    "ai_quote": "",
+    "ai_quote_attribution": "",
+    "ai_enhanced": false
   }
 ]
