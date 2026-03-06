@@ -3238,5 +3238,23 @@
     "ai_quote": "",
     "ai_quote_attribution": "",
     "ai_enhanced": false
+  },
+  {
+    "title": "things stand with the Department of WarAnnouncementsA statement from Dario Amodei.",
+    "link": "https://www.anthropic.com/news/where-stand-department-war",
+    "published": "Mar 5, 2026",
+    "author": "Unknown",
+    "source": "Claude",
+    "summary": "A statement from Dario Amodei Yesterday (March 4) Anthropic received a letter from the Department of War confirming that we have been designated as a supply chain risk to America’s national security. As we wrote on Friday, we do not believe this action is legally sound, and we see no choice but to challenge it in court.",
+    "download_date": "2026-03-06T01:44:28.514419+00:00",
+    "ai_summary": "A statement from Dario Amodei Yesterday (March 4) Anthropic received a letter from the Department of War confirming that we have been designated as a supply chain risk to America’s national security. As we wrote on Friday, we do not believe this action is legally sound, and we see no choice but to c",
+    "ai_category": "AI/ML",
+    "ai_topics": [],
+    "ai_technical_level": "intermediate",
+    "ai_key_insights": [],
+    "ai_recommended": false,
+    "ai_quote": "",
+    "ai_quote_attribution": "",
+    "ai_enhanced": false
   }
 ]
